@@ -23,8 +23,6 @@
 - ---
 - Status: #🌱 
 - Tags:
-- Links:
-- References:
 
 # Backlinks
 ## [API-Design](<API-Design.md>)

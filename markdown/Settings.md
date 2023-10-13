@@ -1,0 +1,18 @@
+- template config
+    - [[Templates]]
+    - [[roam/templates]]: 用來設定哪個內容為template
+        - syntax
+        - ```javascript
+```
+- roam research inline javascript
+    - [[roam/js]]
+- memorization plugin setting for recording review
+    - [[roam/memo]]
+    - [[Quiz]]
+    - [[grade]]
+    - [[repetitions]]
+    - [[interval]]
+    - [[eFactor]]
+    - [[nextDueDate]]
+    - [[lastCompletedDate]]
+- 

@@ -23,5 +23,3 @@
 - ---
 - Status: #🌱 
 - Tags:
-- Links:
-- References:
