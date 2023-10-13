@@ -1,5 +1,3 @@
-- 
-- 
 - Notes [roam/templates](<roam/templates.md>)
     - ---
     - ---

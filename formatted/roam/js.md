@@ -43,8 +43,7 @@ const metadata = [];
 
 	return metadata;
 }```
-- ```javascript
-```
+- tags: [Settings](<../Settings.md>)
 
 # Backlinks
 ## [Settings](<Settings.md>)

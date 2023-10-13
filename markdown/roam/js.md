@@ -43,5 +43,4 @@ const metadata = [];
 
 	return metadata;
 }```
-- ```javascript
-```
+- tags: [[Settings]]

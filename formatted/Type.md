@@ -1,3 +1,4 @@
+- tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
 ## [@creativeUnderscoreAllowedURL](<@creativeUnderscoreAllowedURL.md>)
@@ -7,4 +8,7 @@
 ## [@pandaWangZhiUrlsYingGaiYongDuanHengXiana](<@pandaWangZhiUrlsYingGaiYongDuanHengXiana.md>)
 - **[Author(s)](<Author(s).md>):** panda
 - **[Type](<Type.md>):**
+
+## [Settings](<Settings.md>)
+- [Type](<Type.md>)
 
