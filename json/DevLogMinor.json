@@ -83,6 +83,11 @@
     },
     "children": [
       {
+        ":block/refs": [
+          {
+            ":block/uid": "C3Nse4TbE"
+          }
+        ],
         ":create/user": {
           ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
         },
@@ -90,8 +95,13 @@
           ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
         },
         "create-time": 1697145743282,
-        "edit-time": 1697145965843,
-        "string": " ",
+        "edit-time": 1697229142199,
+        "refs": [
+          {
+            "uid": "C3Nse4TbE"
+          }
+        ],
+        "string": " [[@creativeUnderscoreAllowedURL]]",
         "uid": "u7YGIR5Va"
       },
       {
@@ -131,6 +141,11 @@
         "uid": "-F_tudLL_"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "F9KFPtiql"
+          }
+        ],
         ":create/user": {
           ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
         },
@@ -138,8 +153,13 @@
           ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
         },
         "create-time": 1697052539042,
-        "edit-time": 1697052539042,
-        "string": "",
+        "edit-time": 1697229162587,
+        "refs": [
+          {
+            "uid": "F9KFPtiql"
+          }
+        ],
+        "string": "[[@pandaWangZhiUrlsYingGaiYongDuanHengXiana]]",
         "uid": "I6arJ75H5"
       },
       {
@@ -197,22 +217,10 @@
         ":edit/user": {
           ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
         },
-        "create-time": 1697052544160,
-        "edit-time": 1697052544160,
+        "create-time": 1697229168877,
+        "edit-time": 1697229168877,
         "string": "",
-        "uid": "_xFpcxxr9"
-      },
-      {
-        ":create/user": {
-          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-        },
-        ":edit/user": {
-          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-        },
-        "create-time": 1697052544315,
-        "edit-time": 1697052544315,
-        "string": "",
-        "uid": "Pwpka8hMt"
+        "uid": "0mHBRq0qZ"
       },
       {
         ":create/user": {
@@ -930,22 +938,56 @@
         ":edit/user": {
           ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
         },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "F9KFPtiql"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1697142223721,
+            "edit-time": 1697229091110,
+            "refs": [
+              {
+                "uid": "F9KFPtiql"
+              }
+            ],
+            "string": "[[@pandaWangZhiUrlsYingGaiYongDuanHengXiana]]",
+            "uid": "qoi3esNOr"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "C3Nse4TbE"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1697229098663,
+            "edit-time": 1697229130117,
+            "refs": [
+              {
+                "uid": "C3Nse4TbE"
+              }
+            ],
+            "string": "[[@creativeUnderscoreAllowedURL]]",
+            "uid": "bUQc3j1oG"
+          }
+        ],
         "create-time": 1697058657797,
         "edit-time": 1697142223725,
         "string": "bib list: ",
         "uid": "ihlRQikCm"
-      },
-      {
-        ":create/user": {
-          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-        },
-        ":edit/user": {
-          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-        },
-        "create-time": 1697142223721,
-        "edit-time": 1697142223721,
-        "string": "",
-        "uid": "qoi3esNOr"
       }
     ],
     "create-time": 1697058464083,
@@ -1170,5 +1212,142 @@
     "edit-time": 1697147419052,
     "title": "Title",
     "uid": "P7RaiWlD6"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":log/id": 1697229004388,
+    "create-time": 1697229004388,
+    "edit-time": 1697229004388,
+    "title": "October 14th, 2023",
+    "uid": "10-14-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1697229059005,
+        "edit-time": 1697229059005,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: \u7db2\u5740 Urls \u61c9\u8a72\u7528\u77ed\u6a6b\u7dda\uff08dash\uff09\u9084\u662f\u5e95\u7dda\uff08Underscore\uff09\uff1fSEO \u89c0\u5ff5\u6559\u5b78 - \u8c93\u718a\u5148\u751f",
+        "uid": "hy41lT_c1"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "_T92I7_qg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1697229058999,
+        "edit-time": 1697229058999,
+        "refs": [
+          {
+            "uid": "_T92I7_qg"
+          }
+        ],
+        "string": "Author(s):: panda",
+        "uid": "mmlDAurBD"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1697229058990,
+        "edit-time": 1697229058990,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Webpage",
+        "uid": "R5cMzB2gr"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1697229058984,
+        "edit-time": 1697229058984,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: https://www.seo-panda.tw/urls-use-dash-or-underscore-202112/",
+        "uid": "jJBQMeckI"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1697229058976,
+        "edit-time": 1697229058976,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/364NFN85)",
+        "uid": "zbbzX9i9Q"
+      }
+    ],
+    "create-time": 1697229058974,
+    "edit-time": 1697229058974,
+    "title": "@pandaWangZhiUrlsYingGaiYongDuanHengXiana",
+    "uid": "F9KFPtiql"
   }
 ]

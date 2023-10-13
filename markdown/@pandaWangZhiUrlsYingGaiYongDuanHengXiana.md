@@ -1,0 +1,5 @@
+- Title:: 網址 Urls 應該用短橫線（dash）還是底線（Underscore）？SEO 觀念教學 - 貓熊先生
+- Author(s):: panda
+- Type:: Webpage
+- Source:: https://www.seo-panda.tw/urls-use-dash-or-underscore-202112/
+- Zotero link:: [Local library](zotero://select/library/items/364NFN85)
