@@ -1,0 +1,12 @@
+- ### data
+    - #Quiz 理論上當URL端點會是 A-B 或者 A_B時，其中A和B為不同的單字，那麼伺服器、瀏覽器能正常解讀他們嗎 
+        - [[October 12th, 2023]] 🔵
+            - nextDueDate:: [[October 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+- ### cache
+    - [[Quiz]]
+        - lastCompletedDate:: October 12th, 2023
+        - lastCompletedDate: October 12th, 2023
