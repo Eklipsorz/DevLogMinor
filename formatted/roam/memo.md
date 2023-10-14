@@ -15,3 +15,25 @@
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
     - [Quiz](<../Quiz.md>)
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
+- 
+- tags: [Settings](<../Settings.md>)
+
+# Backlinks
+## [eFactor](<eFactor.md>)
+- tags: [Settings](<../Settings.md>), [roam/memo](<../roam/memo.md>)
+
+## [grade](<grade.md>)
+- tags: [Settings](<../Settings.md>), [roam/memo](<../roam/memo.md>)
+
+## [interval](<interval.md>)
+- tags: [Settings](<../Settings.md>), [roam/memo](<../roam/memo.md>)
+
+## [lastCompletedDate](<lastCompletedDate.md>)
+- tags: [Settings](<../Settings.md>), [roam/memo](<../roam/memo.md>)
+
+## [nextDueDate](<nextDueDate.md>)
+- tags: [Settings](<../Settings.md>), [roam/memo](<../roam/memo.md>)
+
+## [repetitions](<repetitions.md>)
+- tags: [Settings](<../Settings.md>), [roam/memo](<../roam/memo.md>)
+

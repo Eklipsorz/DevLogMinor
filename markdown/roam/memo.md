@@ -15,3 +15,5 @@
         - lastCompletedDate:: October 14th, 2023
     - [[Quiz]]
         - lastCompletedDate:: October 14th, 2023
+- 
+- tags: [[Settings]]

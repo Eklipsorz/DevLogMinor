@@ -1,4 +1,4 @@
-- tags: [Settings](<Settings.md>), roam/memo
+- tags: [Settings](<Settings.md>), [roam/memo](<roam/memo.md>)
 
 # Backlinks
 ## [Settings](<Settings.md>)

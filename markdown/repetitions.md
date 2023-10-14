@@ -1,1 +1,1 @@
-- tags: [[Settings]], roam/memo
+- tags: [[Settings]], [[roam/memo]]
