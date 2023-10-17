@@ -3350,5 +3350,18 @@
     "edit-time": 1697416738698,
     "title": "October 16th, 2023",
     "uid": "10-16-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":log/id": 1697503099139,
+    "create-time": 1697503099141,
+    "edit-time": 1697503099141,
+    "title": "October 17th, 2023",
+    "uid": "10-17-2023"
   }
 ]
