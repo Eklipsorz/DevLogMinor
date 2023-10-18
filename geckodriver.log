@@ -5988,3 +5988,68 @@ console.error: ({})
 JavaScript warning: https://browser.sentry-cdn.com/7.74.1/bundle.es5.min.js, line 2: Script terminated by timeout at:
 sentryWrapped@https://browser.sentry-cdn.com/7.74.1/bundle.es5.min.js:2:53141
 
+1697641718114	geckodriver	INFO	Listening on 127.0.0.1:40343
+1697641718882	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilecRHGby"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1697641734779	Marionette	INFO	Marionette enabled
+1697641737034	Marionette	INFO	Listening on port 35459
+Read port: 35459
+1697641738434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 565))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 565))
+JavaScript error: resource:///modules/FaviconLoader.sys.mjs, line 580: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.sys.mjs, line 580: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[Parent 1835, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-Wmj0wN/firefox-118.0.2+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1835): GLib-GObject-CRITICAL **: 15:09:22.699: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1697641764680	Marionette	INFO	Stopped listening on port 35459
+JavaScript warning: https://browser.sentry-cdn.com/7.74.1/bundle.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.74.1/bundle.es5.min.js:2:53141
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1697641765961	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: null, errorCode: 5, reason: error
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1697641766238	geckodriver	INFO	Listening on 127.0.0.1:40457
+1697641767247	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile8STLTV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1697641767551	Marionette	INFO	Marionette enabled
+1697641767635	Marionette	INFO	Listening on port 43973
+Read port: 43973
+1697641767837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2569, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-Wmj0wN/firefox-118.0.2+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2569): GLib-GObject-CRITICAL **: 15:09:46.857: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1697641788698	Marionette	INFO	Stopped listening on port 43973
+JavaScript warning: https://browser.sentry-cdn.com/7.74.1/bundle.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.74.1/bundle.es5.min.js:2:53141
+
+1697641789600	geckodriver	INFO	Listening on 127.0.0.1:39435
+1697641789607	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileXXSKu2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1697641789902	Marionette	INFO	Marionette enabled
+1697641789985	Marionette	INFO	Listening on port 43361
+Read port: 43361
+1697641790182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 3041, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-Wmj0wN/firefox-118.0.2+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3041): GLib-GObject-CRITICAL **: 15:10:09.731: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1697641811774	Marionette	INFO	Stopped listening on port 43361
+JavaScript warning: https://js.intercomcdn.com/vendors~sentry.beb3b412.js, line 2: Script terminated by timeout at:
+u@https://js.intercomcdn.com/vendors~sentry.beb3b412.js:2:5019
+
