@@ -39,22 +39,27 @@
     - `單字間使用下底線來相連`
 - 
 - #Quiz Camel Case 是什麼樣的命名法則 
-    -  `單字間不用任何符號，而是以單字的首字為大寫，其餘則為小寫，但根據第一個單字的首字是否為大寫而區分為Lower Camel Case以及Upper Camel Case`
-    - w
-- #🧠 Spinal Case 是什麼樣的命名法則 ->->-> `單字間使用連字號來相連`
-- <!--SR:!2023-11-29,155,250-->
-- #🧠 Dot Notation Case 是什麼樣的命名法則 ->->-> `單字間使用點字號來相連`
-- <!--SR:!2024-02-28,210,250-->
-- #🧠 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Snake Case命名->->-> `http://api.example.com/v1/users/12345/statuses/user_timeline`
-- <!--SR:!2023-12-20,164,250-->
-- #🧠 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Spinal Case命名->->-> `http://api.example.com/v1/users/12345/statuses/user-timeline`
-- <!--SR:!2023-12-23,173,250-->
-- #🧠 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Lower Camel Case命名->->-> `http://api.example.com/v1/users/12345/statuses/userTimeline`
-- <!--SR:!2023-12-29,173,250-->
-- #🧠 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Upper Camel Case命名->->-> `http://api.example.com/v1/users/12345/statuses/UserTimeline`
-- <!--SR:!2023-10-25,120,230-->
-- #🧠 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Dot Notation Case命名->->-> `http://api.example.com/v1/users/12345/statuses/user.timeline`
-- <!--SR:!2024-04-03,232,250-->
+    - `單字間不用任何符號，而是以單字的首字為大寫，其餘則為小寫，但根據第一個單字的首字是否為大寫而區分為Lower Camel Case以及Upper Camel Case`
+    - 
+- #Quiz Spinal Case 是什麼樣的命名法則 
+    - `單字間使用連字號來相連`
+- #Quiz Dot Notation Case 是什麼樣的命名法則 
+    - `單字間使用點字號來相連`
+- #Quiz 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Snake Case命名
+    -  `http://api.example.com/v1/users/12345/statuses/user_timeline`
+    - 
+- #Quiz 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Spinal Case命名
+    -  `http://api.example.com/v1/users/12345/statuses/user-timeline`
+- 
+- #Quiz 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Lower Camel Case命名
+    -  `http://api.example.com/v1/users/12345/statuses/userTimeline`
+- 
+- #Quiz 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Upper Camel Case命名
+    -  `http://api.example.com/v1/users/12345/statuses/UserTimeline`
+- 
+- #🧠 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Dot Notation Case命名
+    -  `http://api.example.com/v1/users/12345/statuses/user.timeline`
+- 
 - ---
 - tags: [[API-Design]]
 - 

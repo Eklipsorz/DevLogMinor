@@ -1,0 +1,6 @@
+- Title:: 你的REST不是REST？
+- Author(s):: 林信良
+- Abstract:: REST並不是陌生的概念，然而知道嗎？Roy Fielding曾經提過「HATEOAS並不是選項，REST必須實現這個約束，不然就不是在做REST！」
+- Type:: Webpage
+- Source:: https://www.ithome.com.tw/voice/128528
+- Zotero link:: [Local library](zotero://select/library/items/KVGPHHJS)

@@ -1,0 +1,6 @@
+- Title:: 網址 URL 英文大小寫是否有差別？
+- Author(s):: G. T. Wang
+- Abstract:: 有些人會對於網址的英文大小寫問題有些混淆，搞不清楚到底 URL 中的英文大小寫的差別在哪裡，這裡有詳盡的實測與 […]
+- Type:: Webpage
+- Source:: https://blog.gtwang.org/web-development/url-lower-and-upper-case/
+- Zotero link:: [Local library](zotero://select/library/items/FZ5CATNM)
