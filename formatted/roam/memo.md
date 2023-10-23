@@ -1,5 +1,164 @@
 - ### data
+    - [Test](<../Test.md>) RESTful API中的REST 是什麼？
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) 頁面端點和API端點命名法為啥通常是Spinal Case？
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) 當端點或者域名裡需要連接兩個以上的單字時，若選用點字號"."來區分單字，能正常使用嗎？為什麼？ 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) Resource Representation State Transfer / REST 中的Resource是什麼？
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) 面端點和API端點要是是由兩個以上單字所構成的話，可以使用什麼方式來命名 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) Spinal Case 是什麼樣的命名法則？ 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) 雖然理論上URI的Path、Fragmenet、Query String是會以區分大小寫來解析，但實質上會有的問題是
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) HATEOAS 功能是**以超媒體(Hypermedia)來表示整個網頁應用程式的目前所存取的狀態以及可用的狀態是什麼** ，其中狀態在REST會是指什麼？
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) 假設 端點為/profile-image，那麼還有沒有其他方式來重新命名？  
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) REST：如何定義如何對網路上的具體化資源進行轉換
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) REST 網路軟體開發風格是基於哪個協定來發展？
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) RESTful API中的REST 是什麼？ 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) HATEOAS 功能是**以超媒體(Hypermedia)來表示整個網頁應用程式的目前所存取的狀態以及可用的狀態是什麼**，請以客戶端和伺服器來說明 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🟠
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) 頁面端點和API端點命名法若採取點字號 "."的話，可行嗎? 原因為何？ 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) Resource Representation State Transfer / REST 中的State是什麼？ 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Quiz](<../Quiz.md>) Camel Case 是什麼樣的命名法則 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Quiz](<../Quiz.md>) Dot Notation Case 是什麼樣的命名法則 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Quiz](<../Quiz.md>) 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Spinal Case命名
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Quiz](<../Quiz.md>) Spinal Case 是什麼樣的命名法則 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Quiz](<../Quiz.md>) 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Lower Camel Case命名
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Quiz](<../Quiz.md>) 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Snake Case命名
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Quiz](<../Quiz.md>) 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Upper Camel Case命名
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
     - [Quiz](<../Quiz.md>) 理論上當URL端點會是red-widget 或者 red_widget，那麼伺服器、瀏覽器哪個不能解讀？
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 30th, 2023](<../October 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [October 23rd, 2023](<../October 23rd, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [October 24th, 2023](<../October 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -7,6 +166,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Quiz](<../Quiz.md>) 理論上當URL端點會是 A-B 或者 A_B時，其中A和B為不同的單字，那麼伺服器、瀏覽器能正常解讀他們嗎 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 30th, 2023](<../October 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [October 23rd, 2023](<../October 23rd, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [October 24th, 2023](<../October 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -28,6 +193,12 @@
             - **[repetitions](<../repetitions.md>):** 0
             - **[grade](<../grade.md>):** 2
     - [Quiz](<../Quiz.md>) API端點名稱是以多個英文單字組成的話，要怎麼做才能使端點更容易讓人類讀取？其概念為
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [October 25th, 2023](<../October 25th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
         - [October 23rd, 2023](<../October 23rd, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [October 24th, 2023](<../October 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -35,6 +206,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Quiz](<../Quiz.md>) 理論上當URL端點會是 A-B 或者 A_B時，其中A和B為不同的單字，在Google 爬蟲來看的話，若選用A-B的好處會是什麼 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 30th, 2023](<../October 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [October 23rd, 2023](<../October 23rd, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [October 24th, 2023](<../October 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -42,6 +219,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Quiz](<../Quiz.md>) Snake Case 是什麼樣的命名法則 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 30th, 2023](<../October 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [October 23rd, 2023](<../October 23rd, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [October 24th, 2023](<../October 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -49,6 +232,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Quiz](<../Quiz.md>) 理論上當URL端點會是 A-B 或者 A_B時，其中A和B為不同的單字，在Google 爬蟲來看的話，若選用A-B，而不選A_B會是因為著？ 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 30th, 2023](<../October 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [October 23rd, 2023](<../October 23rd, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [October 24th, 2023](<../October 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -56,6 +245,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Quiz](<../Quiz.md>) 理論上當URL端點會是 A-B 或者 A_B時，其中A和B為不同的單字，在Google 爬蟲來看的話，會如何解析他們來作為index？ 
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 30th, 2023](<../October 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [October 23rd, 2023](<../October 23rd, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [October 24th, 2023](<../October 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -63,6 +258,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Quiz](<../Quiz.md>) 理論上當URL端點會是 A-B 或者 A_B時，其中A和B為不同的單字，那麼伺服器、瀏覽器能正常解讀他們，那麼真正使人建議選用A-B的原因會是什麼？
+        - [October 24th, 2023](<../October 24th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 30th, 2023](<../October 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [October 23rd, 2023](<../October 23rd, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [October 24th, 2023](<../October 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -91,7 +292,7 @@
     - 🧠
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
     - [Quiz](<../Quiz.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** October 23rd, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** October 24th, 2023
 - 
 - tags: [Settings](<../Settings.md>)
 

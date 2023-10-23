@@ -15,7 +15,7 @@ profile_image```
     - 但考慮實際上URI的域名限制：
         - 使用點字號.會被以DNS尋找域名的方式去處理
 - [雖然理論上URI的Path、Fragmenet、Query String是會以區分大小寫來解析，但仍以應用程式伺服器會因爲作業系統和負責執行server程式的關係來決定是否區分大小寫](<雖然理論上URI的Path、Fragmenet、Query String是會以區分大小寫來解析，但仍以應用程式伺服器會因爲作業系統和負責執行server程式的關係來決定是否區分大小寫.md>)
-    - 所以變得只剩脊柱命名能夠成為唯一選擇，蛇形會因為下底線而無法正常被解析，駝峰則是因為不區分大小寫而失去單字分隔的作用，當然也可以試著將兩個以上的單字拆分成用/來連接，比```javascript
+    - 除了以上方法以外，還能使用 "/" 來分隔開來，比```javascript
 profile_image => profile/image```
 - 
 - 

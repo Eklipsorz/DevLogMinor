@@ -1,24 +1,24 @@
 - ## 描述
 - REST 架構和非REST架構
-- 1. 全名為Hypermedia As The Engine Of Application State，主要是用來區分REST 架構和非REST 架構的條件
-- > Hypermedia as the Engine of Application State (HATEOAS) is a constraint of the REST application architecture that distinguishes it from other network application architectures.
-- [@LinXinLiangNiDeRESTBuShiRESTa](<@LinXinLiangNiDeRESTBuShiRESTa.md>)
-- >  現今應用程式開發者認知中的REST，其實多是屬於Richardson成熟模型中的Level 2，使用多個URI、多個HTTP方法，並善用HTTP回應狀態碼來代表操作結果。而其中的URI用來代表資源，像是/messages、/messages/1等就是資源代表；HTTP方法則是動詞，也就是打算進行的動作，例如GET /messages取得全部訊息，GET /messages/1取得指定訊息，POST /messages新增訊息、DELETE /messages/1刪除指定訊息等。
-- > **HATEOAS與HAL**
-- > 按照Roy Fielding的觀點，沒有HATEOAS約束，就不是REST，然而，Leonard Richardson也說過，一開始就要討論HATEOAS的概念是困難的，因此他才從HTML與URI開始，開展了他對成熟模型的區分。
+    - 1. 全名為Hypermedia As The Engine Of Application State，主要是用來區分REST 架構和非REST 架構的條件
+    - > Hypermedia as the Engine of Application State (HATEOAS) is a constraint of the REST application architecture that distinguishes it from other network application architectures.
+    - [@LinXinLiangNiDeRESTBuShiRESTa](<@LinXinLiangNiDeRESTBuShiRESTa.md>)
+    - >  現今應用程式開發者認知中的REST，其實多是屬於Richardson成熟模型中的Level 2，使用多個URI、多個HTTP方法，並善用HTTP回應狀態碼來代表操作結果。而其中的URI用來代表資源，像是/messages、/messages/1等就是資源代表；HTTP方法則是動詞，也就是打算進行的動作，例如GET /messages取得全部訊息，GET /messages/1取得指定訊息，POST /messages新增訊息、DELETE /messages/1刪除指定訊息等。
+    - > **HATEOAS與HAL**
+    - > 按照Roy Fielding的觀點，沒有HATEOAS約束，就不是REST，然而，Leonard Richardson也說過，一開始就要討論HATEOAS的概念是困難的，因此他才從HTML與URI開始，開展了他對成熟模型的區分。
 - ### HATEOAS 是什麼
 - 1. HATEOAS如同其名，**以超媒體(Hypermedia)來表示整個網頁應用程式的目前所存取的狀態以及可用的狀態是什麼**：
     - 狀態會是指Resource Representation State ，意指為特定時間下的特定具體資源(所在)會有的內容
     - 目前的狀態會是指目前存取到的特定具體資源(所在)會有的內容，形式會是 **識別字：端點位置**
     - 可用的狀態會是根據目前狀態、使用者權限來決定哪些特定具體資源(所在)的內容可以被存取，形式會是 **識別字：端點位置**
-- 2. 只要客戶端向應用伺服器中的某個資源X發出變更請求時，伺服器就會回傳一組超媒體以及對應資料，其超媒體(一組連結)會是根據使用者對於其資源相關聯的資源是否有權限而生成對應資源的API連結(超連結)或者對應資源的連結以及目前所在的狀態-目前所存取的具體資源(所在)
+- 2. 只要客戶端向應用伺服器中的某個資源X發出變更請求時，伺服器就會回傳一組超媒體，其超媒體(一組連結)會是根據使用者對於其資源相關聯的資源是否有權限而生成對應資源的API連結(超連結)或者對應資源的連結以及目前所在的狀態-目前所存取的具體資源(所在)
 - 3. 超媒體是指可以在電子裝置/電腦呈現的圖片、文字等任何可以呈現資訊的形式
 - > With HATEOAS, a client interacts with a network application whose application servers provide information dynamically through hypermedia. A REST client needs little to no prior knowledge about how to interact with an application or server beyond a generic understanding of hypermedia.
 - 簡單來說，當使用者透過初始API URI就能獲取接下來能夠做的操作以及資源的對應連結，接著使用者想要對其中一個資源操作下達對應的請求，就能讓伺服器再次回傳其資訊以及接下來還能夠做啥操作和資源的對應連結。
 - ### 帶來的好處
 - 在前後分離的架構，這可以帶來：
-- 前端可以不必事先知道伺服器的特定資源所對應的端點是什麼而寫死API 端點，因為每個請求回應都會包含著接下來能夠執行的操作以及資源是什麼
-- 當伺服器更動API時，前端也不需要跟著改動，只需要等待伺服器回傳對應較新的API 端點
+    - 前端可以不必事先知道後端伺服器的特定資源所對應的端點是什麼而直接寫死API 端點，因為每個請求回應都會包含著接下來能夠執行的操作以及資源是什麼
+    - 當伺服器更動API時，前端也不需要跟著改動，只需要等待伺服器回傳對應較新的API 端點
 - 案例
 - 伺服器和客戶端都支援著HATEOAS，那麼只要客戶端向伺服器發出查詢12345這帳戶的資料
 - ```javascript
