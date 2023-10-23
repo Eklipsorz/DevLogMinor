@@ -1,4 +1,179 @@
 - ### data
+    - #Test Snake Case 是什麼樣的命名法則？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 伺服器和客戶端都支援著HATEOAS，那麼伺服器回應的可用狀態形式會是如何？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test HATEOAS 全名是什麼？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 伺服器和客戶端都支援著HATEOAS，那麼只要客戶端向伺服器發出查詢12345這銀行帳戶的資料，且客戶端的銀行帳戶是沒錢的，上圖為客戶端向伺服器發送的請求端點和方法，下圖為結果，請試著說明 ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1665905332/blog/REST/HATEOAS-example1_ad6vh3.png)![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1665905332/blog/REST/HATEOAS-example1-without-money_sfjdmc.png)
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test HATEOAS 功能是**以超媒體(Hypermedia)來表示整個網頁應用程式的目前所存取的狀態以及可用的狀態是什麼** ，其中目前所存取的狀態會是什麼？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test REST 網路軟體開發風格 完整的全名會是什麼 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test REST 網路軟體開發風格的背景是什麼？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test HATEOAS 功能是什麼？
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test HATEOAS中的hypermedia是指什麼？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test REST：網路上的資源如何被具體化呈現 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test REST整體概念是什麼？簡答一下 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test REST 網路軟體開發風格的目的是什麼？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test REST整體概念是描述著如何對在網路上的任意具體化資源進行轉移或者獲取，其中在網路上有哪兩大課題？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 雖然理論上URI的Path、Fragmenet、Query String是會以區分大小寫來解析，但仍以應用程式伺服器會因爲作業系統和負責執行server程式的關係來決定是否區分大小寫，舉例來說  
+        - [[October 24th, 2023]] 🟠
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
+    - #Test 頁面端點和API端點命名法通常會是什麼？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test  Resource Representation State Transfer / REST 中的Representation是什麼？
+        - [[October 24th, 2023]] 🟠
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
+    - #Test 頁面端點和API端點命名法通常是Spinal Case，請問所有場景都適用嗎 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test Resource Representation State Transfer / REST 中的Transfer是什麼？
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test REST是一種 以資源為中心，用HTTP方法操作資源，並且最終目標為打造出滿足於HATEOAS之產品的網路軟體開發風格，請問何謂最終目標？說明清楚那HATEOAS之產品 
+        - [[October 24th, 2023]] 🟠
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
+    - #Test 伺服器和客戶端都支援著HATEOAS，那麼只要客戶端向伺服器發出查詢12345這銀行帳戶的資料，且客戶端的銀行帳戶是有錢的，上圖為客戶端向伺服器發送的請求端點和方法，下圖為結果，請試著說明 ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1665905332/blog/REST/HATEOAS-example1_ad6vh3.png)![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1665905332/blog/REST/HATEOAS-example1-with-money_yp1z7n.png)
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test REST 全名為何？
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test HATEOAS 功能是**以超媒體(Hypermedia)來表示整個網頁應用程式的目前所存取的狀態以及可用的狀態是什麼** ，其中可用的狀態是什麼？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 對於前後分離下，HATEOAS帶來的好處是什麼？ 
+        - [[October 24th, 2023]] 🔵
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 對於前後分離下，HATEOAS帶來的好處是什麼？:  其中一個是當伺服器更動API時，前端也不需要跟著改動，只需要等待伺服器回傳對應較新的API 端，請解釋一下為何可以這樣做?
+        - [[October 24th, 2023]] 🟠
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
+    - #Test 伺服器和客戶端都支援著HATEOAS，那麼伺服器回應的目前狀態形式會是如何？ 
+        - [[October 24th, 2023]] 🟠
+            - nextDueDate:: [[October 25th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
     - #Test RESTful API中的REST 是什麼？
         - [[October 24th, 2023]] 🔵
             - nextDueDate:: [[October 25th, 2023]]
@@ -285,6 +460,8 @@
             - repetitions:: 3
             - grade:: 4
 - ### cache
+    - [[Test]]
+        - lastCompletedDate:: October 24th, 2023
     - 🧠
         - lastCompletedDate:: October 14th, 2023
     - 🧠
