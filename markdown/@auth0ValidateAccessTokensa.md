@@ -1,0 +1,6 @@
+- Title:: Validate Access Tokens
+- Author(s):: Auth0
+- Abstract:: Describes how to validate an access token.
+- Type:: Webpage
+- Source:: https://auth0.com/docs/
+- Zotero link:: [Local library](zotero://select/library/items/9L3J8RYZ)

@@ -1,8 +1,24 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@LiJieOAuthRuanYiFengDeWangLuoRiZhia](<@LiJieOAuthRuanYiFengDeWangLuoRiZhia.md>)
+- **[Title](<Title.md>):** 理解OAuth 2.0 - 阮一峰的网络日志
+- **[Type](<Type.md>):**
+
 ## [@LinXinLiangNiDeRESTBuShiRESTa](<@LinXinLiangNiDeRESTBuShiRESTa.md>)
 - **[Abstract](<Abstract.md>):** REST並不是陌生的概念，然而知道嗎？Roy Fielding曾經提過「HATEOAS並不是選項，REST必須實現這個約束，不然就不是在做REST！」
+- **[Type](<Type.md>):**
+
+## [@OAuth2023a](<@OAuth2023a.md>)
+- **[Abstract](<Abstract.md>):** OAuth (short for "Open Authorization") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords. This mechanism is used by companies such as Amazon, Google, Facebook, Microsoft, and Twitter to permit the users to share information about their accounts with third-party applications or websites. Generally, OAuth provides clients a "secure delegated access" to server resources on behalf of a resource owner. It specifies a process for resource owners to authorize third-party access to their server resources without providing credentials. Designed specifically to work with Hypertext Transfer Protocol (HTTP), OAuth essentially allows access tokens to be issued to third-party clients by an authorization server, with the approval of the resource owner. The third party then uses the access token to access the protected resources hosted by the resource server. In particular, OAuth 2.0 provides specific authorization flows for web applications, desktop applications, mobile phones, and smart devices.
+- **[Type](<Type.md>):**
+
+## [@OpenIDConnectShiShiMoa](<@OpenIDConnectShiShiMoa.md>)
+- **[Title](<Title.md>):** OpenID Connect 是什麼？ | HENNGE Taiwan 部落格
+- **[Type](<Type.md>):**
+
+## [@auth0ValidateAccessTokensa](<@auth0ValidateAccessTokensa.md>)
+- **[Abstract](<Abstract.md>):** Describes how to validate an access token.
 - **[Type](<Type.md>):**
 
 ## [@creativeUnderscoreAllowedURL](<@creativeUnderscoreAllowedURL.md>)

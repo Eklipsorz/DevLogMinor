@@ -18006,5 +18006,3298 @@
     "edit-time": 1698087623137,
     "title": "October 25th, 2023",
     "uid": "10-25-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158646865,
+        "edit-time": 1698158653253,
+        "heading": 1,
+        "string": "OAuth \u662f\u4ec0\u9ebc\uff1f",
+        "uid": "6tX02ZtDQ"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "VIWN9t8_O"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158924221,
+        "edit-time": 1698158937425,
+        "refs": [
+          {
+            "uid": "VIWN9t8_O"
+          }
+        ],
+        "string": "[[@OAuth2023a]]",
+        "uid": "kNpWJtVHZ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158658574,
+        "edit-time": 1698158658588,
+        "string": "> OAuth (short for \"Open Authorization\") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords",
+        "uid": "oWP93Swnq"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158658574,
+        "edit-time": 1698158658588,
+        "string": "> This mechanism is used by companies such as Amazon, Google, Facebook, Microsoft, and Twitter to permit the users to share information about their accounts with third-party applications or websites.",
+        "uid": "tLrfq02yi"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158658574,
+        "edit-time": 1698158658588,
+        "string": "> Generally, OAuth provides clients a \"secure delegated access\" to server resources on behalf of a resource owner. It specifies a process for resource owners to authorize third-party access to their server resources without providing credentials.",
+        "uid": "cawa73Xz1"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158672303,
+        "edit-time": 1698158672303,
+        "string": "",
+        "uid": "K3WMLr3YQ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158667372,
+        "edit-time": 1698158667384,
+        "string": "\u91cd\u9ede\uff1a",
+        "uid": "iQ-Mjq4zK"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158667372,
+        "edit-time": 1698158667384,
+        "string": "OAuth \u5b8c\u6574\u540d\u7a31\u70ba\uff1aOpen Authorization",
+        "uid": "tR92bKgYr"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698158667372,
+            "edit-time": 1698158667384,
+            "string": "\u5c6c\u65bc\u6a19\u6e96\u3001\u5354\u5b9a",
+            "uid": "RD8AbnBH3"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "create-time": 1698158667372,
+                "edit-time": 1698158667384,
+                "string": "\u5177\u9ad4\u5247\u662f",
+                "uid": "ZSuwl6i4E"
+              }
+            ],
+            "create-time": 1698158667372,
+            "edit-time": 1698158667384,
+            "string": "\u5b9a\u7fa9\u5982\u4f55\u5728\u4e0d\u9700\u8981\u5c07 \"\u64c1\u6709\u8cc7\u6e90\u4f7f\u7528\u6b0a\u9650\u7684\u4f7f\u7528\u8005\u5e33\u5bc6\" \u7d66\u4e88 \u7279\u5b9a\u670d\u52d9A\u7684\u60c5\u6cc1\u4e0b\uff0c\u767c\u653e\u8cc7\u6e90\u4f7f\u7528\u6b0a\u9650\u7d66\u7279\u5b9a\u670d\u52d9A\u4f86\u4ee3\u8868\u4f7f\u7528\u8005\u53bb\u505a\u7279\u5b9a\u4e8b\u60c5\uff1a",
+            "uid": "eKik6YRMq"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698158667372,
+            "edit-time": 1698158667384,
+            "string": "\u4ee3\u8868\u6b0a\u9650\u7684\u4e8b\u7269\u6703\u662ftoken\uff0c\u5167\u5bb9\u901a\u5e38\u6703\u662f\u5305\u542b\u8ab0\u8ce6\u4e88\u8ab0\u6b0a\u9650\u3001\u6b0a\u9650\u70ba\u4f55\u3002",
+            "uid": "HtXnk6xeO"
+          }
+        ],
+        "create-time": 1698158667372,
+        "edit-time": 1698158667384,
+        "string": "OAuth\uff1a",
+        "uid": "XVOnWNs_w"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158680094,
+        "edit-time": 1698158680094,
+        "string": "",
+        "uid": "7IAQZ-VB3"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158679721,
+        "edit-time": 1698158686222,
+        "heading": 1,
+        "string": " OAuth 2.0 \u89d2\u8272",
+        "uid": "V6Gfyh-2e"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "5EFKXr53J"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158681251,
+        "edit-time": 1698158962734,
+        "refs": [
+          {
+            "uid": "5EFKXr53J"
+          }
+        ],
+        "string": "[[@OpenIDConnectShiShiMoa]]",
+        "uid": "wnPJCqbFe"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158681073,
+        "edit-time": 1698158782119,
+        "string": "> Access Token \u5c31\u50cf\u662f\u4e00\u5f35\u514c\u63db\u5377\uff0c\u6bcf\u4e00\u5f35 Access Token \u4e0a\u90fd\u6709\u5beb**\u300c\u8ab0\u300d\u300c\u5c0d\u8ab0\u300d\u300c\u7d66\u4e88\u4ec0\u9ebc\u6a23\u7684\u6b0a\u9650\u300d**\uff0c\u5982\u6b64\u4e00\u4f86\u5c31\u53ef\u4ee5\u5728\u4e0d\u544a\u8a34\u5c0d\u65b9\u5e33\u865f\u5bc6\u78bc\u7684\u60c5\u6cc1\u4e0b\uff0c\u7d66\u4e88\u5c0d\u65b9\u6700\u4f4e\u9650\u5ea6\u9700\u8981\u7684\u6b0a\u9650\u3002\u9019\u5c31\u662f\u70ba\u4ec0\u9ebc OAuth 2.0 \u88ab\u7a31\u70ba\u662f\u4e00\u500b\u6388\u6b0a\u7684\u5354\u8b70\u3002",
+        "uid": "I_AeqJPeZ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158784417,
+        "edit-time": 1698158784417,
+        "string": "",
+        "uid": "jNLidhZOp"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158784217,
+        "edit-time": 1698158791035,
+        "string": "![](https://hennge.com/tw/blog/1_vL6Fi0RFSHvtxkkDQKAr9w.png)",
+        "uid": "WOHahtNSz"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158980847,
+        "edit-time": 1698158980847,
+        "string": "> \u5728 OAuth 2.0 \u7684\u4e16\u754c\u4e2d\uff0c\u6211\u9019\u500b\u4f7f\u7528\u8005\u88ab\u7a31\u70ba Resource Owner\uff1b\u7b2c\u4e09\u65b9\u884c\u4e8b\u66c6\u670d\u52d9\u88ab\u7a31\u4e4b\u70ba Client\uff1b\u6709\u653e\u6211\u884c\u4e8b\u66c6\u8cc7\u8a0a\u7684 Google Calendar \u7a31\u70ba Resource Server\uff1b\u5e6b\u5fd9\u767c Access Token \u7684\u4f3a\u670d\u5668\u7a31\u4e4b\u70ba Authorization Server\uff0c\u5728\u9019\u4f8b\u5b50\u4e2d\u5c31\u6703\u662f Google\u3002",
+        "uid": "CP8MPb40X"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158981121,
+        "edit-time": 1698158981121,
+        "string": "",
+        "uid": "5fv5PuHY_"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "vYJjxlq5H"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158791388,
+        "edit-time": 1698158991803,
+        "refs": [
+          {
+            "uid": "vYJjxlq5H"
+          }
+        ],
+        "string": "[[@auth0ValidateAccessTokensa]]\n",
+        "uid": "2WXcB6XX8"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158816455,
+        "edit-time": 1698158816465,
+        "string": "\u7576client\u4f7f\u7528JWT\u5b58\u53d6resource server\u6240\u8981\u505a\u7684\u9a57\u8b49\uff1a",
+        "uid": "AnZh7A-8L"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158816455,
+        "edit-time": 1698158816465,
+        "string": ">1.  Perform standard JWT validation. Because the access token is a JWT, you need to perform the standard JWT validation steps. See Validate JSON Web Tokens for details.",
+        "uid": "jSsje5yVX"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158816455,
+        "edit-time": 1698158816465,
+        "string": "> 2. Verify token audience claims. If you've performed the standard JWT validation, you have already decoded the JWT's payload and looked at its standard claims. The token audience claim (aud, array of strings) depends on the initial token request. The aud field could contain both an audience corresponding to your custom API and an audience corresponding to the /userinfo endpoint. At least one of the audience values for the token must match the unique identifier of the target API as defined in your API's Settings in the Identifier field. See Get Access Tokens for details.",
+        "uid": "hDZ50OoIv"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158816455,
+        "edit-time": 1698158816465,
+        "string": "> 3. Verify permissions (scopes). Verify that the application has been granted the permissions required to access your API. To do so, you will need to check the scope claim (scope, space-separated list of strings) in the decoded JWT's payload. It should match the permissions required for the endpoint being accessed. For example, if your custom API provides three endpoints to read, create, or delete a user record, when you registered your API with Auth0, you created three corresponding permissions:",
+        "uid": "mneD1bXXA"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "NRmlkQMTf"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158828501,
+        "edit-time": 1698159012551,
+        "refs": [
+          {
+            "uid": "NRmlkQMTf"
+          }
+        ],
+        "string": "[[@LiJieOAuthRuanYiFengDeWangLuoRiZhia]]",
+        "uid": "QS44R30d0"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158867717,
+        "edit-time": 1698158891247,
+        "string": "> \u5728\u8be6\u7ec6\u8bb2\u89e3OAuth 2.0\u4e4b\u524d\uff0c\u9700\u8981\u4e86\u89e3\u51e0\u4e2a\u4e13\u7528\u540d\u8bcd\u3002\u5b83\u4eec\u5bf9\u8bfb\u61c2\u540e\u9762\u7684\u8bb2\u89e3\uff0c\u5c24\u5176\u662f\u51e0\u5f20\u56fe\uff0c\u81f3\u5173\u91cd\u8981\u3002\uff081\uff09 **Third-party application**\uff1a\u7b2c\u4e09\u65b9\u5e94\u7528\u7a0b\u5e8f\uff0c\u672c\u6587\u4e2d\u53c8\u79f0\"\u5ba2\u6237\u7aef\"\uff08client\uff09\uff0c\u5373\u4e0a\u4e00\u8282\u4f8b\u5b50\u4e2d\u7684\"\u4e91\u51b2\u5370\"\u3002 \uff082\uff09**HTTP service**\uff1aHTTP\u670d\u52a1\u63d0\u4f9b\u5546\uff0c\u672c\u6587\u4e2d\u7b80\u79f0\"\u670d\u52a1\u63d0\u4f9b\u5546\"\uff0c\u5373\u4e0a\u4e00\u8282\u4f8b\u5b50\u4e2d\u7684Google\u3002 \uff083\uff09**Resource Owner**\uff1a\u8d44\u6e90\u6240\u6709\u8005\uff0c\u672c\u6587\u4e2d\u53c8\u79f0\"\u7528\u6237\"\uff08user\uff09 \uff084\uff09**User Agent**\uff1a\u7528\u6237\u4ee3\u7406\uff0c\u672c\u6587\u4e2d\u5c31\u662f\u6307\u6d4f\u89c8\u5668\u3002 \uff085\uff09**Authorization server**\uff1a\u8ba4\u8bc1\u670d\u52a1\u5668\uff0c\u5373\u670d\u52a1\u63d0\u4f9b\u5546\u4e13\u95e8\u7528\u6765\u5904\u7406\u8ba4\u8bc1\u7684\u670d\u52a1\u5668\u3002 \uff086\uff09**Resource server**\uff1a\u8d44\u6e90\u670d\u52a1\u5668\uff0c\u5373\u670d\u52a1\u63d0\u4f9b\u5546\u5b58\u653e\u7528\u6237\u751f\u6210\u7684\u8d44\u6e90\u7684\u670d\u52a1\u5668\u3002\u5b83\u4e0e\u8ba4\u8bc1\u670d\u52a1\u5668\uff0c\u53ef\u4ee5\u662f\u540c\u4e00\u53f0\u670d\u52a1\u5668\uff0c\u4e5f\u53ef\u4ee5\u662f\u4e0d\u540c\u7684\u670d\u52a1\u5668\u3002",
+        "uid": "zwgTQzCQl"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158902086,
+        "edit-time": 1698158902088,
+        "string": "\u91cd\u9ede\uff1a",
+        "uid": "RkzDeL1Bc"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "create-time": 1698158902086,
+                "edit-time": 1698158902088,
+                "string": "Client \u76f8\u5c0d\u65bcResource Server\u7684\u7a31\u547c",
+                "uid": "6rfFO0Pdq"
+              }
+            ],
+            "create-time": 1698158902086,
+            "edit-time": 1698158902088,
+            "string": "Client\uff1a\u4ee5\u767c\u653e\u7684Token\u4f86\u5411Resource Server\u7d22\u8981\u6307\u5b9a\u8cc7\u6e90",
+            "uid": "MgMsShQ4e"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698158902086,
+            "edit-time": 1698158902088,
+            "string": "Resource Owner\uff1a\u5728Resource Server\u4e0a\u5be6\u969b\u64c1\u6709\u8cc7\u6e90\u7684\u4eba",
+            "uid": "fvfGnMnE-"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698158902086,
+            "edit-time": 1698158902088,
+            "string": "User Agent\uff1a\u4ee3\u7406\u4f7f\u7528\u8005\u4f86\u4f7f\u7528\u7279\u5b9a\u670d\u52d9\u7684\u7a0b\u5f0f\u6a21\u7d44\uff0c\u5728\u9019\u88e1\u6703\u662f\u6307\u700f\u89bd\u5668",
+            "uid": "dz79UZVrh"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "create-time": 1698158902086,
+                "edit-time": 1698158902088,
+                "string": "Resource Server\uff1a\u7ba1\u7406\u8cc7\u6e90\u3001\u770b\u672c\u8eab\u80fd\u4e0d\u80fd\u9a57\u8b49Token\uff0c\u82e5\u4e0d\u80fd\u7684\u8a71\u5c31\u8f49\u905e\u8acb\u6c42\u5c01\u5305\u4e0a\u7684token\u81f3authorization server\u7684\u4f3a\u670d\u5668\uff0c\u5426\u5247\u5c31\u81ea\u5df1\u9a57\u8b49Token",
+                "uid": "AM-yYoe4B"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "create-time": 1698158902086,
+                "edit-time": 1698158902088,
+                "string": "Authorization Server\uff1a\u9a57\u8b49Resource Owner\u8f38\u5165\u7684credential\u4f86\u767c\u653eToken \u3001\u5e6b\u5fd9Resource Server\u9a57\u8b49token\u662f\u5426\u70ba\u5408\u6cd5",
+                "uid": "64NpJUVPK"
+              }
+            ],
+            "create-time": 1698158902086,
+            "edit-time": 1698158902088,
+            "string": "HTTP service\uff1a HTTP \u670d\u52d9\u63d0\u4f9b\u5546 \u6216\u8005 \u63d0\u4f9bAPI\u7684\u670d\u52d9\u4f9b\u61c9\u5546\uff0c\u4e3b\u8981\u6703\u7531Resource Server \u548c Authorization Server\u4f86\u7d44\u6210",
+            "uid": "9gJIxMH_s"
+          }
+        ],
+        "create-time": 1698158902086,
+        "edit-time": 1698158902088,
+        "string": "OAuth \u5728Client-Server\u4e4b\u9593\u4e2d\uff0c\u6703\u6709\u4ee5\u4e0b\u7528\u8a9e\uff1a",
+        "uid": "w8ekm0xu3"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158902086,
+        "edit-time": 1698158902088,
+        "string": " Resource Server vs  Authorization Server \u5169\u8005\u662f\u5426\u76f8\u540c",
+        "uid": "bBXxZD0ER"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158902086,
+        "edit-time": 1698158902088,
+        "string": "1. \u53ef\u4ee5\u540c\u6642\u662fResource Server \u548c Authorization Server",
+        "uid": "MnJRTUlx9"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158902086,
+        "edit-time": 1698158902088,
+        "string": "2. \u53ef\u4ee5\u5206\u51fa\u5169\u7a2e\u4f3a\u670d\u5668\uff1a\u4e00\u500b\u662fResource Server\u3001\u53e6\u4e00\u500b\u70baAuthorization Server",
+        "uid": "j7CEaGVx2"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159022897,
+        "edit-time": 1698159022897,
+        "string": "",
+        "uid": "wdxAW7MTs"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159022734,
+        "edit-time": 1698159024015,
+        "heading": 1,
+        "string": "OAuth \u7684 \u601d\u8def",
+        "uid": "bKBmOOQV9"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159031601,
+        "edit-time": 1698159031612,
+        "string": "> OAuth\u5728\"\u5ba2\u6237\u7aef\"\u4e0e\"\u670d\u52a1\u63d0\u4f9b\u5546\"\u4e4b\u95f4\uff0c\u8bbe\u7f6e\u4e86\u4e00\u4e2a\u6388\u6743\u5c42\uff08authorization layer\uff09\u3002\"\u5ba2\u6237\u7aef\"\u4e0d\u80fd\u76f4\u63a5\u767b\u5f55\"\u670d\u52a1\u63d0\u4f9b\u5546\"\uff0c\u53ea\u80fd\u767b\u5f55\u6388\u6743\u5c42\uff0c\u4ee5\u6b64\u5c06\u7528\u6237\u4e0e\u5ba2\u6237\u7aef\u533a\u5206\u5f00\u6765\u3002\"\u5ba2\u6237\u7aef\"\u767b\u5f55\u6388\u6743\u5c42\u6240\u7528\u7684\u4ee4\u724c\uff08token\uff09\uff0c\u4e0e\u7528\u6237\u7684\u5bc6\u7801\u4e0d\u540c\u3002\u7528\u6237\u53ef\u4ee5\u5728\u767b\u5f55\u7684\u65f6\u5019\uff0c\u6307\u5b9a\u6388\u6743\u5c42\u4ee4\u724c\u7684\u6743\u9650\u8303\u56f4\u548c\u6709\u6548\u671f\u3002",
+        "uid": "UF7l93f34"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159031601,
+        "edit-time": 1698159031612,
+        "string": "> \"\u5ba2\u6237\u7aef\"\u767b\u5f55\u6388\u6743\u5c42\u4ee5\u540e\uff0c\"\u670d\u52a1\u63d0\u4f9b\u5546\"\u6839\u636e\u4ee4\u724c\u7684\u6743\u9650\u8303\u56f4\u548c\u6709\u6548\u671f\uff0c\u5411\"\u5ba2\u6237\u7aef\"\u5f00\u653e\u7528\u6237\u50a8\u5b58\u7684\u8d44\u6599\u3002",
+        "uid": "bWmqcEBCy"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159036251,
+        "edit-time": 1698159036251,
+        "string": "",
+        "uid": "GwKdRj7I1"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159040364,
+        "edit-time": 1698159040366,
+        "string": "\u91cd\u9ede\uff1a",
+        "uid": "8Tyz55QMY"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159040364,
+            "edit-time": 1698159040366,
+            "string": "\u6388\u6b0a\u5c64\u4e0d\u63a5\u53d7\u7279\u5b9a\u8eab\u4efd\u7684\u5e33\u5bc6\u4f86\u9a57\u8b49\uff0c\u50c5\u63a5\u53d7token\u4f86\u505a\u9a57\u8b49\u548c\u6388\u6b0a",
+            "uid": "_05TIsL8X"
+          }
+        ],
+        "create-time": 1698159040364,
+        "edit-time": 1698159040366,
+        "string": "\u8b93\u7279\u5b9a\u61c9\u7528\u7a0b\u5f0fA(\u5ba2\u6236\u7aef)\u548c\u670d\u52d9\u63d0\u4f9b\u5546\u4e4b\u9593\u8a2d\u5b9a\u4e00\u500b\u6388\u6b0a\u5c64\uff0c\u4e26\u53ea\u63d0\u4f9b\u9019\u7a2e\u65b9\u5f0f\u4f86\u8b93\u5ba2\u6236\u7aef\u9032\u884c\u767b\u5165\u548c\u7372\u53d6\u8cc7\u6e90\uff0c\u670d\u52d9\u63d0\u4f9b\u5546\u62ff\u8457\u4ee3\u8868\u4f7f\u7528\u8005\u7279\u5b9a\u6b0a\u9650\u7684\u8cc7\u6599-token\u4f86\u767b\u5165\u6388\u6b0a\u5c64\u4e26\u7372\u53d6\u670d\u52d9\u63d0\u4f9b\u5546\u7684\u8cc7\u6e90\u3002",
+        "uid": "zW80HC7xz"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159040364,
+        "edit-time": 1698159040366,
+        "string": "token\u6703\u662f\u7531\u4f7f\u7528\u8005\u4f86\u767c\u653e\u7d66\u7279\u5b9a\u61c9\u7528\u7a0b\u5f0fA\uff0c\u4e26\u7531\u5b83\u6c7a\u5b9a\u5176\u6b0a\u9650\u7bc4\u7587\u548c\u6709\u6548\u671f\uff0c\u597d\u8b93\u6388\u6b0a\u5c64\u4f9d\u64da\u6b0a\u9650\u7bc4\u7587\u548c\u6709\u6548\u671f\u4f86\u5b89\u5168\u5b58\u53d6\u670d\u52d9\u63d0\u4f9b\u5546\u7684\u8cc7\u6e90",
+        "uid": "2X8jI20i0"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159042380,
+        "edit-time": 1698159050770,
+        "string": "![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1679061043/blog/OAuth/OAuth-Simple-Concept_vrcj0d.png)",
+        "uid": "V2NBtefLQ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159070878,
+        "edit-time": 1698159070882,
+        "string": "> \uff08A\uff09\u7528\u6237\u6253\u5f00\u5ba2\u6237\u7aef\u4ee5\u540e\uff0c\u5ba2\u6237\u7aef\u8981\u6c42\u7528\u6237\u7ed9\u4e88\u6388\u6743\u3002",
+        "uid": "RIGKIKhfw"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159070878,
+        "edit-time": 1698159070882,
+        "string": "> \uff08B\uff09\u7528\u6237\u540c\u610f\u7ed9\u4e88\u5ba2\u6237\u7aef\u6388\u6743\u3002",
+        "uid": "5TC98bTwi"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159070878,
+        "edit-time": 1698159070882,
+        "string": "> \uff08C\uff09\u5ba2\u6237\u7aef\u4f7f\u7528\u4e0a\u4e00\u6b65\u83b7\u5f97\u7684\u6388\u6743\uff0c\u5411\u8ba4\u8bc1\u670d\u52a1\u5668\u7533\u8bf7\u4ee4\u724c\u3002",
+        "uid": "yo4M5taZS"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159070878,
+        "edit-time": 1698159070882,
+        "string": "> \uff08D\uff09\u8ba4\u8bc1\u670d\u52a1\u5668\u5bf9\u5ba2\u6237\u7aef\u8fdb\u884c\u8ba4\u8bc1\u4ee5\u540e\uff0c\u786e\u8ba4\u65e0\u8bef\uff0c\u540c\u610f\u53d1\u653e\u4ee4\u724c\u3002",
+        "uid": "39AuGNEAB"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159070878,
+        "edit-time": 1698159070882,
+        "string": "> \uff08E\uff09\u5ba2\u6237\u7aef\u4f7f\u7528\u4ee4\u724c\uff0c\u5411\u8d44\u6e90\u670d\u52a1\u5668\u7533\u8bf7\u83b7\u53d6\u8d44\u6e90\u3002",
+        "uid": "h3ha97ErB"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159070878,
+        "edit-time": 1698159070882,
+        "string": "> \uff08F\uff09\u8d44\u6e90\u670d\u52a1\u5668\u786e\u8ba4\u4ee4\u724c\u65e0\u8bef\uff0c\u540c\u610f\u5411\u5ba2\u6237\u7aef\u5f00\u653e\u8d44\u6e90\u3002",
+        "uid": "_HRspaBuc"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159070878,
+        "edit-time": 1698159070882,
+        "string": "> \u4e0d\u96be\u770b\u51fa\u6765\uff0c\u4e0a\u9762\u516d\u4e2a\u6b65\u9aa4\u4e4b\u4e2d\uff0cB\u662f\u5173\u952e\uff0c\u5373\u7528\u6237\u600e\u6837\u624d\u80fd\u7ed9\u4e8e\u5ba2\u6237\u7aef\u6388\u6743\u3002\u6709\u4e86\u8fd9\u4e2a\u6388\u6743\u4ee5\u540e\uff0c\u5ba2\u6237\u7aef\u5c31\u53ef\u4ee5\u83b7\u53d6\u4ee4\u724c\uff0c\u8fdb\u800c\u51ed\u4ee4\u724c\u83b7\u53d6\u8d44\u6e90\u3002",
+        "uid": "ZC4cTL4CV"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159084678,
+        "edit-time": 1698159084678,
+        "string": "",
+        "uid": "ObCQoeuR5"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159097219,
+        "edit-time": 1698159097220,
+        "string": "\u91cd\u9ede\uff1a",
+        "uid": "LFSPJ0i9Z"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159097219,
+            "edit-time": 1698159097220,
+            "string": "\u4f7f\u7528\u8005\u6253\u958b\u7279\u5b9a\u61c9\u7528\u7a0b\u5f0fA (Client) \uff0c\u61c9\u7528\u7a0b\u5f0fA\u8981\u6c42\u4f7f\u7528\u8005\u7d66\u4e88\u6388\u6b0a",
+            "uid": "p0yM0HAmp"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159097219,
+            "edit-time": 1698159097220,
+            "string": "\u4f7f\u7528\u8005\u540c\u610f\u4e26\u7d66\u4e88\u6388\u6b0a\u8cc7\u6599\u81f3\u61c9\u7528\u7a0b\u5f0fA",
+            "uid": "6jfTxGPUF"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159097219,
+            "edit-time": 1698159097220,
+            "string": "\u5ba2\u6236\u7aef\u4f7f\u7528\u4e0a\u4e00\u500b\u7372\u53d6\u5230\u7684\u6388\u6b0a\u8cc7\u6599\u4f86\u5411Authorization Server\u7533\u8acbtoken",
+            "uid": "xLr8y04WJ"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159097219,
+            "edit-time": 1698159097220,
+            "string": "Authorization Server\u8a8d\u8b49\u6388\u6b0a\u8cc7\u6599\u4e26\u78ba\u8a8d\u7121\u8aa4\uff0c\u5c31\u767c\u653e\u5176token",
+            "uid": "263gf4j-M"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159097219,
+            "edit-time": 1698159097220,
+            "string": "\u5ba2\u6236\u7aef\u4f7f\u7528token\u4f86\u5411Resource Server\u4f86\u7533\u8acb\u7372\u53d6\u8cc7\u6e90",
+            "uid": "4qG2MqyTa"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159097219,
+            "edit-time": 1698159097220,
+            "string": "Resource Server \u78ba\u8a8dtoken \u7121\u8aa4\u5c31\u767c\u653e\u8cc7\u6e90\u7d66\u5ba2\u6236\u7aef",
+            "uid": "0HUS36Y5g"
+          }
+        ],
+        "create-time": 1698159097219,
+        "edit-time": 1698159097220,
+        "string": "OAuth \u6982\u5ff5 \u7684 \u57fa\u672c\u5be6\u73fe\u6703\u6709\u7684\u57f7\u884c\u6d41\u7a0b\uff1a\u7576\u4f7f\u7528\u8005\u8981\u6388\u6b0a\u7d66\u61c9\u7528\u7a0b\u5f0fA\u4f86\u7372\u53d6Resource Server\u7684\u670d\u52d9\u6642",
+        "uid": "1RIjEwzhI"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159097219,
+        "edit-time": 1698159097220,
+        "string": "\u5728\u9019\u88e1 **\u4f7f\u7528\u8005\u540c\u610f\u4e26\u7d66\u4e88\u6388\u6b0a\u8cc7\u6599\u81f3\u61c9\u7528\u7a0b\u5f0fA** \u7531\u65bcResource Server/Authorization Server\u7121\u6cd5\u8b58\u5225\u51fa\u8a72\u6388\u6b0a\u8cc7\u6599\u6703\u662f\u5408\u6cd5\u7684\u4f7f\u7528\u8005\u63d0\u4f9b\u7684\uff1f\u4ee5\u53ca\u5176\u5167\u5bb9\u662f\u5426\u5408\u6cd5\uff1f\uff0c\u56e0\u6b64\u4e0d\u80fd\u8cbf\u7136\u4ee5\u8a72\u8cc7\u6599\u4f86\u767c\u653etoken\uff0c\u5fc5\u9808\u5f97\u7528\u4e00\u4e9b\u503c\u5f97\u4fe1\u4efb\u7684\u65b9\u5f0f\u4f86\u8b58\u5225\u4e26\u767c\u653e\uff0c\u6240\u4ee5\u5177\u9ad4\u6709\u4ee5\u4e0b\u65b9\u6cd5\uff1a",
+        "uid": "-j0C5Joac"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159107374,
+        "edit-time": 1698159107374,
+        "string": "",
+        "uid": "OQIOXvbnX"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159107600,
+        "edit-time": 1698159107600,
+        "string": "",
+        "uid": "go_9bdItB"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "NRmlkQMTf"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159099714,
+        "edit-time": 1698159118717,
+        "refs": [
+          {
+            "uid": "NRmlkQMTf"
+          }
+        ],
+        "string": "[[@LiJieOAuthRuanYiFengDeWangLuoRiZhia]]",
+        "uid": "LSuAuWyyM"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159105291,
+        "edit-time": 1698159105292,
+        "string": "> \u5ba2\u6237\u7aef\u5fc5\u987b\u5f97\u5230\u7528\u6237\u7684\u6388\u6743\uff08authorization grant\uff09\uff0c\u624d\u80fd\u83b7\u5f97\u4ee4\u724c\uff08access token\uff09\u3002OAuth 2.0\u5b9a\u4e49\u4e86\u56db\u79cd\u6388\u6743\u65b9\u5f0f\u3002",
+        "uid": "bTEXu5eSZ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159105291,
+        "edit-time": 1698159105292,
+        "string": "> -   \u6388\u6743\u7801\u6a21\u5f0f\uff08authorization code\uff09",
+        "uid": "so1QLZAD1"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159105291,
+        "edit-time": 1698159105292,
+        "string": "> -   \u7b80\u5316\u6a21\u5f0f\uff08implicit\uff09",
+        "uid": "hBw3wP8pu"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159105291,
+        "edit-time": 1698159105292,
+        "string": "> -   \u5bc6\u7801\u6a21\u5f0f\uff08resource owner password credentials\uff09",
+        "uid": "shugzw44q"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159105291,
+        "edit-time": 1698159105292,
+        "string": "> -   \u5ba2\u6237\u7aef\u6a21\u5f0f\uff08client credentials\uff09",
+        "uid": "9gUa4LNKp"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159129713,
+        "edit-time": 1698159129713,
+        "string": "",
+        "uid": "vzPfOvH3w"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159129961,
+        "edit-time": 1698159129963,
+        "string": "\u57fa\u672c\u4e0a\u6703\u6709\u56db\u7a2e\u6388\u6b0a\u65b9\u5f0f\uff1a",
+        "uid": "A6etrNAUo"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159129961,
+        "edit-time": 1698159129963,
+        "string": "1. authorization code grant type",
+        "uid": "X4uE4ToNp"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159129961,
+        "edit-time": 1698159129963,
+        "string": "2. implicit grant type",
+        "uid": "6oU9IOtJq"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159129961,
+        "edit-time": 1698159129963,
+        "string": "3. resource owner password credentials grant type",
+        "uid": "1mU1SE-jk"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159129961,
+        "edit-time": 1698159129963,
+        "string": "4. client credentials grant type",
+        "uid": "lgeBHy1Is"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159132222,
+        "edit-time": 1698159132222,
+        "string": "",
+        "uid": "m-Ywf6qph"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159132039,
+        "edit-time": 1698159142108,
+        "heading": 2,
+        "string": "\u4e0d\u8ad6\u54ea\u4e00\u7a2e\uff0cserver\u9a57\u8b49access token\u7684\u65b9\u5f0f",
+        "uid": "H0DiF59sp"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159148114,
+            "edit-time": 1698159148115,
+            "string": "\u4ee5JWT \u9a57\u8b49\u65b9\u5f0f\u4f86\u9a57\u8b49JWT\u662f\u5426\u88ab\u7be1\u6539",
+            "uid": "cdfuOVgcx"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159148114,
+            "edit-time": 1698159148115,
+            "string": "\u63d0\u53d6JWT\u7684aud\u503c\u4e26\u6bd4\u5c0d\u76ee\u524d\u6240\u5b58\u53d6\u7684\u7aef\u9ede(\u7531Resource Server\u63d0\u4f9bClient\u60f3\u8981\u5b58\u53d6\u7684\u7aef\u9ede)\u662f\u5426\u4e00\u6a23\uff0c\u82e5\u4e00\u6a23\u5c31\u505a\u4e0b\u4e00\u6b65\uff0c\u5426\u5247\u5831\u932f",
+            "uid": "j-TVWDUpA"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159148114,
+            "edit-time": 1698159148115,
+            "string": "\u63d0\u53d6JWT\u7684scope\u503c\u4e26\u6bd4\u5c0d\u76ee\u524d\u6240\u8981\u5b58\u53d6\u7684\u7aef\u9ede\u4e4b\u5c0d\u61c9\u52d5\u4f5c(\u7531Resource Server\u63d0\u4f9bClient\u65bc\u5b58\u53d6\u7aef\u9ede\u60f3\u505a\u7684\u64cd\u4f5c)\u662f\u5426\u5141\u8a31\uff0c\u82e5\u5141\u8a31\u5c31\u9a57\u8b49\u6210\u529f\uff0c\u5426\u5247\u5831\u932f",
+            "uid": "BVkknnm7h"
+          }
+        ],
+        "create-time": 1698159148114,
+        "edit-time": 1698159148115,
+        "string": "\u4e0d\u8ad6\u54ea\u4e00\u7a2e\uff0cResource Server \u6216\u8005 \u5e6b\u52a9Resource Server \u4f86\u9a57\u8b49Token\u662f\u5426\u5408\u6cd5\u6642\uff0c\u5176\u9a57\u8b49\u65b9\u5f0f\u70ba\uff1a",
+        "uid": "TPU8HSmPo"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159155751,
+        "edit-time": 1698159167118,
+        "heading": 2,
+        "string": "response_type vs. grant_type",
+        "uid": "Wbuj6t1ik"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159183387,
+        "edit-time": 1698159183387,
+        "string": "",
+        "uid": "Qqx5tRQfN"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159183178,
+        "edit-time": 1698159184385,
+        "string": "response_type\u6703\u662f\u6307\u751a\u9ebc\u610f\u601d?  ->->-> `\u5ba2\u6236\u7aef\u6307\u5b9aOwner\u5c0e\u5411\u81f3\u8a8d\u8b49\u4f3a\u670d\u5668\u6240\u8981\u7372\u5f97\u7684\u6388\u6b0a\u540c\u610f\u5f62\u5f0f\u6703\u662f\u751a\u9ebc?`",
+        "uid": "fl7naHF0a"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159187170,
+        "edit-time": 1698159187170,
+        "string": "",
+        "uid": "AyFDxl172"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159186990,
+        "edit-time": 1698159187658,
+        "string": "grant_type\u6703\u662f\u6307\u751a\u9ebc\u610f\u601d? ->->-> `grant_type: \u5ba2\u6236\u7aef\u8981\u4ee5\u751a\u9ebc\u6a23\u7684\u6388\u6b0a\u540c\u610f\u5f62\u5f0f\u4f86\u5411\u8a8d\u8b49\u4f3a\u670d\u5668\u7d22\u8981TOKEN`",
+        "uid": "yBKLd3PDI"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159187860,
+        "edit-time": 1698159187860,
+        "string": "",
+        "uid": "BjbaqPGCe"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159188055,
+        "edit-time": 1698159235304,
+        "string": "---",
+        "uid": "8c77q_dSn"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159389338,
+            "string": " `Open Authorization`",
+            "uid": "jY7jQjXlE"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159412296,
+            "edit-time": 1698159412296,
+            "string": "",
+            "uid": "Bo1D7VUox"
+          }
+        ],
+        "create-time": 1698159389332,
+        "edit-time": 1698159389332,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u5b8c\u6574\u540d\u7a31\u662f\u4ec0\u9ebc\uff1f ",
+        "uid": "bmc3u-aBx"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159420593,
+            "string": " `\u4e0d\u662f\uff0c\u6703\u662fOpen Authorization`",
+            "uid": "AgNYs5PES"
+          }
+        ],
+        "create-time": 1698159420588,
+        "edit-time": 1698159420588,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u5b8c\u6574\u540d\u7a31\u662fOpen Authentication \u55ce\uff1f\u70ba\u4ec0\u9ebc\uff1f ",
+        "uid": "buxwLuk3U"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159425638,
+        "string": "",
+        "uid": "cfiolqRQs"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159428192,
+            "string": " `\u4e00\u7a2e\u6a19\u6e96\u3001\u5354\u5b9a\u3002\u5b9a\u7fa9\u5982\u4f55\u5728\u4e0d\u9700\u8981\u5c07 \"\u64c1\u6709\u8cc7\u6e90\u4f7f\u7528\u6b0a\u9650\u7684\u4f7f\u7528\u8005\u5e33\u5bc6\" \u7d66\u4e88 \u7279\u5b9a\u670d\u52d9A\u7684\u60c5\u6cc1\u4e0b\uff0c\u767c\u653e\u8cc7\u6e90\u4f7f\u7528\u6b0a\u9650\u7d66\u7279\u5b9a\u670d\u52d9A\u4f86\u4ee3\u8868\u4f7f\u7528\u8005\u53bb\u505a\u7279\u5b9a\u4e8b\u60c5\u3002`",
+            "uid": "77smg06v0"
+          }
+        ],
+        "create-time": 1698159428188,
+        "edit-time": 1698159432836,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test Open Authorization \u6216\u8005OAuth \u6703\u662f\u4ec0\u9ebc\uff1f ",
+        "uid": "g2RV6ZEBi"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159437740,
+        "string": "",
+        "uid": "9ew4iv2s2"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159449873,
+            "string": " `token`",
+            "uid": "hUpPYIPl6"
+          }
+        ],
+        "create-time": 1698159449868,
+        "edit-time": 1698159461752,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u4e2d\uff0c\u4ee3\u8868\u6b0a\u9650\u7684\u4e8b\u7269\u6703\u662f\u4ec0\u9ebc\uff1f ",
+        "uid": "57n5BG7Fi"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159458117,
+        "string": "",
+        "uid": "UBrZJXjRl"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159476690,
+            "string": " `\u5167\u5bb9\u901a\u5e38\u6703\u662f\u5305\u542b\u8ab0\u8ce6\u4e88\u8ab0\u6b0a\u9650\u3001\u6b0a\u9650\u70ba\u4f55\u3002`",
+            "uid": "bZKlocXFm"
+          }
+        ],
+        "create-time": 1698159472595,
+        "edit-time": 1698159472595,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u4e2d\uff0c\u4ee3\u8868\u6b0a\u9650\u7684\u4e8b\u7269\u6703\u662ftoken\uff0c\u90a3\u9ebc\u8a72token\u6703\u593e\u96dc\u8457\u4ec0\u9ebc\u8cc7\u8a0a\uff1f",
+        "uid": "3u8bLZjR9"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159480937,
+        "string": "",
+        "uid": "06stZ9U5o"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159487475,
+            "string": " `\t- Resource Server \u5c07token\u8f49\u905e\u81f3Authorization Server\uff0c\u9a57\u8b49\u6210\u529f\u5c31\u505a\u4e0b\u4e00\u6b65\uff0c\u5931\u6557\u5c31\u56de\u5831\u932f\u8aa4\uff0c\u5176\u9a57\u8b49\u65b9\u5f0f\u70ba\uff1a - \u4ee5JWT \u9a57\u8b49\u65b9\u5f0f\u4f86\u9a57\u8b49JWT\u662f\u5426\u88ab\u7be1\u6539 - \u63d0\u53d6JWT\u7684aud\u503c\u4e26\u6bd4\u5c0d\u76ee\u524d\u6240\u5b58\u53d6\u7684\u7aef\u9ede\u662f\u5426\u4e00\u6a23\uff0c\u82e5\u4e00\u6a23\u5c31\u505a\u4e0b\u4e00\u6b65\uff0c\u5426\u5247\u5831\u932f - \u63d0\u53d6JWT\u7684scope\u503c\u4e26\u6bd4\u5c0d\u76ee\u524d\u6240\u8981\u5b58\u53d6\u7684\u7aef\u9ede\u4e4b\u5c0d\u61c9\u52d5\u4f5c\u662f\u5426\u5141\u8a31\uff0c\u82e5\u5141\u8a31\u5c31\u9a57\u8b49\u6210\u529f\uff0c\u5426\u5247\u5831\u932f`",
+            "uid": "UxyeyVv5A"
+          }
+        ],
+        "create-time": 1698159487471,
+        "edit-time": 1698159487471,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u4e2d\uff0c\u5176\u4e2dResource Server \u5c07access token\u8f49\u905e\u81f3Authorization Server\uff0c\u9a57\u8b49\u6210\u529f\u5c31\u505a\u4e0b\u4e00\u6b65\uff0c\u5931\u6557\u5c31\u56de\u5831\u932f\u8aa4\uff0c\u5728\u9019\u88e1\u7684\u9a57\u8b49\u65b9\u5f0f\u662f\u4ec0\u9ebc\uff1f ",
+        "uid": "eI4Igdlne"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159492121,
+        "string": "",
+        "uid": "KZbkN3R_5"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159497585,
+            "string": " `\u7531Resource Server\u63d0\u4f9bClient\u5c0d\u65bc\u60f3\u5b58\u53d6\u7684\u7aef\u9ede\u4ee5\u53ca\u5c0d\u5c0d\u61c9\u7aef\u9ede\u60f3\u505a\u7684\u64cd\u4f5c`",
+            "uid": "sFODNO3IV"
+          }
+        ],
+        "create-time": 1698159497581,
+        "edit-time": 1698159497581,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u4e2d\uff0c\u5176\u4e2dResource Server \u5c07token\u8f49\u905e\u81f3Authorization Server\uff0c\u9a57\u8b49\u6210\u529f\u5c31\u505a\u4e0b\u4e00\u6b65\uff0c\u5931\u6557\u5c31\u56de\u5831\u932f\u8aa4\uff0c\u5728\u9019\u88e1\u7684\u9a57\u8b49\u65b9\u5f0f\u6703\u662f\u6bd4\u5c0dClient\u6240\u63d0\u4f9b\u7684aud\u548cscope\u662f\u5426\u6b63\u78ba\uff0c\u5177\u9ad4\u6703\u662f\u62ff\u4ec0\u9ebc\u6bd4\u5c0d\uff1f\u66f4\u6e96\u78ba\u7684\u8aaa\uff0c\u62ff\u4ec0\u9ebc\u6bd4\u5c0daud\u548cscope\u6703\u8f03\u70ba\u4fe1\u4efb ",
+        "uid": "qEYOMccVH"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159501748,
+        "string": "",
+        "uid": "pTOEFZI0R"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159507045,
+            "string": " `Resource Server\u3001Authorization Server\u3001Client\u3001Resource Owner`",
+            "uid": "m_2T7Ornx"
+          }
+        ],
+        "create-time": 1698159507041,
+        "edit-time": 1698159507041,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0c\u6703\u6709\u4ec0\u9ebc\u7528\u8a9e\uff1f ",
+        "uid": "cHDcwfyyw"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159510820,
+        "string": "",
+        "uid": "Hm2SkLHAd"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159523379,
+            "string": " `Resource Server\uff1aResource Server\uff1a\u7ba1\u7406\u8cc7\u6e90\u3001\u770b\u672c\u8eab\u80fd\u4e0d\u80fd\u9a57\u8b49Token\uff0c\u82e5\u4e0d\u80fd\u7684\u8a71\u5c31\u8f49\u905e\u8acb\u6c42\u5c01\u5305\u4e0a\u7684token\u81f3authorization server\u7684\u4f3a\u670d\u5668\uff0c\u5426\u5247\u5c31\u81ea\u5df1\u9a57\u8b49Token\u3002 Authorization Server\uff1a\u9a57\u8b49Resource Owner\u8f38\u5165\u7684credential\u4f86\u767c\u653eToken \u3001\u5e6b\u5fd9Resource Server\u9a57\u8b49token\u662f\u5426\u70ba\u5408\u6cd5  - Client\uff1a\u4ee5\u767c\u653e\u7684Token\u4f86\u5411Resource Server\u7d22\u8981\u6307\u5b9a\u8cc7\u6e90 - Client \u76f8\u5c0d\u65bcResource Server\u7684\u7a31\u547c- Resource Owner\uff1a\u5728Resource Server\u4e0a\u5be6\u969b\u64c1\u6709\u8cc7\u6e90\u7684\u4eba`",
+            "uid": "W_Vj1wB-L"
+          }
+        ],
+        "create-time": 1698159523375,
+        "edit-time": 1698159523375,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0cResource Server\u3001Authorization Server\u3001Client\u3001Resource Owner\u5404\u70ba\u4ec0\u9ebc\u610f\u601d\uff1f ",
+        "uid": "npMINmyq1"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159529280,
+        "string": "",
+        "uid": "7KoanS3Ul"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159534471,
+            "string": " `\u6703\u662f\u4ee3\u8868\u4f7f\u7528\u8005User\u7684\u61c9\u7528\u7a0b\u5f0f\u6216\u8005\u670d\u52d9`",
+            "uid": "0G_PgABX8"
+          }
+        ],
+        "create-time": 1698159534468,
+        "edit-time": 1698159534468,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0cResource Server\u3001Authorization Server \u5c0d\u61c9\u7684Client \u6703\u662f\u4ec0\u9ebc\uff1f  ",
+        "uid": "zd6NhBKn4"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159538708,
+        "string": "",
+        "uid": "oFHKvzryg"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159549032,
+            "string": " `Resource Server\uff1a\u7ba1\u7406\u8cc7\u6e90\u3001\u770b\u672c\u8eab\u80fd\u4e0d\u80fd\u9a57\u8b49Token\uff0c\u82e5\u4e0d\u80fd\u7684\u8a71\u5c31\u8f49\u905e\u8acb\u6c42\u5c01\u5305\u4e0a\u7684token\u81f3authorization server\u7684\u4f3a\u670d\u5668\uff0c\u5426\u5247\u5c31\u81ea\u5df1\u9a57\u8b49Token`",
+            "uid": "_5uRn9tiR"
+          }
+        ],
+        "create-time": 1698159549028,
+        "edit-time": 1698159557302,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0cResource Server\u6703\u6709\u4ec0\u9ebc\u6a23\u7684\u696d\u52d9\uff0c\u8acb\u8aaa\u660e\u53ef\u80fd\u6027\uff1f ",
+        "uid": "u-t2draqB"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159553313,
+        "string": "",
+        "uid": "aMo4f6pgO"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159565515,
+            "string": " `Resource Server\uff1a\u7ba1\u7406\u8cc7\u6e90\u3001\u82e5\u4e0d\u80fd\u7684\u8a71\u5c31\u8f49\u905e\u8acb\u6c42\u5c01\u5305\u4e0a\u7684token\u81f3authorization server\u7684\u4f3a\u670d\u5668`",
+            "uid": "iJJLESvCV"
+          }
+        ],
+        "create-time": 1698159562303,
+        "edit-time": 1698159562303,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0c\u82e5Resource Server\u53ea\u6703\u7ba1\u7406\u8cc7\u6e90\uff0c\u90a3\u9ebcResource Server\u6703\u6709\u4ec0\u9ebc\u6a23\u7684\u696d\u52d9 ",
+        "uid": "rhR7QnBaA"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159568154,
+        "string": "",
+        "uid": "IKwmHO5jf"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159572370,
+            "string": " `Resource Server\uff1a\u7ba1\u7406\u8cc7\u6e90\u3001\u770b\u672c\u8eab\u80fd\u4e0d\u80fd\u9a57\u8b49Token\uff0c\u82e5\u4e0d\u80fd\u7684\u8a71\u5c31\u8f49\u905e\u8acb\u6c42\u5c01\u5305\u4e0a\u7684token\u81f3authorization server\u7684\u4f3a\u670d\u5668\uff0c\u5426\u5247\u5c31\u81ea\u5df1\u9a57\u8b49Token`",
+            "uid": "6ODRrIzhW"
+          }
+        ],
+        "create-time": 1698159572366,
+        "edit-time": 1698159572366,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0c\u82e5Resource\u6703\u7ba1\u7406\u8cc7\u6e90\u548c\u9a57\u8b49Token\uff0c\u90a3\u9ebcResource Server\u6703\u6709\u4ec0\u9ebc\u6a23\u7684\u696d\u52d9",
+        "uid": "Ejc6jfqot"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159577229,
+        "string": "",
+        "uid": "gPgDJP3no"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159582976,
+            "string": " `\u5ba2\u6236\u7aef\u6307\u5b9aOwner\u5c0e\u5411\u81f3\u8a8d\u8b49\u4f3a\u670d\u5668\u6240\u8981\u7372\u5f97\u7684\u6388\u6b0a\u540c\u610f\u5f62\u5f0f\u6703\u662f\u751a\u9ebc?`",
+            "uid": "mClaQ8Dut"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159586902,
+            "edit-time": 1698159586902,
+            "string": "",
+            "uid": "fowVgO6zh"
+          }
+        ],
+        "create-time": 1698159582972,
+        "edit-time": 1698159582972,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization\u4e2d\uff0cresponse_type\u6703\u662f\u6307\u751a\u9ebc\u610f\u601d? ",
+        "uid": "2VQsyIn12"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159592259,
+            "string": " `grant_type: \u5ba2\u6236\u7aef\u8981\u4ee5\u751a\u9ebc\u6a23\u7684\u6388\u6b0a\u540c\u610f\u5f62\u5f0f\u4f86\u5411\u8a8d\u8b49\u4f3a\u670d\u5668\u7d22\u8981TOKEN`",
+            "uid": "ka0liYop_"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159596165,
+            "edit-time": 1698159596165,
+            "string": "",
+            "uid": "ByePrAzeh"
+          }
+        ],
+        "create-time": 1698159592255,
+        "edit-time": 1698159592255,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization\u4e2d\uff0cgrant_type\u6703\u662f\u6307\u751a\u9ebc\u610f\u601d?",
+        "uid": "sQMS5vJEb"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159607881,
+            "string": " `Resource Owner \u662f\u4ee3\u8868\u64c1\u6709\u7279\u5b9a\u8cc7\u6e90\u7684\u64c1\u6709\u4eba\u6216\u8005\u4f7f\u7528\u8005\uff0c\u800cClient\u5247\u662f\u61c9\u7528\u7a0b\u5f0f\u6216\u8005\u670d\u52d9\uff0c\u6703\u88ab\u6388\u8207Resource Owner\u64c1\u6709\u8cc7\u6e90\u7684\u6b0a\u5229\u4f86\u5b58\u53d6\u5c0d\u61c9\u8cc7\u6e90`",
+            "uid": "hRAvOP1lJ"
+          }
+        ],
+        "create-time": 1698159607877,
+        "edit-time": 1698159607877,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0cClient \u548c Resource Owner \u4e4b\u9593\u7684\u5dee\u5225\u3002 ",
+        "uid": "u1FviQRQ-"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159614297,
+        "string": "",
+        "uid": "bxERvfhx8"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159618553,
+            "string": " `\u8f49\u905e\u8acb\u6c42\u5c01\u5305\u4e0a\u7684token\u81f3authorization server\u7684\u4f3a\u670d\u5668`",
+            "uid": "tfyYkUjYq"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159624685,
+            "edit-time": 1698159624685,
+            "string": "",
+            "uid": "pLXYOrlfn"
+          }
+        ],
+        "create-time": 1698159618550,
+        "edit-time": 1698159618550,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0c\u82e5Client \u7372\u53d6\u5230token\u4e26\u5411\u8457Resource Server\u767c\u9001\u7d22\u8981\u8cc7\u6599\u7684\u8acb\u6c42\uff0c\u90a3\u9ebcResource Server\u63a5\u6536\u5230\u6703\u505a\u4ec0\u9ebc\uff1f ",
+        "uid": "GLdE838xP"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159632387,
+            "string": " `\u9a57\u8b49Resource Owner\u8f38\u5165\u7684credential\u4f86\u767c\u653eToken \u3001\u5e6b\u5fd9Resource Server\u9a57\u8b49token\u662f\u5426\u70ba\u5408\u6cd5`",
+            "uid": "hP0CvQf9_"
+          }
+        ],
+        "create-time": 1698159632385,
+        "edit-time": 1698159632385,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0cAuthorization Server\u6703\u8ca0\u8cac\u4ec0\u9ebc\uff1f",
+        "uid": "Hgzg3dSa2"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159638103,
+        "string": "",
+        "uid": "ttIF5hD-4"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159641256,
+            "string": " `\u7ba1\u7406\u8cc7\u6e90\u3001\u8f49\u905e\u8acb\u6c42\u5c01\u5305\u4e0a\u7684token\u81f3authorization server\u7684\u4f3a\u670d\u5668`",
+            "uid": "X-7nLglm2"
+          }
+        ],
+        "create-time": 1698159641252,
+        "edit-time": 1698159674888,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0cResource Server\u6703\u8ca0\u8cac\u4ec0\u9ebc\uff1f",
+        "uid": "iJvcH7AWk"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159645913,
+        "string": "",
+        "uid": "55SWnsfMk"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159648425,
+            "string": " `- Resource Server\uff1a\u7ba1\u7406\u8cc7\u6e90\u3001\u8f49\u905e\u8acb\u6c42\u5c01\u5305\u4e0a\u7684token\u81f3authorization server\u7684\u4f3a\u670d\u5668 - Authorization Server\uff1a\u9a57\u8b49Resource Owner\u8f38\u5165\u7684credential\u4f86\u767c\u653eToken \u3001\u5e6b\u5fd9Resource Server\u9a57\u8b49token\u662f\u5426\u70ba\u5408\u6cd5`",
+            "uid": "n6SWrf7Xo"
+          }
+        ],
+        "create-time": 1698159648423,
+        "edit-time": 1698159671175,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0cResource Server\u548cAuthorization Server \u4e4b\u9593\u5dee\u5225\u662f\u4ec0\u9ebc\uff1f ",
+        "uid": "CV8a_uUej"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159653501,
+        "string": "",
+        "uid": "Yic-Cts33"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159657508,
+            "string": " `\u5be6\u4f5c\u4e0a\uff0c\u53ef\u4ee5\u662f1. \u53ef\u4ee5\u540c\u6642\u662fResource Server \u548c Authorization Server 2. \u53ef\u4ee5\u5206\u51fa\u5169\u7a2e\u4f3a\u670d\u5668\uff1a\u4e00\u500b\u662fResource Server\u3001\u53e6\u4e00\u500b\u70baAuthorization Server`",
+            "uid": "y8UleM5vL"
+          }
+        ],
+        "create-time": 1698159657505,
+        "edit-time": 1698159667607,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u5728Open Authorization \u6216\u8005OAuth\u7684Client-Server\u4e2d\uff0cResource Server vs  Authorization Server \u5169\u8005\u5728\u5be6\u73fe\u4e0a\u662f\u5426\u80fd\u4e00\u53f0\u4e3b\u6a5f\u64d4\u4efb\u5169\u500b\u89d2\u8272\uff1f ",
+        "uid": "rWx1L9r4R"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159664255,
+        "string": "",
+        "uid": "cuAj3kSMr"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159689832,
+            "string": " `\u8b93\u7279\u5b9a\u61c9\u7528\u7a0b\u5f0fA(\u5ba2\u6236\u7aef)\u548c\u670d\u52d9\u63d0\u4f9b\u5546\u4e4b\u9593\u8a2d\u5b9a\u4e00\u500b\u6388\u6b0a\u5c64\uff0c\u4e26\u53ea\u63d0\u4f9b\u9019\u7a2e\u65b9\u5f0f\u4f86\u8b93\u5ba2\u6236\u7aef\u9032\u884c\u767b\u5165\u548c\u7372\u53d6\u8cc7\u6e90\uff0c\u670d\u52d9\u63d0\u4f9b\u5546\u62ff\u8457\u4ee3\u8868\u4f7f\u7528\u8005\u7279\u5b9a\u6b0a\u9650\u7684\u8cc7\u6599-token\u4f86\u767b\u5165\u6388\u6b0a\u5c64\u4e26\u7372\u53d6\u670d\u52d9\u63d0\u4f9b\u5546\u7684\u8cc7\u6e90\u3002`",
+            "uid": "7PTeBXe9S"
+          }
+        ],
+        "create-time": 1698159689830,
+        "edit-time": 1698159689830,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u7684\u6388\u6b0a\u601d\u8def\u6703\u662f\u4ec0\u9ebc\uff1f\u8acb\u4ee5\u7279\u5b9a\u61c9\u7528\u7a0b\u5f0f(\u5ba2\u670d\u7aef), \u670d\u52d9\u63d0\u4f9b\u5546\u548c\u6388\u6b0a\u5c64\u4f86\u8aaa\u660e ",
+        "uid": "2Xh879Tv6"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159686005,
+        "string": "",
+        "uid": "OVipanh3A"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159694825,
+            "string": " `\u50c5\u9762\u5411\u65bc\u61c9\u7528\u7a0b\u5f0fA\uff0c\u53ea\u63a5\u53d7\u65bctoken\u4f86\u900f\u904e\u5b83\u7372\u53d6\u670d\u52d9\u63d0\u4f9b\u5546\u7684\u8cc7\u6e90`",
+            "uid": "YZehiZVbk"
+          }
+        ],
+        "create-time": 1698159694823,
+        "edit-time": 1698159698906,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u7684\u6388\u6b0a\u601d\u8def\u6703\u662f\u4ec0\u9ebc\uff1f\u5176\u4e2d\u8b93\u7279\u5b9a\u61c9\u7528\u7a0b\u5f0fA(\u5ba2\u6236\u7aef)\u548c\u670d\u52d9\u63d0\u4f9b\u5546\u4e4b\u9593\u8a2d\u5b9a\u4e00\u500b\u6388\u6b0a\u5c64\uff0c\u6388\u6b0a\u5c64\u6703\u53ea\u63a5\u53d7\u4ec0\u9ebc\uff1f\u9762\u5411\u65bc\u8ab0 ",
+        "uid": "O6s2uUNvQ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159702032,
+        "string": "",
+        "uid": "-ygui7rhm"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159706942,
+            "string": " `\u901a\u5e38\u662f\u7531\u6388\u4e88\u6b0a\u9650\u7684\u4f7f\u7528\u8005\u4f86\u6c7a\u5b9a\u6216\u8005\u5176\u767c\u653etoken\u7684server\u4f86\u6c7a\u5b9a`",
+            "uid": "6dPjZFBIZ"
+          }
+        ],
+        "create-time": 1698159706940,
+        "edit-time": 1698159706940,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test  OAuth \u7684 token \u4e2d\u7684\u6b0a\u9650\u548c\u6709\u6548\u671f\u6703\u662f\u7531\u8ab0\u4f86\u6c7a\u5b9a ",
+        "uid": "oxbkRzJaY"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159712012,
+        "string": "",
+        "uid": "hjA-HHKfY"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159739725,
+            "string": " ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1679061043/blog/OAuth/OAuth-Simple-Concept_vrcj0d.png)",
+            "uid": "2YQGQS9a9"
+          }
+        ],
+        "create-time": 1698159739723,
+        "edit-time": 1698159739723,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u7684\u6388\u6b0a\u601d\u8def\u6703\u662f\u4ec0\u9ebc\uff1f\u8acb\u4ee5\u7279\u5b9a\u61c9\u7528\u7a0b\u5f0f(\u5ba2\u670d\u7aef), \u6388\u6b0a\u4f3a\u670d\u5668, \u548c\u6388\u6b0a\u5c64\u7d1a\uff0c\u8acb\u756b\u5716\u4f86\u8aaa\u660e",
+        "uid": "b6thNMm-r"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159748096,
+        "string": "",
+        "uid": "31N_3ekbr"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159727056,
+            "string": "`\t- \u4f7f\u7528\u8005\u6253\u958b\u7279\u5b9a\u61c9\u7528\u7a0b\u5f0fA (Client) \uff0c\u61c9\u7528\u7a0b\u5f0fA\u8981\u6c42\u4f7f\u7528\u8005\u7d66\u4e88\u6388\u6b0a - \u4f7f\u7528\u8005\u540c\u610f\u4e26\u7d66\u4e88\u6388\u6b0a\u8cc7\u6599\u81f3\u61c9\u7528\u7a0b\u5f0fA - \u5ba2\u6236\u7aef\u4f7f\u7528\u4e0a\u4e00\u500b\u7372\u53d6\u5230\u7684\u6388\u6b0a\u8cc7\u6599\u4f86\u5411Authorization Server\u7533\u8acbtoken - Authorization Server\u8a8d\u8b49\u6388\u6b0a\u8cc7\u6599\u4e26\u78ba\u8a8d\u7121\u8aa4\uff0c\u5c31\u767c\u653e\u5176token - \u5ba2\u6236\u7aef\u4f7f\u7528token\u4f86\u5411Resource Server\u4f86\u7533\u8acb\u7372\u53d6\u8cc7\u6e90 - Resource Server \u78ba\u8a8dtoken \u7121\u8aa4\u5c31\u767c\u653e\u8cc7\u6e90\u7d66\u5ba2\u6236\u7aef`",
+            "uid": "MoJZ7Ufy1"
+          }
+        ],
+        "create-time": 1698159722917,
+        "edit-time": 1698159736223,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u6982\u5ff5 \u7684 \u57fa\u672c\u5be6\u73fe\u6703\u6709\u7684\u57f7\u884c\u6d41\u7a0b\uff0c\u5c31\u4ee5 **\u7576\u4f7f\u7528\u8005\u8981\u6388\u6b0a\u7d66\u61c9\u7528\u7a0b\u5f0fA\u4f86\u7372\u53d6Resource Server\u7684\u670d\u52d9\u6642** \u4f86\u8aaa ",
+        "uid": "hh-teU9DQ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159720722,
+        "string": "",
+        "uid": "aZ0DtklrT"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159755240,
+            "string": "``",
+            "uid": "dSimHVr4a"
+          }
+        ],
+        "create-time": 1698159755238,
+        "edit-time": 1698159755238,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u6982\u5ff5 \u7684 \u57fa\u672c\u5be6\u73fe\u6703\u6709\u7684\u6d41\u7a0b\uff0c\u5c31\u4ee5 **\u7576\u4f7f\u7528\u8005\u8981\u6388\u6b0a\u7d66\u61c9\u7528\u7a0b\u5f0fA\u4f86\u7372\u53d6Resource Server\u7684\u670d\u52d9\u6642** \u4f86\u8aaa\uff0c\u8acb\u756b\u5716\u4f86\u8aaa\u660e ->->-> ",
+        "uid": "g9N28Ib9S"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159765097,
+            "string": "`\u7531\u65bcResource Server/Authorization Server\u7121\u6cd5\u8b58\u5225\u51fa\u8a72\u6388\u6b0a\u8cc7\u6599\u6703\u662f\u5408\u6cd5\u7684\u4f7f\u7528\u8005\u63d0\u4f9b\u7684\uff1f\u4ee5\u53ca\u5176\u5167\u5bb9\u662f\u5426\u5408\u6cd5\uff1f\uff0c\u56e0\u6b64\u4e0d\u80fd\u8cbf\u7136\u4ee5\u8a72\u8cc7\u6599\u4f86\u767c\u653etoken\uff0c\u5fc5\u9808\u5f97\u7528\u4e00\u4e9b\u503c\u5f97\u4fe1\u4efb\u7684\u65b9\u5f0f\u4f86\u8b58\u5225\u4e26\u767c\u653e`",
+            "uid": "hJJFwZovZ"
+          }
+        ],
+        "create-time": 1698159765095,
+        "edit-time": 1698159769132,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test \u91dd\u5c0dOAuth \u6982\u5ff5 \u6240\u5be6\u73fe\u7684\u57fa\u672c\u6d41\u7a0b\u4e2d\uff0c\u5176\u4e2d\u6703\u6709\u5ba2\u6236\u7aef\u8a62\u554f\u4f7f\u7528\u8005\u7372\u53d6\u6388\u6b0a\u540c\u610f\u7684\u624b\u6bb5\u4e26\u4ee5\u6388\u6b0a\u4f86\u7533\u8acb\u4f7f\u7528resource server\uff0c\u666e\u904d\u4f86\u8aaa\uff0c \u6388\u6b0a\u540c\u610f\u6703\u4e0d\u6703\u5177\u6709\u4e00\u4e9b\u5b89\u5168\u6027\u7591\u616e\uff1f\u6709\u7684\u8a71\uff0c\u6703\u662f\u4ec0\u9ebc\uff1f ",
+        "uid": "of69iBESK"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159772947,
+        "string": "",
+        "uid": "UXAxwWJTH"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159778391,
+            "string": " `authorization code\u3001implicit\u3001resource owner password credentials\u3001client credentials`",
+            "uid": "9r81bwWoK"
+          }
+        ],
+        "create-time": 1698159778389,
+        "edit-time": 1698159778389,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u6982\u5ff5\u4e0b\u7684\u5be6\u969b\u6703\u6709\u6388\u6b0a\u65b9\u5f0f\u6703\u6709\u54ea\u56db\u7a2e\uff1f",
+        "uid": "n8mgbDI5p"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159782659,
+        "string": "",
+        "uid": "QnjDlEi5v"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159786739,
+            "string": " `resource server \u6216\u8005 \u7531resource server\u8f49\u767ctoken\u81f3authorization server\u4f86\u9a57\u8b49`",
+            "uid": "zkQWkbVek"
+          }
+        ],
+        "create-time": 1698159786738,
+        "edit-time": 1698159786738,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u6982\u5ff5\u4e0b\u7684\u5be6\u969b\u6703\u6709\u6388\u6b0a\u65b9\u5f0f\u6703\u6709\u54ea\u56db\u7a2e\uff0c\u5176\u4e2d\u4e0d\u8ad6\u54ea\u4e00\u7a2e\uff0c\u54ea\u4e00\u500bserver\u6703\u8ca0\u8cac\u9a57\u8b49\u5ba2\u6236\u7aef\u50b3\u904e\u4f86\u7684token\uff1f",
+        "uid": "jWixacnw2"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159791804,
+        "string": "",
+        "uid": "h5xXeV2d0"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159796190,
+            "string": " `- \u4ee5JWT \u9a57\u8b49\u65b9\u5f0f\u4f86\u9a57\u8b49JWT\u662f\u5426\u88ab\u7be1\u6539 - \u63d0\u53d6JWT\u7684aud\u503c\u4e26\u6bd4\u5c0d\u76ee\u524d\u6240\u5b58\u53d6\u7684\u7aef\u9ede(\u7531Resource Server\u63d0\u4f9bClient\u60f3\u8981\u5b58\u53d6\u7684\u7aef\u9ede)\u662f\u5426\u4e00\u6a23\uff0c\u82e5\u4e00\u6a23\u5c31\u505a\u4e0b\u4e00\u6b65\uff0c\u5426\u5247\u5831\u932f - \u63d0\u53d6JWT\u7684scope\u503c\u4e26\u6bd4\u5c0d\u76ee\u524d\u6240\u8981\u5b58\u53d6\u7684\u7aef\u9ede\u4e4b\u5c0d\u61c9\u52d5\u4f5c(\u7531Resource Server\u63d0\u4f9bClient\u65bc\u5b58\u53d6\u7aef\u9ede\u60f3\u505a\u7684\u64cd\u4f5c)\u662f\u5426\u5141\u8a31\uff0c\u82e5\u5141\u8a31\u5c31\u9a57\u8b49\u6210\u529f\uff0c\u5426\u5247\u5831\u932f",
+            "uid": "YC0E4awYF"
+          }
+        ],
+        "create-time": 1698159796188,
+        "edit-time": 1698159796188,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test OAuth \u6982\u5ff5\u4e0b\u7684\u5be6\u969b\u6703\u6709\u6388\u6b0a\u65b9\u5f0f\u6703\u6709\u56db\u7a2e\uff0c\u5176\u4e2d\u4e0d\u8ad6\u54ea\u4e00\u7a2e\uff0cserver\u9a57\u8b49access token\u662f\u5426\u70ba\u5408\u6cd5\u7684\u65b9\u5f0f\u70ba\u4f55\uff1f\u5728\u9019\u88e1\u5047\u5b9a\u4f7f\u7528JWT\u4f86\u8868\u793atoken",
+        "uid": "0a0rlJ3mf"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159236308,
+        "edit-time": 1698159801619,
+        "string": "",
+        "uid": "bv8R2d5uj"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0QRVy3Bj1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698159236308,
+            "edit-time": 1698159809085,
+            "string": " `\u6703\u662f\u6307\u4ee3\u7406\u4f7f\u7528\u8005\u4f86\u7372\u53d6/\u767c\u9001\u5c0d\u65bc\u7db2\u9801\u8acb\u6c42\u7684\u7a0b\u5f0f\u6a21\u7d44\uff0c\u5982\u700f\u89bd\u5668`",
+            "uid": "O89eLVM05"
+          }
+        ],
+        "create-time": 1698159809084,
+        "edit-time": 1698159809084,
+        "refs": [
+          {
+            "uid": "0QRVy3Bj1"
+          }
+        ],
+        "string": "#Test User Agent \u5728\u7db2\u9801\u4e0a\u6703\u6cdb\u6307\u4ec0\u9ebc\uff1f",
+        "uid": "NnEt5qzT6"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159235299,
+        "edit-time": 1698159235299,
+        "string": "",
+        "uid": "b0hYBZrb5"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159187656,
+        "edit-time": 1698159192657,
+        "string": "---",
+        "uid": "qJtDOSurd"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "YS6cycEk9"
+          },
+          {
+            ":block/uid": "wPCKAXO8o"
+          },
+          {
+            ":block/uid": "1e-fouj1A"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159192654,
+        "edit-time": 1698159214301,
+        "refs": [
+          {
+            "uid": "YS6cycEk9"
+          },
+          {
+            "uid": "wPCKAXO8o"
+          },
+          {
+            "uid": "1e-fouj1A"
+          }
+        ],
+        "string": "tags: [[Authorization]] [[OpenID]] [[OAuth]] ",
+        "uid": "RA__-0luQ"
+      }
+    ],
+    "create-time": 1698158624062,
+    "edit-time": 1698158638330,
+    "title": "OAuth \u6703\u662f\u6a19\u6e96\u3001\u5354\u5b9a\uff0c\u5176\u5167\u5bb9\u70ba\u5982\u4f55\u5728\u4e0d\u9700\u8981\u5c07 \"\u64c1\u6709\u8cc7\u6e90\u4f7f\u7528\u6b0a\u9650\u7684\u4f7f\u7528\u8005\u5e33\u5bc6 \u7d66\u4e88 \u7279\u5b9a\u670d\u52d9A\u7684\u60c5\u6cc1\u4e0b\"\uff0c\u767c\u653e\u8cc7\u6e90\u4f7f\u7528\u6b0a\u9650\u7d66\u7279\u5b9a\u670d\u52d9A\u4f86\u4ee3\u8868\u4f7f\u7528\u8005\u53bb\u505a\u7279\u5b9a\u4e8b\u60c5",
+    "uid": "GanY5Ki72"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158930090,
+        "edit-time": 1698158930090,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: OAuth",
+        "uid": "LeuLBq_uS"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "81318G7KJ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158930086,
+        "edit-time": 1698158930086,
+        "refs": [
+          {
+            "uid": "81318G7KJ"
+          }
+        ],
+        "string": "Abstract:: OAuth (short for \"Open Authorization\") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords. This mechanism is used by companies such as Amazon, Google, Facebook, Microsoft, and Twitter to permit the users to share information about their accounts with third-party applications or websites. Generally, OAuth provides clients a \"secure delegated access\" to server resources on behalf of a resource owner. It specifies a process for resource owners to authorize third-party access to their server resources without providing credentials. Designed specifically to work with Hypertext Transfer Protocol (HTTP), OAuth essentially allows access tokens to be issued to third-party clients by an authorization server, with the approval of the resource owner. The third party then uses the access token to access the protected resources hosted by the resource server. In particular, OAuth 2.0 provides specific authorization flows for web applications, desktop applications, mobile phones, and smart devices.",
+        "uid": "w09rFCNRk"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158930078,
+        "edit-time": 1698158930078,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Encyclopaedia article",
+        "uid": "yNOW_30gH"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158930074,
+        "edit-time": 1698158930074,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: https://en.wikipedia.org/w/index.php?title=OAuth&oldid=1131662051",
+        "uid": "-S6WOWQ60"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158930069,
+        "edit-time": 1698158930069,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/5B2G6AAX)",
+        "uid": "wGRTF256T"
+      }
+    ],
+    "create-time": 1698158930068,
+    "edit-time": 1698158930068,
+    "title": "@OAuth2023a",
+    "uid": "VIWN9t8_O"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158955776,
+        "edit-time": 1698158955776,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: OpenID Connect \u662f\u4ec0\u9ebc\uff1f | HENNGE Taiwan \u90e8\u843d\u683c",
+        "uid": "Oo41Qtj-a"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158955772,
+        "edit-time": 1698158955772,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Webpage",
+        "uid": "2Z5vJ0FIS"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158955768,
+        "edit-time": 1698158955768,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: https://hennge.com/tw/blog/what-is-openid-connect.html",
+        "uid": "0pwigNbbJ"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158955759,
+        "edit-time": 1698158955759,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/8DNHRCXL)",
+        "uid": "OykkAoRNu"
+      }
+    ],
+    "create-time": 1698158955756,
+    "edit-time": 1698158955756,
+    "title": "@OpenIDConnectShiShiMoa",
+    "uid": "5EFKXr53J"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158985715,
+        "edit-time": 1698158985715,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: Validate Access Tokens",
+        "uid": "ps1SGObHr"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "_T92I7_qg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158985711,
+        "edit-time": 1698158985711,
+        "refs": [
+          {
+            "uid": "_T92I7_qg"
+          }
+        ],
+        "string": "Author(s):: Auth0",
+        "uid": "Q3dV_Obl8"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "81318G7KJ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158985706,
+        "edit-time": 1698158985706,
+        "refs": [
+          {
+            "uid": "81318G7KJ"
+          }
+        ],
+        "string": "Abstract:: Describes how to validate an access token.",
+        "uid": "OTUSABmoj"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158985703,
+        "edit-time": 1698158985703,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Webpage",
+        "uid": "RTFgPD_0Q"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158985698,
+        "edit-time": 1698158985698,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: https://auth0.com/docs/",
+        "uid": "ZgA2E48P1"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698158985691,
+        "edit-time": 1698158985691,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/9L3J8RYZ)",
+        "uid": "bICeMRcHl"
+      }
+    ],
+    "create-time": 1698158985689,
+    "edit-time": 1698158985689,
+    "title": "@auth0ValidateAccessTokensa",
+    "uid": "vYJjxlq5H"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159007036,
+        "edit-time": 1698159007036,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: \u7406\u89e3OAuth 2.0 - \u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7",
+        "uid": "Dh8lXgiHz"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159007029,
+        "edit-time": 1698159007029,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Webpage",
+        "uid": "jl4AdtToJ"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159007025,
+        "edit-time": 1698159007025,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: https://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html",
+        "uid": "h7T8rcRLO"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698159007021,
+        "edit-time": 1698159007021,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/ZGNWW4GT)",
+        "uid": "UxhOHsNuW"
+      }
+    ],
+    "create-time": 1698159007019,
+    "edit-time": 1698159007020,
+    "title": "@LiJieOAuthRuanYiFengDeWangLuoRiZhia",
+    "uid": "NRmlkQMTf"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "create-time": 1698159198192,
+    "edit-time": 1698159198194,
+    "title": "Authorization",
+    "uid": "YS6cycEk9"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "create-time": 1698159204329,
+    "edit-time": 1698159204330,
+    "title": "OpenID",
+    "uid": "wPCKAXO8o"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "create-time": 1698159211682,
+    "edit-time": 1698159211683,
+    "title": "OAuth",
+    "uid": "1e-fouj1A"
   }
 ]

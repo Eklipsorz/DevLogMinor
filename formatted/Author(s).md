@@ -5,6 +5,10 @@
 - **[Title](<Title.md>):** 你的REST不是REST？
 - **[Author(s)](<Author(s).md>):**
 
+## [@auth0ValidateAccessTokensa](<@auth0ValidateAccessTokensa.md>)
+- **[Title](<Title.md>):** Validate Access Tokens
+- **[Author(s)](<Author(s).md>):**
+
 ## [@creativeUnderscoreAllowedURL](<@creativeUnderscoreAllowedURL.md>)
 - **[Title](<Title.md>):** Is an underscore allowed in a URL?
 - **[Author(s)](<Author(s).md>):**

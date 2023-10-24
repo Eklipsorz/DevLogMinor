@@ -1,0 +1,4 @@
+- Title:: OpenID Connect 是什麼？ | HENNGE Taiwan 部落格
+- Type:: Webpage
+- Source:: https://hennge.com/tw/blog/what-is-openid-connect.html
+- Zotero link:: [Local library](zotero://select/library/items/8DNHRCXL)
