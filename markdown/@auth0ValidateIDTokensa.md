@@ -1,0 +1,6 @@
+- Title:: Validate ID Tokens
+- Author(s):: Auth0
+- Abstract:: Describes how to validate an ID token.
+- Type:: Webpage
+- Source:: https://auth0.com/docs/
+- Zotero link:: [Local library](zotero://select/library/items/2Q7FPNPS)

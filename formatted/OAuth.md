@@ -10,3 +10,9 @@
 ## [OpenID](<OpenID.md>)
 - Tags: [Authorization](<Authorization.md>) [OAuth](<OAuth.md>)
 
+## [OpenID Connect 衍生原因為OAuth 2.0 標準只專注於授權，而未在代表權限的結果物增加驗證的機制](<OpenID Connect 衍生原因為OAuth 2.0 標準只專注於授權，而未在代表權限的結果物增加驗證的機制.md>)
+- tags: [Authorization](<Authorization.md>) [OpenID](<OpenID.md>) [OAuth](<OAuth.md>)
+
+## [id token 本身是用來證明特定使用者是受過認證的資訊，使用者或者Relying Party 向OpenID Provider提供特定身份的證明資訊，接著由OpenID Provider對其進行驗證，若驗證成功就會發放對應token](<id token 本身是用來證明特定使用者是受過認證的資訊，使用者或者Relying Party 向OpenID Provider提供特定身份的證明資訊，接著由OpenID Provider對其進行驗證，若驗證成功就會發放對應token.md>)
+- tags: [OpenID](<OpenID.md>) [OAuth](<OAuth.md>)
+

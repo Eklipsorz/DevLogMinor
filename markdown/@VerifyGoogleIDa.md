@@ -1,0 +1,4 @@
+- Title:: Verify the Google ID Token on Your Server Side | Authentication
+- Type:: Webpage
+- Source:: https://developers.google.com/identity/gsi/web/guides/verify-google-id-token
+- Zotero link:: [Local library](zotero://select/library/items/9NGVK6XH)

@@ -1,0 +1,5 @@
+- Title:: The problem with OAuth for Authentication.
+- Abstract:: I want to thank Nat Sakimura for doing a version of this post in Japanese .   In some of the feedback I have gotten on the openID Connect sp...
+- Type:: Blog post
+- Source:: http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html
+- Zotero link:: [Local library](zotero://select/library/items/U4IQDNUW)

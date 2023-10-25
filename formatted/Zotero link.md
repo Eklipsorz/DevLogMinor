@@ -1,6 +1,14 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@IDTokenAccessa](<@IDTokenAccessa.md>)
+- **[Source](<Source.md>):** https://auth0.com/blog/id-token-access-token-what-is-the-difference/
+- **[Zotero link](<Zotero link.md>):**
+
+## [@JWTShuiChuangZaoLiaoWoWoTingMingYuShuia](<@JWTShuiChuangZaoLiaoWoWoTingMingYuShuia.md>)
+- **[Source](<Source.md>):** https://juejin.cn/post/7131956073472196621
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@LiJieOAuthRuanYiFengDeWangLuoRiZhia](<@LiJieOAuthRuanYiFengDeWangLuoRiZhia.md>)
 - **[Source](<Source.md>):** https://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
 - **[Zotero link](<Zotero link.md>):**
@@ -17,7 +25,19 @@
 - **[Source](<Source.md>):** https://hennge.com/tw/blog/what-is-openid-connect.html
 - **[Zotero link](<Zotero link.md>):**
 
+## [@U4IQDNUW](<@U4IQDNUW.md>)
+- **[Source](<Source.md>):** http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html
+- **[Zotero link](<Zotero link.md>):**
+
+## [@VerifyGoogleIDa](<@VerifyGoogleIDa.md>)
+- **[Source](<Source.md>):** https://developers.google.com/identity/gsi/web/guides/verify-google-id-token
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@auth0ValidateAccessTokensa](<@auth0ValidateAccessTokensa.md>)
+- **[Source](<Source.md>):** https://auth0.com/docs/
+- **[Zotero link](<Zotero link.md>):**
+
+## [@auth0ValidateIDTokensa](<@auth0ValidateIDTokensa.md>)
 - **[Source](<Source.md>):** https://auth0.com/docs/
 - **[Zotero link](<Zotero link.md>):**
 

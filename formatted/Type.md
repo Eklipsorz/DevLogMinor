@@ -1,6 +1,14 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@IDTokenAccessa](<@IDTokenAccessa.md>)
+- **[Title](<Title.md>):** ID Token and Access Token: What Is the Difference?
+- **[Type](<Type.md>):**
+
+## [@JWTShuiChuangZaoLiaoWoWoTingMingYuShuia](<@JWTShuiChuangZaoLiaoWoWoTingMingYuShuia.md>)
+- **[Title](<Title.md>):** JWT：谁创造了我，我听命于谁 - 掘金
+- **[Type](<Type.md>):**
+
 ## [@LiJieOAuthRuanYiFengDeWangLuoRiZhia](<@LiJieOAuthRuanYiFengDeWangLuoRiZhia.md>)
 - **[Title](<Title.md>):** 理解OAuth 2.0 - 阮一峰的网络日志
 - **[Type](<Type.md>):**
@@ -17,8 +25,20 @@
 - **[Title](<Title.md>):** OpenID Connect 是什麼？ | HENNGE Taiwan 部落格
 - **[Type](<Type.md>):**
 
+## [@U4IQDNUW](<@U4IQDNUW.md>)
+- **[Abstract](<Abstract.md>):** I want to thank Nat Sakimura for doing a version of this post in Japanese .   In some of the feedback I have gotten on the openID Connect sp...
+- **[Type](<Type.md>):**
+
+## [@VerifyGoogleIDa](<@VerifyGoogleIDa.md>)
+- **[Title](<Title.md>):** Verify the Google ID Token on Your Server Side | Authentication
+- **[Type](<Type.md>):**
+
 ## [@auth0ValidateAccessTokensa](<@auth0ValidateAccessTokensa.md>)
 - **[Abstract](<Abstract.md>):** Describes how to validate an access token.
+- **[Type](<Type.md>):**
+
+## [@auth0ValidateIDTokensa](<@auth0ValidateIDTokensa.md>)
+- **[Abstract](<Abstract.md>):** Describes how to validate an ID token.
 - **[Type](<Type.md>):**
 
 ## [@creativeUnderscoreAllowedURL](<@creativeUnderscoreAllowedURL.md>)

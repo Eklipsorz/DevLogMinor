@@ -9,7 +9,15 @@
 - **[Title](<Title.md>):** OAuth
 - **[Abstract](<Abstract.md>):**
 
+## [@U4IQDNUW](<@U4IQDNUW.md>)
+- **[Title](<Title.md>):** The problem with OAuth for Authentication.
+- **[Abstract](<Abstract.md>):**
+
 ## [@auth0ValidateAccessTokensa](<@auth0ValidateAccessTokensa.md>)
+- **[Author(s)](<Author(s).md>):** Auth0
+- **[Abstract](<Abstract.md>):**
+
+## [@auth0ValidateIDTokensa](<@auth0ValidateIDTokensa.md>)
 - **[Author(s)](<Author(s).md>):** Auth0
 - **[Abstract](<Abstract.md>):**
 

@@ -1,0 +1,4 @@
+- Title:: ID Token and Access Token: What Is the Difference?
+- Type:: Webpage
+- Source:: https://auth0.com/blog/id-token-access-token-what-is-the-difference/
+- Zotero link:: [Local library](zotero://select/library/items/R6BAMMHT)

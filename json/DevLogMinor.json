@@ -37387,5 +37387,2358 @@
     "edit-time": 1698164880171,
     "title": "October 26th, 2023",
     "uid": "10-26-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258364581,
+        "edit-time": 1698258364581,
+        "string": "",
+        "uid": "r0o3PXmbz"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "pzIsgPtk5"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258364421,
+        "edit-time": 1698258705739,
+        "refs": [
+          {
+            "uid": "pzIsgPtk5"
+          }
+        ],
+        "string": "[[@U4IQDNUW]]",
+        "uid": "Yo_SL2rE4"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258212151,
+        "edit-time": 1698258360247,
+        "string": "![](http://3.bp.blogspot.com/-94wKvhZfIBg/TzFQpiboMsI/AAAAAAAAACw/5tR2IeI4wGo/s640/OAuth2-2.0_Diagrams+token+grant.jpg)",
+        "uid": "JBYR4-mCn"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258234350,
+        "edit-time": 1698258243353,
+        "string": "> In the Facebook Connect case:",
+        "uid": "8KSj3hCV3"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258274751,
+        "edit-time": 1698258274751,
+        "string": "> 1. The Website (client in OAuth speak) redirects the user to Facebook asking for access to the users portion of the Facebook Graph API endpoint.",
+        "uid": "p8V7KxyIS"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258283012,
+        "edit-time": 1698258283012,
+        "string": "> 2. Facebook gets the users Authorization to give that access. ",
+        "uid": "qYTezr_pe"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258295052,
+        "edit-time": 1698258295052,
+        "string": "> 3. Facebook then redirects the user back to the client passing an access token in the URL fragment. ",
+        "uid": "boUeJLi8S"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258308205,
+        "edit-time": 1698258308205,
+        "string": "> 4. The client performs a GET on the Facebook API endpoint using the access token from step ",
+        "uid": "mZyHWy3wO"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258315440,
+        "edit-time": 1698258315440,
+        "string": "> 5. The Graph API endpoint returns a JSON object that contains a Facebook\u00a0user_id\u00a0and other public and perhaps private information based on what access the user granted. ",
+        "uid": "6pnjLqoss"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "edit-time": 1698258315442,
+        "string": "> 6. The Website logs in user in as the\u00a0user_id\u00a0from the Graph API endpoint.",
+        "uid": "qkI1zJxyH"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "edit-time": 1698258323509,
+        "string": ">The advantage to this is that anyone can read the instructions on the\u00a0[Facebook Developers Page](http://developers.facebook.com/docs/authentication/)\u00a0and make their website a client.",
+        "uid": "G4n4III4D"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "edit-time": 1698258339090,
+        "string": "> The disadvantage is that they have no security. \u00a0Not to put too fine a point on it,\u00a0**they have not Authenticated the User.**\u00a0 They have gotten delegated access to the users information.",
+        "uid": "48_SF96zT"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258212330,
+        "edit-time": 1698258212330,
+        "string": "",
+        "uid": "PSFSf186z"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258167002,
+        "edit-time": 1698258203819,
+        "string": "> The hard reality is that people go to questionable websites. \u00a0One of the things people do at those sites is use Facebook, openID or Twitter to login. \u00a0This avoids sharing their email and password with the site.",
+        "uid": "DyzjN-WFr"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258131989,
+        "edit-time": 1698258168773,
+        "string": "> So we wind up in the situation where any site the user loges into with their Facebook account can impersonate that user at any other site that accepts Facebook logins through the\u00a0[Client-side Flow](https://developers.facebook.com/docs/authentication/#client-side-flow)(the default for Facebook). \u00a0The less common\u00a0[Server-side Flow](https://developers.facebook.com/docs/authentication/#server-side-flow)\u00a0is more secure, but more complicated.",
+        "uid": "GLJtPJR6z"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698269617762,
+        "edit-time": 1698269617762,
+        "string": "",
+        "uid": "52-f5lVvL"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698269617528,
+        "edit-time": 1698269708363,
+        "string": "client \u7121\u6cd5\u77e5\u9053\u8a72token \u6703\u662f\u9812\u767c\u7d66\u8ab0\u7684? ",
+        "uid": "f0sQlRNrP"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258716140,
+        "edit-time": 1698269614386,
+        "string": ">  Only the access_token parameter is generated by the Authorization server, all the other parameters are dropped or echoed back.   The client has no way to tell who the authorization server thought it was issuing that access_token to.",
+        "uid": "wExK7lsLE"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698270435306,
+        "edit-time": 1698270562592,
+        "string": "\u89e3\u6cd5\u7684\u4e3b\u65e8\u70ba: \u8b93\u5373\u5c07\u9812\u767c\u7684token \u589e\u52a0\u53d7\u773e\u8cc7\u8a0a\uff0c\u63db\u8a00\u4e4b\uff0c\u54ea\u500b\u53d7\u773e(audience)\u53ef\u4ee5\u4f7f\u7528\u8a72token",
+        "uid": "kJzj2-Clb"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698270600717,
+        "edit-time": 1698270608095,
+        "string": "> In OAuth the token is intended for the consumption of the protected resource, and intentionally opaque to the client (RP). \u00a0The RP has no way to tell from the token if it was generated for it or another RP.",
+        "uid": "7HfGPT4es"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698270435508,
+        "edit-time": 1698270452658,
+        "string": "> You could say the audience for the OAuth token is the protected resource and the audience for a authentication token is the RP. \u00a0 They are not the same endpoint!",
+        "uid": "b6KdQhToi"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698269614382,
+        "edit-time": 1698269614382,
+        "string": "",
+        "uid": "ikfJoruPf"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258715931,
+        "edit-time": 1698258718746,
+        "string": "\u91cd\u9ede:",
+        "uid": "CP-Oisf-c"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698258801642,
+            "edit-time": 1698258850613,
+            "string": "token \u7684\u4f7f\u7528\u8005(client)\u662f\u5426\u70ba\u5408\u6cd5\u5c0d\u8c61(client)?",
+            "uid": "8WUPql67E"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698258858027,
+            "edit-time": 1698258884018,
+            "string": "\u4f7f\u7528token\u7684\u5c0d\u8c61\u662f\u5426\u6703\u6feb\u7528\u8a72token\u4f86\u7d22\u8981\u8cc7\u6e90",
+            "uid": "O6mNVbRMp"
+          }
+        ],
+        "create-time": 1698258718926,
+        "edit-time": 1698258855046,
+        "string": "OAuth 2.0 \u5e38\u898b\u6d41\u7a0b\u5927\u90fd\u5c08\u6ce8\u65bc\u5982\u4f55\u6388\u4e88\u4f7f\u7528\u8005\u6b0a\u9650\u81f3client\uff0c\u4e26\u8b93client\u6301\u8457\u4ee3\u8868\u6b0a\u9650\u7684token\u53bb\u7d22\u8981\u8cc7\u6e90\uff0c\u4f46\u537b\u7559\u4e0b\u5e7e\u500b\u554f\u984c:",
+        "uid": "bs4x3a7zw"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698258894436,
+            "edit-time": 1698259039471,
+            "string": "\u6388\u4e88\u6b0a\u9650\u7684\u904e\u7a0b\u6c92\u5c0d\u4f7f\u7528token\u7684\u4f7f\u7528\u8005\u9032\u884c \"\u4f7f\u7528\u8005\u662f\u5426\u70ba\u5408\u6cd5\u4f7f\u7528\u8005\" \u7684\u76f8\u95dc\u8a8d\u8b49",
+            "uid": "DIUA2K09q"
+          }
+        ],
+        "create-time": 1698258884925,
+        "edit-time": 1698258894364,
+        "string": "\u9020\u5c31\u5176\u554f\u984c\u7684\u539f\u56e0\u70ba:",
+        "uid": "maK20x_l6"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698258969326,
+            "edit-time": 1698270574370,
+            "string": " \u8b93\u5373\u5c07\u9812\u767c\u7684token \u589e\u52a0\u53d7\u773e\u8cc7\u8a0a\uff0c\u63db\u8a00\u4e4b\uff0c\u54ea\u500b\u53d7\u773e(audience)\u53ef\u4ee5\u4f7f\u7528\u8a72token",
+            "uid": "oN63BuxY0"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698270908085,
+            "edit-time": 1698271752036,
+            "string": "\u5728OpenID Connect \u4e2d\u662f\u5c07 \"\u8ab0\u53ef\u4ee5\u4f7f\u7528\u8a72token\" \u53d7\u773e\u8cc7\u8a0a\u6dfb\u52a0\u81f3\u8207token\uff0c\u8a72token \u88ab\u547d\u540d\u70baid token\uff0c\u547d\u540d\u7de3\u7531\u70ba: \u8a72token\u662f\u4ee5\u7279\u5b9a\u5df2\u53d7\u904e\u8a8d\u8b49\u7684\u4f7f\u7528\u8005\u8cc7\u8a0a\u800c\u69cb\u6210\uff0c\u4e26\u4e14\u7d81\u5b9a\u7279\u5b9aid\u4f86\u6a19\u660e\u8ab0\u53ef\u4ee5\u4f7f\u7528",
+            "uid": "yzUT6aO9T"
+          }
+        ],
+        "create-time": 1698270574369,
+        "edit-time": 1698270574369,
+        "string": "\u89e3\u6cd5\u6982\u5ff5\u70ba",
+        "uid": "RlO91fT_b"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258968626,
+        "edit-time": 1698258971160,
+        "string": "---",
+        "uid": "RzuFr0MsS"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258971392,
+        "edit-time": 1698258971392,
+        "string": "",
+        "uid": "oovUj_9a6"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258971157,
+        "edit-time": 1698258972252,
+        "string": "---",
+        "uid": "viwp56_Dh"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "YS6cycEk9"
+          },
+          {
+            ":block/uid": "wPCKAXO8o"
+          },
+          {
+            ":block/uid": "1e-fouj1A"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258972248,
+        "edit-time": 1698259002386,
+        "refs": [
+          {
+            "uid": "YS6cycEk9"
+          },
+          {
+            "uid": "wPCKAXO8o"
+          },
+          {
+            "uid": "1e-fouj1A"
+          }
+        ],
+        "string": "tags: [[Authorization]] [[OpenID]] [[OAuth]]",
+        "uid": "THNhvhoWE"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "dbM3YJOcl"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271807325,
+        "edit-time": 1698271824630,
+        "refs": [
+          {
+            "uid": "dbM3YJOcl"
+          }
+        ],
+        "string": "links: [[id token \u672c\u8eab\u662f\u7528\u4f86\u8b49\u660e\u7279\u5b9a\u4f7f\u7528\u8005\u662f\u53d7\u904e\u8a8d\u8b49\u7684\u8cc7\u8a0a\uff0c\u4f7f\u7528\u8005\u6216\u8005Relying Party \u5411OpenID Provider\u63d0\u4f9b\u7279\u5b9a\u8eab\u4efd\u7684\u8b49\u660e\u8cc7\u8a0a\uff0c\u63a5\u8457\u7531OpenID Provider\u5c0d\u5176\u9032\u884c\u9a57\u8b49\uff0c\u82e5\u9a57\u8b49\u6210\u529f\u5c31\u6703\u767c\u653e\u5c0d\u61c9token]]",
+        "uid": "nVzu_Retc"
+      }
+    ],
+    "create-time": 1698258130218,
+    "edit-time": 1698258130218,
+    "title": "OpenID Connect \u884d\u751f\u539f\u56e0\u70baOAuth 2.0 \u6a19\u6e96\u53ea\u5c08\u6ce8\u65bc\u6388\u6b0a\uff0c\u800c\u672a\u5728\u4ee3\u8868\u6b0a\u9650\u7684\u7d50\u679c\u7269\u589e\u52a0\u9a57\u8b49\u7684\u6a5f\u5236",
+    "uid": "n_lCCfvBc"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258701771,
+        "edit-time": 1698258701771,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: The problem with OAuth for Authentication.",
+        "uid": "3zwYUHXWQ"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "81318G7KJ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258701767,
+        "edit-time": 1698258701767,
+        "refs": [
+          {
+            "uid": "81318G7KJ"
+          }
+        ],
+        "string": "Abstract:: I want to thank Nat Sakimura for doing a version of this post in Japanese .   In some of the feedback I have gotten on the openID Connect sp...",
+        "uid": "Z_a9jX29A"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258701763,
+        "edit-time": 1698258701763,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Blog post",
+        "uid": "3uQMn_lji"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258701758,
+        "edit-time": 1698258701758,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html",
+        "uid": "AUTlVc_lm"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698258701751,
+        "edit-time": 1698258701751,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/U4IQDNUW)",
+        "uid": "ZAcpGHUo_"
+      }
+    ],
+    "create-time": 1698258701749,
+    "edit-time": 1698258701749,
+    "title": "@U4IQDNUW",
+    "uid": "pzIsgPtk5"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "N3u94BqPS"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271833188,
+        "edit-time": 1698271857103,
+        "refs": [
+          {
+            "uid": "N3u94BqPS"
+          }
+        ],
+        "string": "[[@IDTokenAccessa]]",
+        "uid": "nd2QdlD6s"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271838086,
+        "edit-time": 1698271838087,
+        "string": "> What Is an ID Token?",
+        "uid": "OTgkOoCab"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271840493,
+        "edit-time": 1698271840493,
+        "string": "> An ID token is an artifact that proves that the user has been authenticated. It was introduced by OpenID Connect (OIDC), an open standard for authentication used by many identity providers such as Google, Facebook, and, of course, Auth0. Check out this document for more details on OpenID Connect. Let's take a quick look at the problem OIDC wants to resolve",
+        "uid": "P8XSN4d9o"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271840746,
+        "edit-time": 1698271899150,
+        "string": "ID token \u662f\u4e00\u500b\u7528\u4f86\u8b49\u660e\u4f7f\u7528\u8005\u662f\u53d7\u904e\u8a8d\u8b49\u7684\u8cc7\u8a0a\uff0c\u5176\u6982\u5ff5\u662f\u7531OIDC \u9019\u500b\u9a57\u8b49\u6a19\u6e96\u3002",
+        "uid": "MYVFJuE0k"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271899337,
+        "edit-time": 1698271906449,
+        "string": "![](https://images.ctfassets.net/23aumh6u8s0i/4x34jgYBU7vjBYLumNr9Sg/57e0b420de0d27568981af4aef0ab27f/id-token-scenario.png)",
+        "uid": "qQL7fqmgb"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271907246,
+        "edit-time": 1698271907246,
+        "string": "",
+        "uid": "3RFeyK8LO"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "> Here, a user with their browser authenticates against an OpenID provider and gets access to a web application.",
+        "uid": "TgCx2k0y8"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "\u5728\u9019\u88e1\uff0c\u4f7f\u7528\u8005\u6703\u6703\u900f\u904e\u4ed6\u5011\u7684\u700f\u89bd\u5668\u4f86\u5c0dopenid provider\u9032\u884c\u9a57\u8b49\u4e26\u7372\u53d6\u7db2\u9801\u61c9\u7528\u7a0b\u5f0f\u7684\u5b58\u53d6\u6b0a\u9650",
+        "uid": "REFiYTvkn"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "> The result of that authentication process based on OpenID Connect is the ID token, which is passed to the application as proof that the user has been authenticated.",
+        "uid": "gUoxfCSfn"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "\u57fa\u65bcOpenID Connect\u7684\u8a8d\u8b49\u7a0b\u5e8f\u7684\u7d50\u679c\u5c31\u662fID token\uff0c\u5b83\u6703\u4ee5\u4f5c\u70ba\u88ab\u9a57\u8b49\u7684\u4f7f\u7528\u8005\u8b49\u660e\u4f86\u8f49\u905e\u7d66\u61c9\u7528\u7a0b\u5f0f",
+        "uid": "hulYENX3q"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "> This provides a very basic idea of what an ID token is: proof of the user's authentication. Let\u2019s see some other details.",
+        "uid": "tZ_8MPn2-"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "\u9019\u63d0\u4f9b\u4e00\u500b\u6700\u57fa\u672c\u7684id token \u6982\u5ff5\uff1a",
+        "uid": "9Xj3Nj9Gx"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "\u4f7f\u7528\u8005\u8eab\u5206\u9a57\u8b49\u8b49\u660e",
+        "uid": "VaJNblDmD"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "> An ID token is\u00a0**encoded as a JSON Web Token**\u00a0(JWT), a standard format that allows your application to easily inspect its content, and make sure it comes from the expected issuer and that no one else changed it",
+        "uid": "Te2Cyd5Wo"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "id token \u662f\u4f7f\u7528JWT \u6280\u8853\u4f86\u7de8\u78bc\uff0c\u4e00\u500b\u6a19\u6e96\u683c\u5f0f\u4f86\u5141\u8a31\u4f60\u7684\u61c9\u7528\u7a0b\u5f0f\u8f15\u6613\u7372\u53d6\u5167\u90e8\u5167\u5bb9\u4e26\u78ba\u4fddtoken\u7684\u767c\u884c\u4eba\u662f\u8ab0\u4ee5\u53ca\u6c92\u6709\u4eba\u80fd\u5920\u6539\u8b8aJWT",
+        "uid": "MKUtD7UQo"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271919561,
+        "edit-time": 1698271919563,
+        "string": "> To put it simply, an example of ID token looks like this:",
+        "uid": "2eF7ZXQor"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271838086,
+        "edit-time": 1698271840494,
+        "string": ".",
+        "uid": "FTGdRbfq7"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271922198,
+        "edit-time": 1698271929595,
+        "string": "```javascript\neyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwOi8vbXktZG9tYWluLmF1dGgwLmNvbSIsInN1YiI6ImF1dGgwfDEyMzQ1NiIsImF1ZCI6IjEyMzRhYmNkZWYiLCJleHAiOjEzMTEyODE5NzAsImlhdCI6MTMxMTI4MDk3MCwibmFtZSI6IkphbmUgRG9lIiwiZ2l2ZW5fbmFtZSI6IkphbmUiLCJmYW1pbHlfbmFtZSI6IkRvZSJ9.bql-jxlG9B_bielkqOnjTY9Di9FillFb6IMQINXoYsw```",
+        "uid": "frJ-rdYLy"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271934073,
+        "edit-time": 1698271934076,
+        "string": "> Of course, this isn't readable to the human eye, so you have to decode it to see what content the JWT holds. By the way, the ID token is not encrypted but just Base 64 encoded. You can use one of the many available libraries to decode it, or you can examine it yourself with the jwt.io debugger.",
+        "uid": "38DmLgOU3"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271934073,
+        "edit-time": 1698271934076,
+        "string": "> Without going deeper into the details, the relevant information carried by the ID token above looks like the following:",
+        "uid": "-bTbj-kg5"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271937039,
+        "edit-time": 1698271946094,
+        "string": "```javascript\n{ \n  \"iss\": \"http://my-domain.auth0.com\", \n  \"sub\": \"auth0|123456\", \n  \"aud\": \"1234abcdef\", \n  \"exp\": 1311281970, \n  \"iat\": 1311280970, \n  \"name\": \"Jane Doe\", \n  \"given_name\": \"Jane\", \n  \"family_name\": \"Doe\"\n}```",
+        "uid": "gtnsaqZNL"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271946883,
+        "edit-time": 1698271946883,
+        "string": "",
+        "uid": "Na3uiruNW"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "> These JSON properties are called\u00a0**claims**, and they are\u00a0**declarations about the user**\u00a0and the token itself. The claims about the user define the user\u2019s identity",
+        "uid": "mF0R0S6Qu"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "\u9019\u4e9bJSON\u5c6c\u6027\u88ab\u7a31\u4e4bclaim \uff0c\u4ed6\u5011\u662f\u5ba3\u544a\u4f7f\u7528\u8005\u7684\u8cc7\u8a0a\u548ctoken\u8cc7\u8a0a\uff0c",
+        "uid": "U0YLR11EU"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698271961823,
+            "edit-time": 1698271961837,
+            "string": "Actually, the OpenID Connect specifications don't require the ID token to have user's claims. In its minimal structure, it has no data about the user; just info about the authentication operation.",
+            "uid": "cVhqYgfTy"
+          }
+        ],
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "aud => token\u7684\u63a5\u6536\u8005\uff0c\u6703\u7528\u7279\u5b9a\u7368\u7279\u8b58\u5225\u5b57\u4f86\u8868\u793a\u7279\u5b9a\u4f7f\u7528\u65b9\uff0c",
+        "uid": "uAA9wns7Q"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "\u5be6\u969b\u4e0a\u4f86\u8aaa\uff0cOpenID Connect \u898f\u683c\u66f8\u4e0d\u9700\u8981ID token \u53bb\u64c1\u6709\u4f7f\u7528\u8005\u7684\u8cc7\u8a0a\uff0c\u5728\u6700\u5c0f\u7684token\u67b6\u69cb\u4e2d\uff0c\u662ftoken\u5167\u7684\u8cc7\u8a0a\u662f\u6c92\u6709\u4efb\u4f55\u6709\u95dc\u65bc\u4f7f\u7528\u8005\u8cc7\u8a0a\uff0c\u5c31\u53ea\u662f\u95dc\u65bc\u9a57\u8b49\u64cd\u4f5c\u7684\u8cc7\u8a0a\u3002",
+        "uid": "tOJk3DpiI"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "> One important claim is the aud claim. This claim defines the audience of the token, i.e., the web application that is meant to be the final recipient of the token. In the case of the ID token, its value is the client ID of the application that should consume the token.",
+        "uid": "Xsp2-PYCt"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "\u6700\u91cd\u8981\u7684claim\u662faud claim\uff0c\u9019\u5b9a\u7fa9token\u7684audience\uff0c\u63db\u8a00\u4e4b\u5c31\u662f\u7db2\u9801\u61c9\u7528\u7a0b\u5f0f",
+        "uid": "SuSgLHM1z"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698271961823,
+            "edit-time": 1698271961837,
+            "string": "Remember this small detail about the audience claim because it will help you better understand what its correct use is later on.",
+            "uid": "_IeeLW-B0"
+          }
+        ],
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "\u5728ID token\u7684\u60c5\u6cc1\uff0c\u5b83\u7684\u503c\u6703\u662f\u80fd\u5920\u4f7f\u7528\u9019\u500btoken\u7684client_id\u3002",
+        "uid": "Wi9ARfpeX"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "> The ID token may have additional information about the user, such as their email address, picture, birthday, and so on.",
+        "uid": "qodxJTb1D"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "id token \u53ef\u80fd\u64c1\u6709\u984d\u5916\u8cc7\u8a0a\u4f86\u5305\u542b\u4f7f\u7528\u8005\u8cc7\u8a0a\uff0c\u5982email\u3001\u5716\u7247\u3001\u751f\u65e5\u3002",
+        "uid": "rFKRYFbra"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "> Finally, maybe the most important thing: the ID token is signed by the issuer with its private key. This guarantees you the origin of the token and ensures that it has not been tampered with. You can verify these things by using the issuer's public key.",
+        "uid": "D8YNsG7Ev"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "\u6700\u5f8c\uff1a",
+        "uid": "lhHnbHGhP"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "> Cool! Now you know what an ID token is. But what can you do with an ID token?",
+        "uid": "hpP-pZPoX"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "> First, it demonstrates that the user has been authenticated by an entity you trust (the OpenID provider) and so you can trust the claims about their identity.",
+        "uid": "xv46OvyI-"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "> Also, your application can personalize the user\u2019s experience by using the claims about the user that are included in the ID token. For example, you can show their name on the UI, or display a \"best wishes\" message on their birthday. The fun part is that you don\u2019t need to make additional requests, so you may get a little gain in performance for your application.",
+        "uid": "bes5urkQC"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "id token\uff1a\u53ef\u4ee5\u62ff\u4f86\u505a\u4ec0\u9ebc\uff1f",
+        "uid": "6T24opO_A"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "1. \u7531\u65bc\u9a57\u8b49\u4f7f\u7528\u8005\u662f\u5408\u6cd5\u7684\u5be6\u7269\uff0c\u6240\u4ee5\u4f60\u53ef\u4ee5\u4fe1\u4efb\u4ed6\u5011\u6240\u8aaa\u7684\u4e8b\u60c5",
+        "uid": "nRIFCy8Ka"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "2. \u4f60\u7684\u61c9\u7528\u7a0b\u5f0f\u53ef\u4ee5\u85c9\u7531\u589e\u52a0\u66f4\u591a\u4f7f\u7528\u8cc7\u8a0a\u5728token\u5167\u4f86\u66ff\u61c9\u7528\u8005\u589e\u52a0\u4f7f\u7528\u8005\u9ad4\u9a57\uff0c\u6bd4\u5982\u4f60\u53ef\u4ee5\u5728\u7279\u5b9aUI\u5c55\u73fe\u51fa\u540d\u5b57\u3002",
+        "uid": "_na2zWAG_"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "\u91cd\u9ede\uff1a",
+        "uid": "UDP_Iorxv"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698271961823,
+            "edit-time": 1698271961837,
+            "string": "\u82e5token\u672c\u8eab\u593e\u96dc\u7279\u5b9a\u8eab\u5206\u8b49\u660e\u8cc7\u8a0a \u548c \u4ee3\u8868\u7279\u5b9a\u8cc7\u6e90\u4e4b\u4f7f\u7528\u6b0a\u9650\u7684\u8cc7\u8a0a\uff0c\u90a3\u9ebc\u5c31\u6703\u662f\u540c\u6642\u8868\u793a\u6b0a\u9650\u548c\u4f7f\u7528\u8005\u7684id token",
+            "uid": "ajNUl3Yoc"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698271961823,
+            "edit-time": 1698271961837,
+            "string": "\u82e5token\u672c\u8eab\u53ea\u6709\u7279\u5b9a\u8cc7\u6e90\u4e4b\u4f7f\u7528\u6b0a\u9650\u7684\u8cc7\u8a0a\uff0c\u90a3\u9ebc\u5c31\u53ea\u80fd\u8868\u793a\u6b0a\u9650\u7684access token",
+            "uid": "1vlUwipjh"
+          }
+        ],
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "\u4f7f\u7528\u8005\u6216\u8005Relying Party \u5411OpenID Provider\u63d0\u4f9b\u7279\u5b9a\u8eab\u4efd\u7684\u8b49\u660e\u8cc7\u8a0a\uff0c\u63a5\u8457\u7531OpenID Provider\u5c0d\u5176\u9032\u884c\u9a57\u8b49\uff0c\u82e5\u9a57\u8b49\u6210\u529f\u5c31\u6703\u767c\u653e\u5c0d\u61c9token\u4f86\u4ee3\u8868\u5176\u6b0a\u9650\u548c\u4f7f\u7528\u8005\uff1a",
+        "uid": "NhMAkQ6MZ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698271961823,
+            "edit-time": 1698271961837,
+            "string": "\u7279\u5b9a\u8eab\u5206\u5c0d\u61c9\u7684client_id\u3001\u9a57\u8b49\u64cd\u7528\u7684\u8b58\u5225\u5b57\u3001\u540d\u5b57\u3001email\u3001\u5716\u7247\u3001\u751f\u65e5\u7b49\u500b\u4eba\u8cc7\u6599",
+            "uid": "7ao3U0nA-"
+          }
+        ],
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "id token\u593e\u96dc\u7684\u8eab\u5206\u8b49\u660e\u8cc7\u8a0a\u6703\u662f\uff1a",
+        "uid": "7MJ8wCUP7"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "id token \u672c\u8eab\u662f\u7528\u4f86\u8b49\u660e\u7279\u5b9a\u4f7f\u7528\u8005\u662f\u53d7\u904e\u8a8d\u8b49\u7684\u8cc7\u8a0a",
+        "uid": "QN-EtTZgC"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271961823,
+        "edit-time": 1698271961837,
+        "string": "\u5be6\u969b\u4e0a\u4f86\u8aaa\uff0cOpenID Connect \u898f\u683c\u66f8\u4e0d\u9700\u8981ID token \u53bb\u64c1\u6709\u4f7f\u7528\u8005\u7684\u8cc7\u8a0a\uff0c\u5728\u6700\u5c0f\u7684token\u67b6\u69cb\u4e2d\uff0c\u662ftoken\u5167\u7684\u8cc7\u8a0a\u662f\u6c92\u6709\u4efb\u4f55\u6709\u95dc\u65bc\u4f7f\u7528\u8005\u8cc7\u8a0a\uff0c\u5c31\u53ea\u662f\u95dc\u65bc\u9a57\u8b49\u64cd\u4f5c\u7684\u8cc7\u8a0a\u3002",
+        "uid": "-QPsilIv-"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271987531,
+        "edit-time": 1698271987531,
+        "string": "",
+        "uid": "KTxM-2NiX"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271968600,
+        "edit-time": 1698271985845,
+        "heading": 1,
+        "string": " id token \u69cb\u6210",
+        "uid": "kVmiLSGEX"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698271994935,
+            "edit-time": 1698271994936,
+            "string": "payload \u593e\u96dc\u8457\u7279\u5b9a\u8eab\u5206\u7684\u9a57\u8b49\u8cc7\u6599",
+            "uid": "gHQDcfkhn"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698272001455,
+            "edit-time": 1698272001455,
+            "string": "",
+            "uid": "xOJp1wswF"
+          }
+        ],
+        "create-time": 1698271994935,
+        "edit-time": 1698271994936,
+        "string": "id token \u7684\u69cb\u6210\u6703\u662f\u4ee5JWT \u7684Header\u3001payload\u3001Signature\u6240\u69cb\u6210\uff1a",
+        "uid": "qp5ULozGn"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272008854,
+        "edit-time": 1698272008854,
+        "heading": 1,
+        "string": "payload \u4e2d\u7684 aud claim",
+        "uid": "xy-VaNmY6"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272028334,
+        "edit-time": 1698272028334,
+        "string": "",
+        "uid": "CKHt14_Ks"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "4wrtc2ltA"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272020458,
+        "edit-time": 1698272039925,
+        "refs": [
+          {
+            "uid": "4wrtc2ltA"
+          }
+        ],
+        "string": "[[@VerifyGoogleIDa]]",
+        "uid": "LlJFkVz9J"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272041234,
+        "edit-time": 1698272041234,
+        "string": "> The value of\u00a0`aud`\u00a0in the ID token is equal to one of your app's client IDs. This check is necessary to prevent ID tokens issued to a malicious app being used to access data about the same user on your app's backend server.",
+        "uid": "MeEgVOT3R"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698272049427,
+            "edit-time": 1698272049438,
+            "string": "\u82e5\u662fid token\uff0caud \u503c\u6703\u662f\u4ee3\u8868\u7279\u5b9a\u8eab\u4efd\u7684\u8b58\u5225\u5b57\uff0c\u5728\u9019\u88e1\u6703\u662fclient_id",
+            "uid": "telE12XV_"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698272049427,
+            "edit-time": 1698272049438,
+            "string": "\u82e5\u662faccess token\uff0caud \u503c\u6703\u662f\u4ee3\u8868relying party\u6240\u8981\u5b58\u53d6\u7aef\u9ede\u4e4b\u8b58\u5225\u5b57",
+            "uid": "_9WHhgMBP"
+          }
+        ],
+        "create-time": 1698272049427,
+        "edit-time": 1698272049438,
+        "string": "aud \u672c\u8eab\u662f\u6307audience \uff0c\u5728\u9019\u88e1\u662f\u7528\u89c0\u773e\u3001\u807d\u773e\u7684\u6bd4\u55bb\u4f86\u63cf\u8ff0\u6700\u5f8c\u63a5\u6536\u5230\u7279\u5b9a\u8cc7\u6e90\u6b0a\u9650\u7684\u90a3\u4e00\u65b9\uff0c\u901a\u5e38\u6703\u662f\uff1a",
+        "uid": "Nv14bOa_o"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272049427,
+        "edit-time": 1698272049438,
+        "string": "aud claim \u6700\u4e3b\u8981\u662f\u9032\u884c\u900f\u904e\u8eab\u4efd\u9a57\u8b49\u4f86\u63a7\u5236token\u4ecd\u662f\u5206\u767c\u7d66\u5408\u6cd5\u7684\u4f7f\u7528\u8005\uff0c\u901a\u5e38\u6703\u62ffJWT\u88e1\u982d\u7684aud claim \u5f9eopenID Provider\u6216\u8005Authorization Server \u4e2d\u627e\u5230\u5c0d\u61c9\u8a2d\u5b9a\uff0c\u82e5\u6c92\u6709\u5c31\u5931\u6548\uff1b\u82e5\u6709\u5c31\u7e7c\u7e8c\u751f\u6548",
+        "uid": "3b85G_GBV"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272062172,
+        "edit-time": 1698272062172,
+        "string": "",
+        "uid": "331g0yOKm"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272066075,
+        "edit-time": 1698272066075,
+        "heading": 1,
+        "string": "\u9a57\u8b49\u65b9\u5f0f",
+        "uid": "B2c9ADY6I"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "ktVJtT0qw"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272077567,
+        "edit-time": 1698272095657,
+        "refs": [
+          {
+            "uid": "ktVJtT0qw"
+          }
+        ],
+        "string": "[[@auth0ValidateIDTokensa]]",
+        "uid": "h-K-tslec"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272072827,
+        "edit-time": 1698272072828,
+        "string": "> If any of these checks fail, the token is considered invalid, and the request must be rejected.",
+        "uid": "PfPIPTCHA"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272072827,
+        "edit-time": 1698272072828,
+        "string": "> 1. Validate the JWT.",
+        "uid": "cVrkXHanI"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698272072827,
+            "edit-time": 1698272072828,
+            "string": "Token audience (aud, string): The audience value for the token must match the client ID of the application as defined in your Application's Settings in the Client ID field.",
+            "uid": "gVL3Xg0Zm"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698272072827,
+            "edit-time": 1698272072828,
+            "string": "Nonce (nonce, string): Passing a nonce in the token request is recommended (required for the Implicit Flow) to help prevent replay attacks. The nonce value in the token must exactly match the original nonce sent in the request. See Mitigate Replay Attacks for details.",
+            "uid": "0-QukR-nn"
+          }
+        ],
+        "create-time": 1698272072827,
+        "edit-time": 1698272072828,
+        "string": "> 2. Check additional standard claims. If you've performed the standard JWT validation, you have already decoded the JWT's Payload and looked at its standard claims. Additional claims to verify for ID tokens include:",
+        "uid": "QlZmDhUIg"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272103501,
+        "edit-time": 1698272103502,
+        "string": "\u91cd\u9ede\uff1a",
+        "uid": "e_Cs2CkN9"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698272103501,
+            "edit-time": 1698272103502,
+            "string": "\u5148\u4ee5JWT\u898f\u5247\u4f86\u9a57\u8b49\u662f\u5426\u7ac4\u6539",
+            "uid": "I7hMGER6H"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "create-time": 1698272103501,
+                "edit-time": 1698272103502,
+                "string": "\u5c31\u9a57\u8b49\u5176\u503c\u662f\u5426\u9084\u5b58\u5728Authorization Server\u6216\u8005openID Provider\u7684\u9a57\u8b49\u8cc7\u6599\u7528\u7684\u7a7a\u9593\uff0c\u9084\u5b58\u5728\u5c31\u7e7c\u7e8c\u751f\u6548\uff1b\u5426\u5247\u5931\u6548",
+                "uid": "SSGfiuWa4"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "create-time": 1698272103501,
+                "edit-time": 1698272103502,
+                "string": "\u6bd4\u5c0daudience claim \u4e0b\u7684client-id \u548c\u4f7f\u7528\u8005\u63d0\u4f9b\u7684client-id \u662f\u5426\u4e00\u6a23\uff0c\u82e5\u4e0d\u4e00\u6a23\u7684\u8a71\uff0c\u5c31\u5931\u6548\uff1b\u82e5\u4e00\u6a23\u7684\u8a71\uff0c\u5c31\u8996\u70ba\u5408\u6cd5\u4f7f\u7528\u8005",
+                "uid": "ZH28tiieh"
+              }
+            ],
+            "create-time": 1698272103501,
+            "edit-time": 1698272103502,
+            "string": "\u9a57\u8b49\u89e3\u78bc\u5f8c\u7684payload\uff0c\u5982aud claim",
+            "uid": "Lq0L5i0me"
+          }
+        ],
+        "create-time": 1698272103501,
+        "edit-time": 1698272103502,
+        "string": "id token \u9a57\u8b49\u65b9\u5f0f\uff1a\u82e5\u6709\u4efb\u4e00\u6b65\u9a5f\u5931\u6557\uff0c\u5c31\u6703\u5c07token\u8996\u70ba\u975e\u6cd5",
+        "uid": "NqZrnPGU3"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272105401,
+        "edit-time": 1698272105401,
+        "string": "",
+        "uid": "RVkRowy3L"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272111592,
+        "edit-time": 1698272111592,
+        "heading": 1,
+        "string": "\u9a57\u8b49aud claim \u65b9\u5f0f",
+        "uid": "9bRp9lOZi"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Wy3YXegzp"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272112026,
+        "edit-time": 1698272136911,
+        "refs": [
+          {
+            "uid": "Wy3YXegzp"
+          }
+        ],
+        "string": "[[@JWTShuiChuangZaoLiaoWoWoTingMingYuShuia]]",
+        "uid": "uUp8cRcuW"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272125294,
+        "edit-time": 1698272125296,
+        "string": "> \u6211\u8fd9\u91cc\u6709\u4e24\u79cd\u65b9\u6848\uff1a",
+        "uid": "PwhmwaijX"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272125294,
+        "edit-time": 1698272125296,
+        "string": "> \u7b2c\u4e00\u79cd\uff0c\u662f\u9881\u53d1token\u7684\u65f6\u5019\u6709\u4e00\u4e2a\u53d7\u4f17\u4ebaaud \uff0c\u4e5f\u5c31\u662f\u9881\u53d1\u7ed9\u8c01\u00a0\uff0c\u6211\u4eec\u9881\u53d1token\u7684\u65f6\u5019\uff0c\u6bcf\u4e2a\u7528\u6237\u6839\u636e\u00a0username+pwd+datetime.now()\u00a0\u7684\u89c4\u5219\u4f5c\u4e3a\u9881\u53d1\u53d7\u4f17\u4eba\u3002",
+        "uid": "XOlqSx_xx"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272125294,
+        "edit-time": 1698272125296,
+        "string": "> \u8fd9\u6837\u5982\u679c\u66f4\u6539\u4e86\u7528\u6237\u540d\u6216\u8005\u5bc6\u7801\u5219\u53d7\u4f17\u4eba\u5c31\u4f1a\u53d8\u66f4\uff0c\u6b64\u65f6\u7684token\u5df2\u7ecf\u65e0\u6548\u4e86\u9700\u8981\u5237\u65b0token\u3002\u53e6\u5916datetime.now()\u4e5f\u53ef\u4ee5\u5b58\u5728\u7f13\u5b58\u6216\u8005\u7528\u6237\u8868\uff0c\u5f53\u7528\u6237\u9000\u51fa\u767b\u5f55\uff0c\u6216\u8005\u7ba1\u7406\u5458\u53d6\u6d88\u5176token\u6709\u6548\uff0c\u5219\u53ea\u9700\u66f4\u6539\u7528\u6237\u7684datetime\u65f6\u95f4\u5373\u53ef\uff0c\u53d7\u4f17\u4eba\u53d1\u751f\u53d8\u66f4\uff0ctoken\u65e0\u6548\u3002\u540e\u53f0\u9700\u914d\u7f6eValidateAudience = true,\u8fdb\u884c\u8ba4\u8bc1\u53d7\u4f17\u4eba\u662f\u5426\u4e00\u81f4\u3002",
+        "uid": "Ei5YPeCJZ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272125294,
+        "edit-time": 1698272125296,
+        "string": "> \u7b2c\u4e8c\u79cd\uff0c\u4e0a\u7bc7\u6587\u7ae0\u63d0\u5230\u8fc7payload\u8f7d\u4f53\u662f\u53ef\u4ee5\u6dfb\u52a0\u81ea\u5df1\u7684\u903b\u8f91\u7684\uff0c\u90a3\u4e48\u6211\u4eec\u53ef\u4ee5\u8d4b\u4e88\u4e00\u4e2a\u00a0version\u00a0\u4f5c\u4e3atoken\u7684\u7248\u672c\u4fe1\u606f\u3002\u4f8b\u5982\u9ed8\u8ba4\u6b63\u5e38\u4ea7\u751f\u7684token\u7248\uff0c\u4e5f\u53ef\u4ee5\u662f\u5f53\u524d\u65f6\u95f4\u7684\u65f6\u95f4\u6233\uff0c\u5e76\u8bb0\u5f55\u5230\u7528\u6237\u8868\u6216\u8005\u7528\u6237\u7f13\u5b58\u3002\u5f53token\u88ab\u7528\u6237\u5f3a\u5236\u5931\u6548\uff0c\u6216\u8005\u7ba1\u7406\u5458\u5f3a\u5236\u5931\u6548\uff0c\u5219\u53ea\u9700\u66f4\u6539\u8fd9\u4e2a\u7248\u672c\u4fe1\u606f\u5373\u53ef\u3002\u8ba4\u8bc1\u7684\u65f6\u5019\u5982\u679c\u53d1\u73b0\u7248\u672c\u4e0d\u4e00\u81f4\uff0c\u5219token\u5931\u6548\u3002",
+        "uid": "8mKQvqr7C"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272149901,
+        "edit-time": 1698272149901,
+        "string": "1. \u5728Authorization Server\u6216\u8005openID Provider \u4e2d\u7684\u4f7f\u7528\u8005\u8cc7\u6599\u8868\u683c\u4e0a\u6216\u8005\u5efa\u7acb\u4ee5\u4e0b\u8868\u683c\u4f86\u8a18\u9304\uff0c\u5c07\u7533\u8acbid token\u7684\u4f7f\u7528\u8005\u6a19\u8a18\u4e0a\u7279\u5b9a\u7684client_id\uff0c\u4e26\u5c07\u8a72client_id\u5beb\u5165\u81f3JWT\u4ee5\u505a\u6bd4\u5c0d\u3002\u7576\u5ba2\u6236\u7aef\u593e\u96dc\u8457JWT\u6642\uff0c\u4f3a\u670d\u5668\u5c31\u6703\u5f9eaud claim\u7372\u53d6\u5c0d\u61c9\u7684client_id\uff0c\u63a5\u8457\u5728\u6307\u5b9a\u8868\u683c\u4e0a\u627e\u770b\u770b\u6709\u6c92\u6709\u76f8\u7b26\u5408\uff0c\u6709\u7684\u8a71\u5c31\u7e7c\u7e8c\u8b93JWT\u751f\u6548\uff1b\u6c92\u7684\u8a71\u5c31\u8b93JWT\u5931\u6548",
+        "uid": "QbEps-CMV"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272171128,
+        "edit-time": 1698272214525,
+        "string": "```javascript\nuser1 | client_id\n------------\nuser1  client_id1\nuser2  client_id2```",
+        "uid": "rBvL48IxQ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698272222785,
+            "edit-time": 1698272235448,
+            "string": "~~\u5ba2\u6236\u7aef\u82e5\u8981\u81ea\u884c\u5931\u6548\uff0c\u5c31\u4fee\u6539\u5ba2\u6236\u7aef\u7a7a\u9593\u5167\u7684\u6642\u9593\u6233\u5167\u5bb9~~",
+            "uid": "RnHgiUy0w"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1698272222785,
+            "edit-time": 1698272237311,
+            "string": "~~\u4f3a\u670d\u5668\u82e5\u8981\u81ea\u884c\u5931\u6548\uff0c\u5c31\u4fee\u6539JWT\u4e2d\u7684\u6642\u9593\u6233\u5167\u5bb9~~",
+            "uid": "kk0fuUzSr"
+          }
+        ],
+        "create-time": 1698272222785,
+        "edit-time": 1698272231779,
+        "string": "~~2. \u7d00\u9304\u7279\u5b9a\u6642\u9593\u6233\u4f5c\u70ba\u662f\u7248\u672c\u5206\u5225\u5728\u5ba2\u6236\u7aef\u7a7a\u9593\u5132\u5b58\u548cJWT\u5132\u5b58\uff0c\u63a5\u8457\u62ff\u5169\u5730\u7684\u6642\u9593\u6233\u5167\u5bb9\u9032\u884c\u6bd4\u5c0d\uff0c\u82e5\u4e00\u6a23\u5c31\u7e7c\u7e8c\u751f\u6548\uff1b\u82e5\u4e0d\u4e00\u6a23\u5c31\u5931\u6548\uff0c\u57fa\u65bc\u9019\u9ede~~\uff1a",
+        "uid": "pjLlW3b1n"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272215958,
+        "edit-time": 1698272215958,
+        "string": "",
+        "uid": "V6n_YyyxT"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272054840,
+        "edit-time": 1698272162931,
+        "heading": 1,
+        "string": "claim \u547d\u540d\u7de3\u7531",
+        "uid": "zKN8ukdrd"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272169620,
+        "edit-time": 1698272169623,
+        "string": "claim\uff1a",
+        "uid": "IXLTMYsCF"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272169620,
+        "edit-time": 1698272169623,
+        "string": "> a statement that something is true or is a fact, although other people might not believe it",
+        "uid": "wbbZyrHl1"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272169620,
+        "edit-time": 1698272169623,
+        "string": "\u91cd\u9ede\uff1a",
+        "uid": "H1f2mM7SK"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272169620,
+        "edit-time": 1698272169623,
+        "string": "\u4ee5\u7279\u5b9a\u89d2\u5ea6\u4f86\u8aaa\u660e\u7279\u5b9a\u4e8b\u7269\u662f\u4e8b\u5be6\u7684\u63cf\u8ff0\uff0c\u4f46\u5c0d\u65bc\u5176\u4ed6\u4eba\u4f86\u8aaa\u53ef\u80fd\u6703\u4e0d\u76f8\u4fe1",
+        "uid": "sKSLIS2mG"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272265850,
+        "edit-time": 1698272265850,
+        "string": "",
+        "uid": "s5SAyG1Si"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272265235,
+        "edit-time": 1698272267015,
+        "string": "---",
+        "uid": "6-vnW19fw"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272267013,
+        "edit-time": 1698272267962,
+        "string": "---",
+        "uid": "uxCLq3ixK"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "YS6cycEk9"
+          },
+          {
+            ":block/uid": "wPCKAXO8o"
+          },
+          {
+            ":block/uid": "1e-fouj1A"
+          },
+          {
+            ":block/uid": "kVINL7xB6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272267959,
+        "edit-time": 1698272293875,
+        "refs": [
+          {
+            "uid": "YS6cycEk9"
+          },
+          {
+            "uid": "wPCKAXO8o"
+          },
+          {
+            "uid": "1e-fouj1A"
+          },
+          {
+            "uid": "kVINL7xB6"
+          }
+        ],
+        "string": "tags: [[OpenID]] [[OAuth]] [[Authorization]] [[Authentication]]",
+        "uid": "UJ7pQrMzn"
+      }
+    ],
+    "create-time": 1698271824633,
+    "edit-time": 1698271824634,
+    "title": "id token \u672c\u8eab\u662f\u7528\u4f86\u8b49\u660e\u7279\u5b9a\u4f7f\u7528\u8005\u662f\u53d7\u904e\u8a8d\u8b49\u7684\u8cc7\u8a0a\uff0c\u4f7f\u7528\u8005\u6216\u8005Relying Party \u5411OpenID Provider\u63d0\u4f9b\u7279\u5b9a\u8eab\u4efd\u7684\u8b49\u660e\u8cc7\u8a0a\uff0c\u63a5\u8457\u7531OpenID Provider\u5c0d\u5176\u9032\u884c\u9a57\u8b49\uff0c\u82e5\u9a57\u8b49\u6210\u529f\u5c31\u6703\u767c\u653e\u5c0d\u61c9token",
+    "uid": "dbM3YJOcl"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271849771,
+        "edit-time": 1698271849771,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: ID Token and Access Token: What Is the Difference?",
+        "uid": "-B2RNPlSE"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271849768,
+        "edit-time": 1698271849768,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Webpage",
+        "uid": "XSrz-fxb8"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271849764,
+        "edit-time": 1698271849764,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: https://auth0.com/blog/id-token-access-token-what-is-the-difference/",
+        "uid": "TOa-GtXCS"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698271849757,
+        "edit-time": 1698271849757,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/R6BAMMHT)",
+        "uid": "kQA_VZFGx"
+      }
+    ],
+    "create-time": 1698271849754,
+    "edit-time": 1698271849754,
+    "title": "@IDTokenAccessa",
+    "uid": "N3u94BqPS"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272036788,
+        "edit-time": 1698272036788,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: Verify the Google ID Token on Your Server Side | Authentication",
+        "uid": "jSkcvIg6H"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272036783,
+        "edit-time": 1698272036783,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Webpage",
+        "uid": "nSe9HHm00"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272036780,
+        "edit-time": 1698272036780,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: https://developers.google.com/identity/gsi/web/guides/verify-google-id-token",
+        "uid": "o0ekw8fin"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272036771,
+        "edit-time": 1698272036771,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/9NGVK6XH)",
+        "uid": "OC9NRqzeP"
+      }
+    ],
+    "create-time": 1698272036769,
+    "edit-time": 1698272036769,
+    "title": "@VerifyGoogleIDa",
+    "uid": "4wrtc2ltA"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272092163,
+        "edit-time": 1698272092163,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: Validate ID Tokens",
+        "uid": "wIlNPgki3"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "_T92I7_qg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272092158,
+        "edit-time": 1698272092158,
+        "refs": [
+          {
+            "uid": "_T92I7_qg"
+          }
+        ],
+        "string": "Author(s):: Auth0",
+        "uid": "RS1UKLSW3"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "81318G7KJ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272092153,
+        "edit-time": 1698272092153,
+        "refs": [
+          {
+            "uid": "81318G7KJ"
+          }
+        ],
+        "string": "Abstract:: Describes how to validate an ID token.",
+        "uid": "xhP-AzE3e"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272092140,
+        "edit-time": 1698272092140,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Webpage",
+        "uid": "45dT8TLRx"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272092135,
+        "edit-time": 1698272092135,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: https://auth0.com/docs/",
+        "uid": "qDvMqalQq"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272092130,
+        "edit-time": 1698272092130,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/2Q7FPNPS)",
+        "uid": "6BoG6SJjF"
+      }
+    ],
+    "create-time": 1698272092127,
+    "edit-time": 1698272092127,
+    "title": "@auth0ValidateIDTokensa",
+    "uid": "ktVJtT0qw"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272133106,
+        "edit-time": 1698272133106,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: JWT\uff1a\u8c01\u521b\u9020\u4e86\u6211\uff0c\u6211\u542c\u547d\u4e8e\u8c01 - \u6398\u91d1",
+        "uid": "ItsQ6ABt7"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272133102,
+        "edit-time": 1698272133102,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Webpage",
+        "uid": "JmxOjXUhp"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272133098,
+        "edit-time": 1698272133098,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: https://juejin.cn/post/7131956073472196621",
+        "uid": "WdBiQRQ_E"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1698272133092,
+        "edit-time": 1698272133092,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/RLYFDHTB)",
+        "uid": "l7R-VxrDW"
+      }
+    ],
+    "create-time": 1698272133089,
+    "edit-time": 1698272133089,
+    "title": "@JWTShuiChuangZaoLiaoWoWoTingMingYuShuia",
+    "uid": "Wy3YXegzp"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "create-time": 1698272293876,
+    "edit-time": 1698272293887,
+    "title": "Authentication",
+    "uid": "kVINL7xB6"
   }
 ]
