@@ -194,7 +194,7 @@ Pragma: no-cache
 - 
 - #Test authorization code grant type 在OAuth 上的授權流程中："假設使用者同意授權，認證授權伺服器會將使用者導向客戶端事先指定的URI並附上授權碼"，使用者向客戶端發送封包，請問HTTP動詞是為何？
     - `GET`
-- #Test authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該code、redirect_uri、client_id發送索要token請求"，應用服務A發送過來的導向請求形式會是什麼？內容又會是什麼？
+- #Test authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該code、redirect_uri、client_id發送索要token請求"，應用服務A發送過來的請求形式會是什麼？內容又會是什麼？
     -  `其請求會是以封包來進行，主要會在封包內部附加授權碼、當初申請授權碼的重導向URL、當初申請授權碼的client_id`
 - 
 - #Test authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所發送的請求是從何而來？發送至哪 

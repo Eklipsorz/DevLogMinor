@@ -9,8 +9,8 @@
 - OAuth：
     - 屬於標準、協定
     - 定義如何在不需要將 "擁有資源使用權限的使用者帳密" 給予 特定服務A的情況下，發放資源使用權限給特定服務A來代表使用者去做特定事情：
-        - 具體則是
-    - 代表權限的事物會是token，內容通常會是包含誰賦予誰權限、權限為何。
+        - 具體則是:
+            - 代表權限的事物會是token，內容通常會是包含誰賦予誰權限、權限為何。
 - 
 - #  OAuth 2.0 角色
 - [@OpenIDConnectShiShiMoa](<@OpenIDConnectShiShiMoa.md>)
@@ -47,7 +47,7 @@
 - 重點：
 - 讓特定應用程式A(客戶端)和服務提供商之間設定一個授權層，並只提供這種方式來讓客戶端進行登入和獲取資源，服務提供商拿著代表使用者特定權限的資料-token來登入授權層並獲取服務提供商的資源。
     - 授權層不接受特定身份的帳密來驗證，僅接受token來做驗證和授權
-- token會是由使用者來發放給特定應用程式A，並由它決定其權限範疇和有效期，好讓授權層依據權限範疇和有效期來安全存取服務提供商的資源
+- token會是由授權層發放給特定應用程式A，並由授權層決定其權限範疇和有效期，好讓授權層依據權限範疇和有效期來安全存取服務提供商的資源
 - ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1679061043/blog/OAuth/OAuth-Simple-Concept_vrcj0d.png)
 - > （A）用户打开客户端以后，客户端要求用户给予授权。
 - > （B）用户同意给予客户端授权。
@@ -65,9 +65,11 @@
     - Authorization Server認證授權資料並確認無誤，就發放其token
     - 客戶端使用token來向Resource Server來申請獲取資源
     - Resource Server 確認token 無誤就發放資源給客戶端
-- 在這裡 **使用者同意並給予授權資料至應用程式A** 由於Resource Server/Authorization Server無法識別出該授權資料會是合法的使用者提供的？以及其內容是否合法？，因此不能貿然以該資料來發放token，必須得用一些值得信任的方式來識別並發放，所以具體有以下方法：
-- 
-- 
+- 在這裡由於過程中需要授權同意的資料來申請token，所以會有以下問題:
+    - 授權同意的資料基本上會是由授權的那一方和被授權的一方而進行，而認證伺服器並不一定參與其中，所以無法讓認證伺服器認定該同意會是合法的
+    - 授權同意本身不能夠被當成token使用，理由為: 1. 認證伺服器難以管理其使用情況以及難以保證索要資源和回傳資源之間的一定安全性
+- 解法:
+    - 使用以下流程來進行，主旨為藉由讓認證伺服器參與授權同意的認證過程來進行
 - [@LiJieOAuthRuanYiFengDeWangLuoRiZhia](<@LiJieOAuthRuanYiFengDeWangLuoRiZhia.md>)
 - > 客户端必须得到用户的授权（authorization grant），才能获得令牌（access token）。OAuth 2.0定义了四种授权方式。
 - > -   授权码模式（authorization code）
@@ -159,7 +161,7 @@
 - [Test](<Test.md>) OAuth 的授權思路會是什麼？請以特定應用程式(客服端), 服務提供商和授權層來說明 
     -  `讓特定應用程式A(客戶端)和服務提供商之間設定一個授權層，並只提供這種方式來讓客戶端進行登入和獲取資源，服務提供商拿著代表使用者特定權限的資料-token來登入授權層並獲取服務提供商的資源。`
 - 
-- [Test](<Test.md>) OAuth 的授權思路會是什麼？其中讓特定應用程式A(客戶端)和服務提供商之間設定一個授權層，授權層會只接受什麼？面向於誰 
+- [Test](<Test.md>) OAuth 的授權思路會是什麼？其中讓特定應用程式A(客戶端)和服務提供商之間設定一個授權層，授權層會只接受什麼？面向於誰? 
     -  `僅面向於應用程式A，只接受於token來透過它獲取服務提供商的資源`
 - 
 - [Test](<Test.md>)  OAuth 的 token 中的權限和有效期會是由誰來決定 
@@ -173,14 +175,17 @@
 - 
 - [Test](<Test.md>) OAuth 概念 的 基本實現會有的流程，就以 **當使用者要授權給應用程式A來獲取Resource Server的服務時** 來說，請畫圖來說明 ->->-> 
     - ``
-- [Test](<Test.md>) 針對OAuth 概念 所實現的基本流程中，其中會有客戶端詢問使用者獲取授權同意的手段並以授權來申請使用resource server，普遍來說， 授權同意會不會具有一些安全性疑慮？有的話，會是什麼？ 
-    - `由於Resource Server/Authorization Server無法識別出該授權資料會是合法的使用者提供的？以及其內容是否合法？，因此不能貿然以該資料來發放token，必須得用一些值得信任的方式來識別並發放`
+- [Test](<Test.md>) 針對OAuth 概念 所實現的基本流程中，其中會有客戶端詢問使用者獲取授權同意的手段並以授權來申請使用resource server，普遍來說， 授權同意會不會具有一些問題？有的話，會是什麼？ 
+    - `1. 授權同意的資料基本上會是由授權的那一方和被授權的一方而進行，而認證伺服器並不一定參與其中，所以無法讓認證伺服器認定該同意會是合法的? 2.  授權同意不能會因第一個問題而無法被當成token去使用`
+- 
+- [Test](<Test.md>) 針對OAuth 概念 所實現的基本流程中，其中會有客戶端詢問使用者獲取授權同意的手段並以授權來申請使用resource server，普遍來說， 授權同意能不能直接被當作token來使用? 為什麼
+    - `授權同意本身不能夠被當成token使用，理由為: 1. 認證伺服器難以管理其使用情況以及難以保證索要資源和回傳資源之間的一定安全性`
 - 
 - [Test](<Test.md>) OAuth 概念下的實際會有授權方式會有哪四種？
     -  `authorization code、implicit、resource owner password credentials、client credentials`
 - 
 - [Test](<Test.md>) OAuth 概念下的實際會有授權方式會有哪四種，其中不論哪一種，哪一個server會負責驗證客戶端傳過來的token？
-    -  `resource server 或者 由resource server轉發token至authorization server來驗證`
+    -  `authorization server 或者 resource server`
 - 
 - [Test](<Test.md>) OAuth 概念下的實際會有授權方式會有四種，其中不論哪一種，server驗證access token是否為合法的方式為何？在這裡假定使用JWT來表示token
     -  `- 以JWT 驗證方式來驗證JWT是否被篡改 - 提取JWT的aud值並比對目前所存取的端點(由Resource Server提供Client想要存取的端點)是否一樣，若一樣就做下一步，否則報錯 - 提取JWT的scope值並比對目前所要存取的端點之對應動作(由Resource Server提供Client於存取端點想做的操作)是否允許，若允許就驗證成功，否則報錯

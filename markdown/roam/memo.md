@@ -1,4 +1,263 @@
 - ### data
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，若Client 獲取到token並向著Resource Server發送索要資料的請求，那麼Resource Server接收到會做什麼？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test  OAuth 的 token 中的權限和有效期會是由誰來決定 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，若Resource Server只會管理資源，那麼Resource Server會有什麼樣的業務 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，Client 和 Resource Owner 之間的差別。 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test OAuth 的授權思路會是什麼？請以特定應用程式(客服端), 服務提供商和授權層來說明 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test OAuth 完整名稱是Open Authentication 嗎？為什麼？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server和Authorization Server 之間差別是什麼？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server vs  Authorization Server 兩者在實現上是否能一台主機擔任兩個角色？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test OAuth 概念下的實際會有授權方式會有哪四種？
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test OAuth 的授權思路會是什麼？請以特定應用程式(客服端), 授權伺服器, 和授權層級，請畫圖來說明
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth中，其中Resource Server 將access token轉遞至Authorization Server，驗證成功就做下一步，失敗就回報錯誤，在這裡的驗證方式是什麼？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test OAuth 概念下的實際會有授權方式會有四種，其中不論哪一種，server驗證access token是否為合法的方式為何？在這裡假定使用JWT來表示token
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test  authorization code grant type 在OAuth 上的授權流程中：token 和 authorization code 之間的差別是什麼？
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization中，response_type會是指甚麼意思? 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server會有什麼樣的業務，請說明可能性？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server會負責什麼？
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test User Agent 在網頁上會泛指什麼？
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test OAuth 概念下的實際會有授權方式會有哪四種，其中不論哪一種，哪一個server會負責驗證客戶端傳過來的token？
+        - [[October 25th, 2023]] 🟠
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
+    - #Test 在Open Authorization 或者OAuth中，其中Resource Server 將token轉遞至Authorization Server，驗證成功就做下一步，失敗就回報錯誤，在這裡的驗證方式會是比對Client所提供的aud和scope是否正確，具體會是拿什麼比對？更準確的說，拿什麼比對aud和scope會較為信任 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test OAuth 概念 的 基本實現會有的流程，就以 **當使用者要授權給應用程式A來獲取Resource Server的服務時** 來說，請畫圖來說明 ->->-> 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 針對OAuth 概念 所實現的基本流程中，其中會有客戶端詢問使用者獲取授權同意的手段並以授權來申請使用resource server，普遍來說， 授權同意能不能直接被當作token來使用? 為什麼
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test Open Authorization 或者OAuth 會是什麼？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test OAuth 概念 的 基本實現會有的執行流程，就以 **當使用者要授權給應用程式A來獲取Resource Server的服務時** 來說 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，Authorization Server會負責什麼？
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth中，代表權限的事物會是什麼？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test OAuth 完整名稱是什麼？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，若Resource會管理資源和驗證Token，那麼Resource Server會有什麼樣的業務
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization中，grant_type會是指甚麼意思?
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 針對OAuth 概念 所實現的基本流程中，其中會有客戶端詢問使用者獲取授權同意的手段並以授權來申請使用resource server，普遍來說， 授權同意會不會具有一些問題？有的話，會是什麼？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test authorization code grant type 在OAuth 上是以什麼形式來讓認證授權伺服器認可為使用者合法授權的結果？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server、Authorization Server、Client、Resource Owner各為什麼意思？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test  authorization code grant type 在OAuth 上的授權流程中："假設使用者同意授權，認證授權伺服器會將使用者導向客戶端事先指定的URI並附上授權碼"，其授權碼就是代表使用者權限的token嗎？
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test authorization code grant type 在OAuth 上的授權流程中："假設使用者同意授權，認證授權伺服器會將使用者導向客戶端事先指定的URI並附上授權碼"，導向和主要目的的關係是如何？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth中，代表權限的事物會是token，那麼該token會夾雜著什麼資訊？
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test authorization code grant type 在OAuth 上的授權流程中："假設使用者同意授權，認證授權伺服器會將使用者導向客戶端事先指定的URI並附上授權碼"，其導向請求源自哪裡？ 會發送至哪？
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，導向和主要目的的關係是如何？ 
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server、Authorization Server 對應的Client 會是什麼？  
+        - [[October 25th, 2023]] 🔵
+            - nextDueDate:: [[October 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
     - #Test Snake Case 是什麼樣的命名法則？ 
         - [[October 25th, 2023]] 🔵
             - nextDueDate:: [[October 31st, 2023]]
@@ -755,7 +1014,7 @@
             - grade:: 4
 - ### cache
     - [[Test]]
-        - lastCompletedDate:: October 24th, 2023
+        - lastCompletedDate:: October 25th, 2023
     - 🧠
         - lastCompletedDate:: October 14th, 2023
     - 🧠
