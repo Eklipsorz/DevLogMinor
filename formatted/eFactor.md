@@ -5,112 +5,223 @@
 - [eFactor](<eFactor.md>)
 
 ## [roam/memo](<roam/memo.md>)
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
@@ -119,28 +230,55 @@
 - [October 24th, 2023](<October 24th, 2023.md>) 🟠
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
@@ -158,10 +296,19 @@
 - **[nextDueDate](<nextDueDate.md>):** [October 24th, 2023](<October 24th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
-- **[nextDueDate](<nextDueDate.md>):** [October 24th, 2023](<October 24th, 2023.md>)
+- **[nextDueDate](<nextDueDate.md>):** [October 31st, 2023](<October 31st, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 24th, 2023](<October 24th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 24th, 2023](<October 24th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
+- **[nextDueDate](<nextDueDate.md>):** [October 26th, 2023](<October 26th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
 - **[nextDueDate](<nextDueDate.md>):** [October 25th, 2023](<October 25th, 2023.md>)
