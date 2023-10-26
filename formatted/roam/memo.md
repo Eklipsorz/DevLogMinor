@@ -1,4 +1,186 @@
 - ### data
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中：authorization code 使用限制是有效時間通常很短，如10分鐘、用碼申請token的次數是有限的，如1次，若違反限制的話，會如何？
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該token、redirect_uri、client_id發送索要token請求"，請求中的參數- grant_type 、code、redirect_uri、client_id是什麼？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所需要的參數-scope為何是可選填參數？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) 在Open Authorization 或者OAuth的Client-Server中，會有什麼用語？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) OAuth 的授權思路會是什麼？其中讓特定應用程式A(客戶端)和服務提供商之間設定一個授權層，授權層會只接受什麼？面向於誰? 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："假設使用者同意授權，認證授權伺服器會將使用者導向客戶端事先指定的URI並附上授權碼"，使用者向客戶端發送封包，請問HTTP動詞是為何？
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所需要的參數-response_type、client_id、redirect_uri、scope、state是為何？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，應用服務A發送過來的導向請求形式會是什麼？內容又會是什麼？對於使用者來說是什麼意思 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所需要的參數-redirect_uri為何是可選填參數？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該code來向認證伺服器索要token請求"，請求中的參數會是如何？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中：authorization code 本身限制是什麼？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："假設使用者同意授權，認證授權伺服器會將使用者導向客戶端事先指定的URI並附上授權碼"，認證授權伺服器發送過來的導向請求形式會是什麼？內容又會是什麼？對於使用者來說是什麼意思? 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該redirect_uri、client_id發送索要token請求"，請求中的參數為何需要redirect_uri、client、code 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程為何？在這裡會有(網路服務提供商)Authorization Server、(應用服務A)Client、(使用者)Resource Owner、User Agent 以及 當使用者授與存取網路服務提供商的權利給應用服務A來存取時 ，請畫圖來表示
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth  流程中的 "使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權" ，請問主要參數的response_type為申請授權類型，若是authorization code grant type 版本，得填寫什麼？
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，從應用服務A發送過來的導向請求會是什麼？舉例來說，假如認證授權伺服器為server.example.com，端點為authorize 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所需要的必填參數會是什麼？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>)  authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以code、redirect_uri、client_id發送索要token請求"，其中應用程式A會以什麼http動詞來向伺服器發送token索求 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所需要的參數為何？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所發送的請求是從何而來？發送至哪 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>)  authorization code grant type 在OAuth 上的授權流程中："認證授權用的伺服器會從中驗證授權碼和當初申請授權碼的重導向URL是否正確無誤，若無誤，就會向客戶端的應用服務A發送access token和refresh token"，認證授權伺服器發送過來的回應封包會有哪些內容？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該code、redirect_uri、client_id發送索要token請求"，主要目的的關係是如何？
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>)  authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該token、redirect_uri、client_id發送索要token請求"，其中的grant_type 會是定義為？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程為何？在這裡會有(網路服務提供商)Authorization Server、(應用服務A)Client、(使用者)Resource Owner、User Agent 以及 當使用者授與存取網路服務提供商的權利給應用服務A來存取時
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該code、redirect_uri、client_id發送索要token請求"，應用服務A發送過來的請求形式會是什麼？內容又會是什麼？
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>)  authorization code grant type 在OAuth 上的授權流程中："假設使用者同意授權，認證授權伺服器會將使用者導向客戶端事先指定的URI並附上授權碼"，該步驟所需要的參數會是什麼？
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [October 28th, 2023](<../October 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 在Open Authorization 或者OAuth的Client-Server中，若Client 獲取到token並向著Resource Server發送索要資料的請求，那麼Resource Server接收到會做什麼？ 
         - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 2nd, 2023](<../November 2nd, 2023.md>)
@@ -991,6 +1173,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) RESTful API中的REST 是什麼？ 
+        - [October 27th, 2023](<../October 27th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 2nd, 2023](<../November 2nd, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [October 25th, 2023](<../October 25th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [October 26th, 2023](<../October 26th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -1296,7 +1484,7 @@
             - **[grade](<../grade.md>):** 4
 - ### cache
     - [Test](<../Test.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** October 25th, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** October 27th, 2023
     - 🧠
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
     - 🧠
