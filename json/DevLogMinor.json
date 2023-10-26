@@ -5254,6 +5254,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342843856,
+                    "edit-time": 1698342843856,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "HhGbzjl_M"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342843850,
+                    "edit-time": 1698342843850,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "wOLaoC9w6"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342843844,
+                    "edit-time": 1698342843844,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "6l-17vm5z"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342843832,
+                    "edit-time": 1698342843832,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "EZg3myFRB"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342843825,
+                    "edit-time": 1698342843825,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "VeS5CHgwr"
+                  }
+                ],
+                "create-time": 1698342843815,
+                "edit-time": 1698342843815,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "ifvczgpFp"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -5415,6 +5555,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342882675,
+                    "edit-time": 1698342882675,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "rAXBSlWO8"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342882669,
+                    "edit-time": 1698342882669,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "9WYMsOaxT"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342882663,
+                    "edit-time": 1698342882663,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "WNlMX0__u"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342882655,
+                    "edit-time": 1698342882655,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "LbQnVq-LC"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342882650,
+                    "edit-time": 1698342882650,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "poYZOaxjG"
+                  }
+                ],
+                "create-time": 1698342882637,
+                "edit-time": 1698342882637,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "Et4HtIfix"
+              },
               {
                 ":block/refs": [
                   {
@@ -5582,6 +5862,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342911363,
+                    "edit-time": 1698342911363,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "HZ-dYT7x3"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342911358,
+                    "edit-time": 1698342911358,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "ecD7UNuwg"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342911354,
+                    "edit-time": 1698342911354,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "sL0xcnRTE"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342911346,
+                    "edit-time": 1698342911346,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "k-lJODYd7"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342911340,
+                    "edit-time": 1698342911340,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "E7PhH1-KA"
+                  }
+                ],
+                "create-time": 1698342911330,
+                "edit-time": 1698342911330,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "CRF2kISI7"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -5743,6 +6163,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342943371,
+                    "edit-time": 1698342943371,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "eC28L7w6N"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342943366,
+                    "edit-time": 1698342943366,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "9fEg9uxZJ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342943360,
+                    "edit-time": 1698342943360,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "TqMkqSSCV"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342943352,
+                    "edit-time": 1698342943352,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "t49-Tdwek"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342943347,
+                    "edit-time": 1698342943347,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "DGaB5qIW5"
+                  }
+                ],
+                "create-time": 1698342943335,
+                "edit-time": 1698342943335,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "U_exjxFkL"
+              },
               {
                 ":block/refs": [
                   {
@@ -5910,6 +6470,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342960619,
+                    "edit-time": 1698342960619,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "a-ldvWlln"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342960615,
+                    "edit-time": 1698342960615,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "Eepi9vBez"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342960610,
+                    "edit-time": 1698342960610,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "dY7IJ5FGY"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342960603,
+                    "edit-time": 1698342960603,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "cjgutUxMC"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342960599,
+                    "edit-time": 1698342960599,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "vI2WYaMcB"
+                  }
+                ],
+                "create-time": 1698342960590,
+                "edit-time": 1698342960590,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "MKihC4feX"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -6071,6 +6771,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342979749,
+                    "edit-time": 1698342979749,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "39-zQh-gt"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342979743,
+                    "edit-time": 1698342979743,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "L6xgMnvHp"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342979738,
+                    "edit-time": 1698342979738,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "mUhP8aLF2"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342979730,
+                    "edit-time": 1698342979730,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "c2gkL3-HG"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342979725,
+                    "edit-time": 1698342979725,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "s6VrbUF33"
+                  }
+                ],
+                "create-time": 1698342979714,
+                "edit-time": 1698342979714,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "Nxs6a7Tck"
+              },
               {
                 ":block/refs": [
                   {
@@ -6238,6 +7078,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342996824,
+                    "edit-time": 1698342996824,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "x9-yPTahs"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342996819,
+                    "edit-time": 1698342996819,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "LwiabEj3k"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342996814,
+                    "edit-time": 1698342996814,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "8yHaFrlZ2"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342996806,
+                    "edit-time": 1698342996806,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "erpdOMmR-"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698342996801,
+                    "edit-time": 1698342996801,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "ApxmgijHp"
+                  }
+                ],
+                "create-time": 1698342996791,
+                "edit-time": 1698342996791,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "wZ4i1Ax0k"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -6399,6 +7379,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "10-28-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343006847,
+                    "edit-time": 1698343006847,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "10-28-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[October 28th, 2023]]",
+                    "uid": "qu1mWmOKT"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343006841,
+                    "edit-time": 1698343006841,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.1799999999999997",
+                    "uid": "k47196rkj"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343006837,
+                    "edit-time": 1698343006837,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 1",
+                    "uid": "2FYOmIhx4"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343006828,
+                    "edit-time": 1698343006828,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 1",
+                    "uid": "B1p5H6KWD"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343006824,
+                    "edit-time": 1698343006824,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "ZNzSkwl_u"
+                  }
+                ],
+                "create-time": 1698343006814,
+                "edit-time": 1698343006814,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "zYp5VmG-t"
+              },
               {
                 ":block/refs": [
                   {
@@ -6566,6 +7686,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343035946,
+                    "edit-time": 1698343035946,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "pSLX0dnus"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343035938,
+                    "edit-time": 1698343035938,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "c3Vlstu1U"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343035933,
+                    "edit-time": 1698343035933,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "asyktno3F"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343035927,
+                    "edit-time": 1698343035927,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "HA1ulDJ8c"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343035921,
+                    "edit-time": 1698343035921,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "VDzQsT-PR"
+                  }
+                ],
+                "create-time": 1698343035910,
+                "edit-time": 1698343035910,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "yUBAcIUWE"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -6727,6 +7987,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343110182,
+                    "edit-time": 1698343110182,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "68RPQQiRO"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343110176,
+                    "edit-time": 1698343110176,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "gR-yPVO8G"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343110171,
+                    "edit-time": 1698343110171,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "v7nj2RO3F"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343110163,
+                    "edit-time": 1698343110163,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "3KXqR6763"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343110157,
+                    "edit-time": 1698343110157,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "Kau5LtWo2"
+                  }
+                ],
+                "create-time": 1698343110148,
+                "edit-time": 1698343110148,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "sxAyat7v0"
+              },
               {
                 ":block/refs": [
                   {
@@ -6894,6 +8294,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343145106,
+                    "edit-time": 1698343145106,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "08LQj5cgH"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343145101,
+                    "edit-time": 1698343145101,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "rpHPa6gC0"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343145096,
+                    "edit-time": 1698343145096,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "0YDmMO-DZ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343145089,
+                    "edit-time": 1698343145089,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "FvWPvnMHG"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343145084,
+                    "edit-time": 1698343145084,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "bDL27tsGL"
+                  }
+                ],
+                "create-time": 1698343145075,
+                "edit-time": 1698343145075,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "HBGktwzFL"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -7055,6 +8595,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343175767,
+                    "edit-time": 1698343175767,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "yrDBVx7My"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343175761,
+                    "edit-time": 1698343175761,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "6zJvpmuLg"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343175756,
+                    "edit-time": 1698343175756,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "7XilcJ_eO"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343175747,
+                    "edit-time": 1698343175747,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "ac3Vc-xfK"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343175741,
+                    "edit-time": 1698343175741,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "Jy01J3UBb"
+                  }
+                ],
+                "create-time": 1698343175730,
+                "edit-time": 1698343175730,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "tWF5ZTqwI"
+              },
               {
                 ":block/refs": [
                   {
@@ -7222,6 +8902,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343222160,
+                    "edit-time": 1698343222160,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "EhI6goDWZ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343222153,
+                    "edit-time": 1698343222153,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "7cfq18cx4"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343222148,
+                    "edit-time": 1698343222148,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "eti39IfKt"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343222142,
+                    "edit-time": 1698343222142,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "U0-InKYjw"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343222137,
+                    "edit-time": 1698343222137,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "nSN8sOOca"
+                  }
+                ],
+                "create-time": 1698343222128,
+                "edit-time": 1698343222128,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "GnGtK_-q3"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -7383,6 +9203,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343232353,
+                    "edit-time": 1698343232353,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "PWk9ePx5D"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343232347,
+                    "edit-time": 1698343232347,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "U_eZdvpfo"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343232342,
+                    "edit-time": 1698343232342,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "nT2sAgRnJ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343232335,
+                    "edit-time": 1698343232335,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "TGFV_mh6n"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343232331,
+                    "edit-time": 1698343232331,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "g4h0x8KOS"
+                  }
+                ],
+                "create-time": 1698343232318,
+                "edit-time": 1698343232318,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "bAgPnD5TD"
+              },
               {
                 ":block/refs": [
                   {
@@ -7550,6 +9510,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343237205,
+                    "edit-time": 1698343237205,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "g2O_5pz1F"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343237200,
+                    "edit-time": 1698343237200,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "kZ1sGxBm0"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343237196,
+                    "edit-time": 1698343237196,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "jW3OUHoED"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343237191,
+                    "edit-time": 1698343237191,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "GNPoWD_YS"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343237186,
+                    "edit-time": 1698343237186,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "q2zQDRaRm"
+                  }
+                ],
+                "create-time": 1698343237178,
+                "edit-time": 1698343237178,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "gNv6JUwqo"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -7711,6 +9811,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343249732,
+                    "edit-time": 1698343249732,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "PtRSOA25V"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343249728,
+                    "edit-time": 1698343249728,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "EVAh94Wpx"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343249722,
+                    "edit-time": 1698343249722,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "9D57irS6D"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343249713,
+                    "edit-time": 1698343249713,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "z9gE8__HU"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343249710,
+                    "edit-time": 1698343249710,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "j9zCcOV6q"
+                  }
+                ],
+                "create-time": 1698343249704,
+                "edit-time": 1698343249704,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "Ml5XsgYL9"
+              },
               {
                 ":block/refs": [
                   {
@@ -7878,6 +10118,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343275453,
+                    "edit-time": 1698343275453,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "HHVEVAqwk"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343275448,
+                    "edit-time": 1698343275448,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "n2yPxnapv"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343275442,
+                    "edit-time": 1698343275442,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "jflXJYzMX"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343275434,
+                    "edit-time": 1698343275434,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "AwWB0nQjS"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343275429,
+                    "edit-time": 1698343275429,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "qdYS6Pbgo"
+                  }
+                ],
+                "create-time": 1698343275417,
+                "edit-time": 1698343275417,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "cKL2MBEn9"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -8039,6 +10419,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343289865,
+                    "edit-time": 1698343289865,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "uCXWj4mqW"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343289859,
+                    "edit-time": 1698343289859,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "MpFm8-aIG"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343289854,
+                    "edit-time": 1698343289854,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "pjgaai5OQ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343289845,
+                    "edit-time": 1698343289845,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "bJmQIj7Hs"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343289840,
+                    "edit-time": 1698343289840,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "NRtNNuye2"
+                  }
+                ],
+                "create-time": 1698343289830,
+                "edit-time": 1698343289830,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "8rN37zeUd"
+              },
               {
                 ":block/refs": [
                   {
@@ -8206,6 +10726,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "10-28-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343378727,
+                    "edit-time": 1698343378727,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "10-28-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[October 28th, 2023]]",
+                    "uid": "O6MCQIXJT"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343378719,
+                    "edit-time": 1698343378719,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.1799999999999997",
+                    "uid": "II8feTsDY"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343378714,
+                    "edit-time": 1698343378714,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 1",
+                    "uid": "hlwOMxFa_"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343378709,
+                    "edit-time": 1698343378709,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 0",
+                    "uid": "e7m9LHwNG"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343378705,
+                    "edit-time": 1698343378705,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 2",
+                    "uid": "HGkZur8yw"
+                  }
+                ],
+                "create-time": 1698343378695,
+                "edit-time": 1698343378695,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udfe0",
+                "uid": "4SGuCfhVh"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -8367,6 +11027,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343387088,
+                    "edit-time": 1698343387088,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "OGi6-H3Kt"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343387083,
+                    "edit-time": 1698343387083,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "CCZyfwGWL"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343387079,
+                    "edit-time": 1698343387079,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "tdEch6AVd"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343387071,
+                    "edit-time": 1698343387071,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "n-ou4PPJn"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343387065,
+                    "edit-time": 1698343387065,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "y8ygBROcw"
+                  }
+                ],
+                "create-time": 1698343387054,
+                "edit-time": 1698343387054,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "5e8rs1ZaR"
+              },
               {
                 ":block/refs": [
                   {
@@ -8534,6 +11334,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343417011,
+                    "edit-time": 1698343417011,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "mJkywLBLA"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343417003,
+                    "edit-time": 1698343417003,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "a4cs5tWBK"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343416997,
+                    "edit-time": 1698343416997,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "zWgnHgE6a"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343416992,
+                    "edit-time": 1698343416992,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "0OxqaxzGh"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343416988,
+                    "edit-time": 1698343416988,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "zifkl1zTp"
+                  }
+                ],
+                "create-time": 1698343416978,
+                "edit-time": 1698343416978,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "chGg3Wmp_"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -8695,6 +11635,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343427677,
+                    "edit-time": 1698343427677,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "I-tnjUDJQ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343427667,
+                    "edit-time": 1698343427667,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "WH12bHbth"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343427662,
+                    "edit-time": 1698343427662,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "rFBAyHl7x"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343427658,
+                    "edit-time": 1698343427658,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "1ON0qSD0P"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343427654,
+                    "edit-time": 1698343427654,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "LvraCI4i0"
+                  }
+                ],
+                "create-time": 1698343427650,
+                "edit-time": 1698343427650,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "eCwLjs7OS"
+              },
               {
                 ":block/refs": [
                   {
@@ -8862,6 +11942,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343448904,
+                    "edit-time": 1698343448904,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "3wYiI6h7D"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343448899,
+                    "edit-time": 1698343448899,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "nt_OeTNhs"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343448895,
+                    "edit-time": 1698343448895,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "1YVmD37GT"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343448887,
+                    "edit-time": 1698343448887,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "VRGNzbf8k"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343448883,
+                    "edit-time": 1698343448883,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "QJISeLG4v"
+                  }
+                ],
+                "create-time": 1698343448872,
+                "edit-time": 1698343448872,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "O6Q9OYYNx"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -9023,6 +12243,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343466200,
+                    "edit-time": 1698343466200,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "SFwbirXjj"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343466194,
+                    "edit-time": 1698343466194,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "W-huizZcx"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343466190,
+                    "edit-time": 1698343466190,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "RRFd5w3db"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343466181,
+                    "edit-time": 1698343466181,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "h34GNoir5"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343466176,
+                    "edit-time": 1698343466176,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "45IskaUYe"
+                  }
+                ],
+                "create-time": 1698343466163,
+                "edit-time": 1698343466163,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "MkiD-D9Eb"
+              },
               {
                 ":block/refs": [
                   {
@@ -9190,6 +12550,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343489113,
+                    "edit-time": 1698343489113,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "9_K6xMliQ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343489103,
+                    "edit-time": 1698343489103,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "_lg9XaY5b"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343489098,
+                    "edit-time": 1698343489098,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "yU4ypd8Wc"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343489093,
+                    "edit-time": 1698343489093,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "_BQ6GOgIM"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343489088,
+                    "edit-time": 1698343489088,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "EGmB5u9o0"
+                  }
+                ],
+                "create-time": 1698343489074,
+                "edit-time": 1698343489074,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "yiQfdyNg8"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -9354,6 +12854,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343508902,
+                    "edit-time": 1698343508902,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "BcF0A2Nb1"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343508888,
+                    "edit-time": 1698343508888,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "HGt4Tl1gD"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343508883,
+                    "edit-time": 1698343508883,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "T0IJmczjk"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343508876,
+                    "edit-time": 1698343508876,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "LoIcTxuX5"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343508871,
+                    "edit-time": 1698343508871,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "zXgGRq66X"
+                  }
+                ],
+                "create-time": 1698343508865,
+                "edit-time": 1698343508865,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "WzZRrkqjd"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -9515,6 +13155,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343536580,
+                    "edit-time": 1698343536580,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "gMW1Yka2F"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343536574,
+                    "edit-time": 1698343536574,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "0u6KwFaOW"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343536570,
+                    "edit-time": 1698343536570,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "snoNc8Lgl"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343536560,
+                    "edit-time": 1698343536560,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "oTg0mz3Ad"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343536555,
+                    "edit-time": 1698343536555,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "ls17A8xEs"
+                  }
+                ],
+                "create-time": 1698343536540,
+                "edit-time": 1698343536540,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "_FMJK_47B"
+              },
               {
                 ":block/refs": [
                   {
@@ -13634,6 +17414,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343549268,
+                    "edit-time": 1698343549268,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "5g3pzU3Hg"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343549257,
+                    "edit-time": 1698343549257,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.1799999999999997",
+                    "uid": "SVQxR2-k7"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343549253,
+                    "edit-time": 1698343549253,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "Km7c1abcG"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343549244,
+                    "edit-time": 1698343549244,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "KJyS1Yy1K"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343549239,
+                    "edit-time": 1698343549239,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "FaqCp5jbm"
+                  }
+                ],
+                "create-time": 1698343549229,
+                "edit-time": 1698343549229,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "wLqG2tKKQ"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -14239,6 +18159,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343570345,
+                    "edit-time": 1698343570345,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "yghmimAp1"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343570340,
+                    "edit-time": 1698343570340,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.1799999999999997",
+                    "uid": "4aIYSVu4s"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343570335,
+                    "edit-time": 1698343570335,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "BfZekubmC"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343570326,
+                    "edit-time": 1698343570326,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "8-NLByEtw"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343570321,
+                    "edit-time": 1698343570321,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "4nwMCwboo"
+                  }
+                ],
+                "create-time": 1698343570309,
+                "edit-time": 1698343570309,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "KrD1rhScs"
+              },
               {
                 ":block/refs": [
                   {
@@ -15151,6 +19211,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343625062,
+                    "edit-time": 1698343625062,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "0YdNuZYLy"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343625050,
+                    "edit-time": 1698343625050,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.1799999999999997",
+                    "uid": "rondZ85ZG"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343625045,
+                    "edit-time": 1698343625045,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "NE1gDKOKI"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343625040,
+                    "edit-time": 1698343625040,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "_1HrVmv2t"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343625035,
+                    "edit-time": 1698343625035,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "CbyOgM95h"
+                  }
+                ],
+                "create-time": 1698343625031,
+                "edit-time": 1698343625031,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "8UzD7gBu6"
+              },
               {
                 ":block/refs": [
                   {
@@ -16674,6 +20874,146 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343805222,
+                    "edit-time": 1698343805222,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "Dc23tj9Ks"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343805218,
+                    "edit-time": 1698343805218,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.1799999999999997",
+                    "uid": "fBDGqdDKg"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343805213,
+                    "edit-time": 1698343805213,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "oPUSRiAnn"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343805208,
+                    "edit-time": 1698343805208,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "CInU9oZcG"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343805203,
+                    "edit-time": 1698343805203,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "68q3py0R5"
+                  }
+                ],
+                "create-time": 1698343805192,
+                "edit-time": 1698343805192,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "wvYZQbio6"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "10-25-2023"
                   }
                 ],
@@ -16975,6 +21315,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343810895,
+                    "edit-time": 1698343810895,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "qqGbnWyBu"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343810883,
+                    "edit-time": 1698343810883,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.1799999999999997",
+                    "uid": "qaacnXAyu"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343810879,
+                    "edit-time": 1698343810879,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "AN3LgdeFs"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343810875,
+                    "edit-time": 1698343810875,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "G0_H0pp_3"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343810870,
+                    "edit-time": 1698343810870,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "6qoFrN3IB"
+                  }
+                ],
+                "create-time": 1698343810858,
+                "edit-time": 1698343810858,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "k4YLDSFoa"
+              },
               {
                 ":block/refs": [
                   {
@@ -18191,6 +22671,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343820226,
+                    "edit-time": 1698343820226,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "NbZybPKCB"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343820217,
+                    "edit-time": 1698343820217,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.1799999999999997",
+                    "uid": "0BBgUMhfC"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343820213,
+                    "edit-time": 1698343820213,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "hTYO63h68"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343820208,
+                    "edit-time": 1698343820208,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "tlYnpJ904"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343820204,
+                    "edit-time": 1698343820204,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "fU1DZfueC"
+                  }
+                ],
+                "create-time": 1698343820193,
+                "edit-time": 1698343820193,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "xktBUS_P9"
+              },
               {
                 ":block/refs": [
                   {
@@ -20015,6 +24635,146 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "10-27-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-02-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343840962,
+                    "edit-time": 1698343840962,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-02-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 2nd, 2023]]",
+                    "uid": "U39wEhdjR"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343840950,
+                    "edit-time": 1698343840950,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.1799999999999997",
+                    "uid": "Jb2lt2bO5"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343840945,
+                    "edit-time": 1698343840945,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 6",
+                    "uid": "GXEUUvW4T"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343840941,
+                    "edit-time": 1698343840941,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 2",
+                    "uid": "HqLPnd-ib"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1698343840937,
+                    "edit-time": 1698343840937,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "Y_QBVxjuH"
+                  }
+                ],
+                "create-time": 1698343840931,
+                "edit-time": 1698343840931,
+                "refs": [
+                  {
+                    "uid": "10-27-2023"
+                  }
+                ],
+                "string": "[[October 27th, 2023]] \ud83d\udd35",
+                "uid": "STc-9ptgF"
+              },
               {
                 ":block/refs": [
                   {
