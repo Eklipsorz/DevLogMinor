@@ -5,31 +5,61 @@
 - [grade](<grade.md>)
 
 ## [roam/memo](<roam/memo.md>)
-- **[repetitions](<repetitions.md>):** 1
+- **[repetitions](<repetitions.md>):** 2
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
-- **[repetitions](<repetitions.md>):** 1
+- **[repetitions](<repetitions.md>):** 2
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
-- **[repetitions](<repetitions.md>):** 1
+- **[repetitions](<repetitions.md>):** 2
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
-- **[repetitions](<repetitions.md>):** 1
+- **[repetitions](<repetitions.md>):** 2
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
+- **[repetitions](<repetitions.md>):** 2
+            - **[grade](<grade.md>):**
+
 - **[repetitions](<repetitions.md>):** 1
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 2
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 1
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 2
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 1
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 2
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 1
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 2
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 1
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 2
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 1
@@ -383,6 +413,9 @@
 - **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
+- **[repetitions](<repetitions.md>):** 2
+            - **[grade](<grade.md>):**
+
 - **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
@@ -413,10 +446,16 @@
 - **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
+- **[repetitions](<repetitions.md>):** 0
+            - **[grade](<grade.md>):**
+
 - **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 0
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 2
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 1
