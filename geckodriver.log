@@ -18788,3 +18788,57 @@ console.error: ({})
 JavaScript warning: https://browser.sentry-cdn.com/7.77.0/bundle.es5.min.js, line 2: Script terminated by timeout at:
 sentryWrapped@https://browser.sentry-cdn.com/7.77.0/bundle.es5.min.js:2:53861
 
+1698786422126	geckodriver	INFO	Listening on 127.0.0.1:37411
+1698786422995	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileq5dRaR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1698786428942	Marionette	INFO	Marionette enabled
+1698786429946	Marionette	INFO	Listening on port 43139
+Read port: 43139
+1698786430795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 1835, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-JpuIg6/firefox-119.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1835): GLib-GObject-CRITICAL **: 21:07:26.394: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1698786447972	Marionette	INFO	Stopped listening on port 43139
+JavaScript warning: https://browser.sentry-cdn.com/7.77.0/bundle.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.77.0/bundle.es5.min.js:2:53861
+
+1698786448950	geckodriver	INFO	Listening on 127.0.0.1:50387
+1698786449958	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileAUsY1Q"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1698786450249	Marionette	INFO	Marionette enabled
+1698786450331	Marionette	INFO	Listening on port 35373
+Read port: 35373
+1698786450552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2364, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-JpuIg6/firefox-119.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2364): GLib-GObject-CRITICAL **: 21:07:49.127: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1698786471009	Marionette	INFO	Stopped listening on port 35373
+1698786471869	geckodriver	INFO	Listening on 127.0.0.1:39551
+1698786472880	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileP1ATRX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1698786473191	Marionette	INFO	Marionette enabled
+1698786473275	Marionette	INFO	Listening on port 34227
+Read port: 34227
+1698786473357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2853, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-JpuIg6/firefox-119.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2853): GLib-GObject-CRITICAL **: 21:08:07.041: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1698786488679	Marionette	INFO	Stopped listening on port 34227
+JavaScript warning: https://js.intercomcdn.com/vendors~sentry.beb3b412.js, line 2: Script terminated by timeout at:
+u@https://js.intercomcdn.com/vendors~sentry.beb3b412.js:2:4911
+
