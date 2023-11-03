@@ -224,6 +224,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth的Client-Server中，若Client 獲取到token並向著Resource Server發送索要資料的請求，那麼Resource Server接收到會做什麼？ 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -237,6 +243,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  OAuth 的 token 中的權限和有效期會是由誰來決定 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -250,6 +262,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth的Client-Server中，若Resource Server只會管理資源，那麼Resource Server會有什麼樣的業務 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -263,6 +281,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth的Client-Server中，Client 和 Resource Owner 之間的差別。 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -276,6 +300,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 的授權思路會是什麼？請以特定應用程式(客服端), 服務提供商和授權層來說明 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -289,6 +319,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 完整名稱是Open Authentication 嗎？為什麼？ 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -302,6 +338,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server和Authorization Server 之間差別是什麼？ 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -315,6 +357,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server vs  Authorization Server 兩者在實現上是否能一台主機擔任兩個角色？ 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -328,6 +376,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 概念下的實際會有授權方式會有哪四種？
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -341,6 +395,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 的授權思路會是什麼？請以特定應用程式(客服端), 授權伺服器, 和授權層級，請畫圖來說明
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -354,6 +414,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth中，其中Resource Server 將access token轉遞至Authorization Server，驗證成功就做下一步，失敗就回報錯誤，在這裡的驗證方式是什麼？ 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -367,6 +433,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 概念下的實際會有授權方式會有四種，其中不論哪一種，server驗證access token是否為合法的方式為何？在這裡假定使用JWT來表示token
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -380,6 +452,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  authorization code grant type 在OAuth 上的授權流程中：token 和 authorization code 之間的差別是什麼？
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -393,6 +471,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization中，response_type會是指甚麼意思? 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -406,6 +490,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server會有什麼樣的業務，請說明可能性？ 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -419,6 +509,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth的Client-Server中，Resource Server會負責什麼？
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -432,6 +528,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test User Agent 在網頁上會泛指什麼？
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -458,6 +560,12 @@
             - repetitions:: 0
             - grade:: 2
     - #Test 在Open Authorization 或者OAuth中，其中Resource Server 將token轉遞至Authorization Server，驗證成功就做下一步，失敗就回報錯誤，在這裡的驗證方式會是比對Client所提供的aud和scope是否正確，具體會是拿什麼比對？更準確的說，拿什麼比對aud和scope會較為信任 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -471,6 +579,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 概念 的 基本實現會有的流程，就以 **當使用者要授權給應用程式A來獲取Resource Server的服務時** 來說，請畫圖來說明 ->->-> 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -484,6 +598,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 針對OAuth 概念 所實現的基本流程中，其中會有客戶端詢問使用者獲取授權同意的手段並以授權來申請使用resource server，普遍來說， 授權同意能不能直接被當作token來使用? 為什麼
+        - [[November 3rd, 2023]] 🟠
+            - nextDueDate:: [[November 4th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -497,6 +617,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test Open Authorization 或者OAuth 會是什麼？ 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -510,6 +636,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 概念 的 基本實現會有的執行流程，就以 **當使用者要授權給應用程式A來獲取Resource Server的服務時** 來說 
+        - [[November 3rd, 2023]] 🟠
+            - nextDueDate:: [[November 4th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -523,6 +655,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth的Client-Server中，Authorization Server會負責什麼？
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -536,6 +674,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在Open Authorization 或者OAuth中，代表權限的事物會是什麼？ 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -549,6 +693,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 完整名稱是什麼？ 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.5
@@ -1547,6 +1697,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Quiz 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Snake Case命名
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 13th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 10
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.1799999999999997
@@ -1642,6 +1798,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Quiz API端點名稱是以多個英文單字組成的話，可以使用什麼方法來將多個單字拆分成獨立的單字並以特定符號或者形式來區隔開來 
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 9th, 2023]]
+            - eFactor:: 1.8599999999999997
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[October 31st, 2023]] 🔵
             - nextDueDate:: [[November 1st, 2023]]
             - eFactor:: 1.8599999999999997
@@ -1667,6 +1829,12 @@
             - repetitions:: 0
             - grade:: 2
     - #Quiz API端點名稱是以多個英文單字組成的話，要怎麼做才能使端點更容易讓人類讀取？其概念為
+        - [[November 3rd, 2023]] 🔵
+            - nextDueDate:: [[November 13th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 10
+            - repetitions:: 3
+            - grade:: 4
         - [[October 27th, 2023]] 🔵
             - nextDueDate:: [[November 2nd, 2023]]
             - eFactor:: 2.1799999999999997
@@ -1810,6 +1978,6 @@
     - 🧠
         - lastCompletedDate:: October 14th, 2023
     - [[Quiz]]
-        - lastCompletedDate:: October 31st, 2023
+        - lastCompletedDate:: November 3rd, 2023
 - 
 - tags: [[Settings]]
