@@ -23,14 +23,23 @@
 - 重點:
 - OAuth 2.0 常見流程大都專注於如何授予使用者權限至client，並讓client持著代表權限的token去索要資源，但卻留下幾個問題:
     - token 的使用者(client)是否為合法對象(client)?
-    - 使用token的對象是否會濫用該token來索要資源
+    - ~~使用token的對象是否會濫用該token來索要資源~~
 - 造就其問題的原因為:
-    - 授予權限的過程沒對使用token的使用者進行 "使用者是否為合法使用者" 的相關認證
+    - 驗證token之過程沒對使用token的使用者進行 "使用者是否為合法使用者" 的相關認證
 - 解法概念為
-    -  讓即將頒發的token 增加受眾資訊，換言之，哪個受眾(audience)可以使用該token
-    - 在OpenID Connect 中是將 "誰可以使用該token" 受眾資訊添加至與token，該token 被命名為id token，命名緣由為: 該token是以特定已受過認證的使用者資訊而構成，並且綁定特定id來標明誰可以使用
-- ---
+    -  讓即將頒發的token 添加哪個使用者可以合法使用該token，並於驗證時去比對當時使用token的使用者和token的合法使用者之資訊是否一樣，若一樣就允許使用，若不一樣就不允許使用
+    - 在OpenID Connect 中的id token是添加哪audience claim 並填寫頒發token的最後接收者之id-客戶端的client id，每一次驗證token都會要求客戶端提供自身的client id來比對id token內的audience claim是否一樣。
 - 
+- 
+- ---
+- [Test](<Test.md>) OAuth 本身存在甚麼樣的問題
+    - 1. token 的使用者(client)是否為合法對象(client)?
+- [Test](<Test.md>) OAuth 存在著 "token 的使用者(client)是否為合法對象(client)" 這個問題，那麼其造成的原因為何?
+    - 驗證token之過程沒對使用token的使用者進行 "使用者是否為合法使用者" 的相關認證
+- [Test](<Test.md>) OAuth 存在著 "token 的使用者(client)是否為合法對象(client)" 這個問題，那麼解法概念為何?
+    - 讓即將頒發的token 添加哪個使用者可以合法使用該token，並於驗證時去比對當時使用token的使用者和token的合法使用者之資訊是否一樣，若一樣就允許使用，若不一樣就不允許使用
+- [Test](<Test.md>) 在OpenID Connect 中，id token 針對"token 的使用者(client)是否為合法對象(client)" 這個問題，其實際做法是甚麼? 
+    -  在OpenID Connect 中的id token是添加哪audience claim 並填寫頒發token的最後接收者之id-客戶端的client id，每一次驗證token都會要求客戶端提供自身的client id來比對id token內的audience claim是否一樣。
 - ---
 - tags: [Authorization](<Authorization.md>) [OpenID](<OpenID.md>) [OAuth](<OAuth.md>)
 - links: [id token 本身是用來證明特定使用者是受過認證的資訊，使用者或者Relying Party 向OpenID Provider提供特定身份的證明資訊，接著由OpenID Provider對其進行驗證，若驗證成功就會發放對應token](<id token 本身是用來證明特定使用者是受過認證的資訊，使用者或者Relying Party 向OpenID Provider提供特定身份的證明資訊，接著由OpenID Provider對其進行驗證，若驗證成功就會發放對應token.md>)

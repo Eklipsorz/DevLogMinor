@@ -242,13 +242,13 @@ Pragma: no-cache
 - [Test](<Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該token、redirect_uri、client_id發送索要token請求"，請求中的參數- grant_type 、code、redirect_uri、client_id是什麼？ 
     -  `		- grant_type：定義要使用何種方式來授權，這裡會是authorization_code - code：用來申請token用的授權碼 - redirect_uri：是指當初應用程式A接收code用的重導向URI，主要會與步驟A、步驟C的重導向URI保持一致 - client_id：應用程式A在認證授權伺服器中所註冊的client_id`
 - 
-- [Test](<Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該redirect_uri、client_id發送索要token請求"，請求中的參數為何需要redirect_uri、client、code 
+- [Test](<Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該redirect_uri、client_id發送索要token請求"，請求中的參數為何需要redirect_uri、client_id、code 
     - `需要驗證該應用服務是否為當初向使用者發送授權申請`
 - 
 - [Test](<Test.md>)  authorization code grant type 在OAuth 上的授權流程中："認證授權用的伺服器會從中驗證授權碼和當初申請授權碼的重導向URL是否正確無誤，若無誤，就會向客戶端的應用服務A發送access token和refresh token"，認證授權伺服器發送過來的回應封包會有哪些內容？ 
     -  `	- access_token：表示其使用者授予權限的token - token_type：表示token種類，可以是bearer類型 - expires_in：表示過期時間，單位為秒 - refresh_token：表示用來申請access-token的token - scope：表示access_token被授與的權限為何`
 - 
-- [Test](<Test.md>)  authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該token、redirect_uri、client_id發送索要token請求"，其中的grant_type 會是定義為？ 
+- [Test](<Test.md>)  authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該token、redirect_uri、client_id發送索要token請求"，那麼其中的grant_type 會是填寫為？ 
     -  ` authorization_code`
 - 
 - [Test](<Test.md>)  authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以code、redirect_uri、client_id發送索要token請求"，其中應用程式A會以什麼http動詞來向伺服器發送token索求 

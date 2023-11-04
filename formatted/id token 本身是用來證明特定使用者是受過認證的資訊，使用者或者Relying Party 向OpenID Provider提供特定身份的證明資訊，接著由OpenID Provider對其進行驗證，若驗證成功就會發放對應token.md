@@ -1,7 +1,9 @@
 - [@IDTokenAccessa](<@IDTokenAccessa.md>)
 - > What Is an ID Token?
 - > An ID token is an artifact that proves that the user has been authenticated. It was introduced by OpenID Connect (OIDC), an open standard for authentication used by many identity providers such as Google, Facebook, and, of course, Auth0. Check out this document for more details on OpenID Connect. Let's take a quick look at the problem OIDC wants to resolve
-- ID token 是一個用來證明使用者是受過認證的資訊，其概念是由OIDC 這個驗證標準。
+- ID token 由於本身是由使用者向外部認證伺服器進行特定使用者資訊的認證並要求頒發綁定其資訊的token給予使用者而被命名經過外部認證伺服器認證其身分的id token
+- 
+- 用來證明使用者是受過認證的資訊，其概念是由OIDC 這個驗證標準。
 - ![](https://images.ctfassets.net/23aumh6u8s0i/4x34jgYBU7vjBYLumNr9Sg/57e0b420de0d27568981af4aef0ab27f/id-token-scenario.png)
 - 
 - > Here, a user with their browser authenticates against an OpenID provider and gets access to a web application.
@@ -109,6 +111,9 @@ user2  client_id2```
 - 以特定角度來說明特定事物是事實的描述，但對於其他人來說可能會不相信
 - 
 - ---
+- [Test](<Test.md>) id token的命名緣由為何?
+    - ID token 由於本身是由使用者向外部認證伺服器進行特定使用者資訊的認證並要求頒發綁定其資訊的token給予使用者而被命名經過外部認證伺服器認證其身分的id token
+- 
 - ---
 - tags: [OpenID](<OpenID.md>) [OAuth](<OAuth.md>) [Authorization](<Authorization.md>) [Authentication](<Authentication.md>)
 
