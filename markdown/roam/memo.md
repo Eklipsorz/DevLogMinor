@@ -2224,6 +2224,6 @@
     - 🧠
         - lastCompletedDate:: October 14th, 2023
     - [[Quiz]]
-        - lastCompletedDate:: November 4th, 2023
+        - lastCompletedDate:: November 6th, 2023
 - 
 - tags: [[Settings]]

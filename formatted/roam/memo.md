@@ -2224,7 +2224,7 @@
     - 🧠
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
     - [Quiz](<../Quiz.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 4th, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 6th, 2023
 - 
 - tags: [Settings](<../Settings.md>)
 
