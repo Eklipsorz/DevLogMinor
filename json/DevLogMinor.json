@@ -2201,6 +2201,170 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "VtfN5UTzY"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "11-07-2023"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                ":edit/user": {
+                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "guW5uA47v"
+                      },
+                      {
+                        ":block/uid": "11-08-2023"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1699330294600,
+                    "edit-time": 1699330294600,
+                    "refs": [
+                      {
+                        "uid": "guW5uA47v"
+                      },
+                      {
+                        "uid": "11-08-2023"
+                      }
+                    ],
+                    "string": "nextDueDate:: [[November 8th, 2023]]",
+                    "uid": "uAKh08Lhg"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sZ80DHP8d"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1699330294593,
+                    "edit-time": 1699330294593,
+                    "refs": [
+                      {
+                        "uid": "sZ80DHP8d"
+                      }
+                    ],
+                    "string": "eFactor:: 2.5",
+                    "uid": "HHQFU_ILV"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6j1XSyImW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1699330294584,
+                    "edit-time": 1699330294584,
+                    "refs": [
+                      {
+                        "uid": "6j1XSyImW"
+                      }
+                    ],
+                    "string": "interval:: 1",
+                    "uid": "svZH1l4s0"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1699330294573,
+                    "edit-time": 1699330294573,
+                    "refs": [
+                      {
+                        "uid": "HvgyuNmQ6"
+                      }
+                    ],
+                    "string": "repetitions:: 1",
+                    "uid": "Y-F-PNXrq"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FLpuUYtx-"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1699330294557,
+                    "edit-time": 1699330294557,
+                    "refs": [
+                      {
+                        "uid": "FLpuUYtx-"
+                      }
+                    ],
+                    "string": "grade:: 4",
+                    "uid": "_Uui7xrik"
+                  }
+                ],
+                "create-time": 1699330294550,
+                "edit-time": 1699330294550,
+                "refs": [
+                  {
+                    "uid": "11-07-2023"
+                  }
+                ],
+                "string": "[[November 7th, 2023]] \ud83d\udd35",
+                "uid": "-oYglYOHd"
+              }
+            ],
+            "create-time": 1699330294515,
+            "edit-time": 1699330294515,
+            "refs": [
+              {
+                "uid": "VtfN5UTzY"
+              }
+            ],
+            "string": "((VtfN5UTzY))",
+            "uid": "UJTGMdipy"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "oovUj_9a6"
               }
             ],
@@ -56474,15 +56638,15 @@
                 ":edit/user": {
                   ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
                 },
-                "create-time": 1699049142662,
-                "edit-time": 1699049142662,
+                "create-time": 1699330293587,
+                "edit-time": 1699330293587,
                 "refs": [
                   {
                     "uid": "PRsqAeqMn"
                   }
                 ],
-                "string": "lastCompletedDate:: November 4th, 2023",
-                "uid": "THOg0pcX5"
+                "string": "lastCompletedDate:: November 7th, 2023",
+                "uid": "P4biW5QfT"
               }
             ],
             "create-time": 1698093334925,
@@ -70751,5 +70915,95 @@
     "edit-time": 1699329647327,
     "title": "November 8th, 2023",
     "uid": "11-08-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1699331797551,
+        "edit-time": 1699331980818,
+        "string": "https://en.m.wikipedia.org/wiki/Relying_party",
+        "uid": "7nRJisVyc"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1699331771225,
+        "edit-time": 1699331806775,
+        "string": "> A relying party (RP) is a computer term used to refer to a server providing access to a secured software application.",
+        "uid": "oGnghkFo2"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1699332185856,
+        "edit-time": 1699332185856,
+        "string": "",
+        "uid": "gT6bitcey"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1699331981762,
+        "edit-time": 1699332208711,
+        "string": "",
+        "uid": "JL5gvliIF"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1699331982139,
+        "edit-time": 1699331982139,
+        "string": "",
+        "uid": "ttsjBDDC_"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "edit-time": 1699332036932,
+        "string": "> The spec seems to call the identity provider \"OpenID Provider\" or \"OP\" representing the authorization server that issues tokens and verifies credentials of users and clients",
+        "uid": "2fqAkhnML"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "edit-time": 1699332029700,
+        "string": "The relying party is the client--the app that relies on the tokens and credential-validation of the OP",
+        "uid": "LcxcHta30"
+      }
+    ],
+    "create-time": 1699331769277,
+    "edit-time": 1699331772959,
+    "title": "Relying Party",
+    "uid": "wP3n-rmcS"
   }
 ]

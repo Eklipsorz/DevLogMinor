@@ -1,4 +1,11 @@
 - ### data
+    - [Test](<../Test.md>) OAuth 存在著 "token 的使用者(client)是否為合法對象(client)" 這個問題，那麼解法概念為何?
+        - [November 7th, 2023](<../November 7th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 8th, 2023](<../November 8th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) OAuth 本身存在甚麼樣的問題
         - [November 7th, 2023](<../November 7th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 8th, 2023](<../November 8th, 2023.md>)
@@ -2322,7 +2329,7 @@
             - **[grade](<../grade.md>):** 4
 - ### cache
     - [Test](<../Test.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 4th, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 7th, 2023
     - 🧠
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
     - 🧠

@@ -20,6 +20,9 @@
 - [November 7th, 2023](<November 7th, 2023.md>) 🔵
             - **[nextDueDate](<nextDueDate.md>):**
 
+- [November 7th, 2023](<November 7th, 2023.md>) 🔵
+            - **[nextDueDate](<nextDueDate.md>):**
+
 - [October 31st, 2023](<October 31st, 2023.md>) 🔵
             - **[nextDueDate](<nextDueDate.md>):**
 

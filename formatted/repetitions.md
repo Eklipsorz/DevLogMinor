@@ -17,6 +17,9 @@
 - **[interval](<interval.md>):** 1
             - **[repetitions](<repetitions.md>):**
 
+- **[interval](<interval.md>):** 1
+            - **[repetitions](<repetitions.md>):**
+
 - **[interval](<interval.md>):** 12
             - **[repetitions](<repetitions.md>):**
 

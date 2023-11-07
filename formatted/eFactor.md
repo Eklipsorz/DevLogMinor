@@ -17,6 +17,9 @@
 - **[nextDueDate](<nextDueDate.md>):** [November 8th, 2023](<November 8th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 
+- **[nextDueDate](<nextDueDate.md>):** [November 8th, 2023](<November 8th, 2023.md>)
+            - **[eFactor](<eFactor.md>):**
+
 - **[nextDueDate](<nextDueDate.md>):** [November 19th, 2023](<November 19th, 2023.md>)
             - **[eFactor](<eFactor.md>):**
 

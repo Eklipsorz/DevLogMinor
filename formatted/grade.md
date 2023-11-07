@@ -17,6 +17,9 @@
 - **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
+- **[repetitions](<repetitions.md>):** 1
+            - **[grade](<grade.md>):**
+
 - **[repetitions](<repetitions.md>):** 3
             - **[grade](<grade.md>):**
 

@@ -1,4 +1,11 @@
 - ### data
+    - #Test OAuth 存在著 "token 的使用者(client)是否為合法對象(client)" 這個問題，那麼解法概念為何?
+        - [[November 7th, 2023]] 🔵
+            - nextDueDate:: [[November 8th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
     - #Test OAuth 本身存在甚麼樣的問題
         - [[November 7th, 2023]] 🔵
             - nextDueDate:: [[November 8th, 2023]]
@@ -2322,7 +2329,7 @@
             - grade:: 4
 - ### cache
     - [[Test]]
-        - lastCompletedDate:: November 4th, 2023
+        - lastCompletedDate:: November 7th, 2023
     - 🧠
         - lastCompletedDate:: October 14th, 2023
     - 🧠
