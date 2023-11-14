@@ -1,5 +1,11 @@
 - ### data
     - #Test OAuth 存在著 "token 的使用者(client)是否為合法對象(client)" 這個問題，那麼解法概念為何?
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 20th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 7th, 2023]] 🔵
             - nextDueDate:: [[November 8th, 2023]]
             - eFactor:: 2.5
@@ -7,6 +13,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 本身存在甚麼樣的問題
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 20th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 7th, 2023]] 🔵
             - nextDueDate:: [[November 8th, 2023]]
             - eFactor:: 2.5
@@ -14,6 +26,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 在OpenID Connect 中，id token 針對"token 的使用者(client)是否為合法對象(client)" 這個問題，其實際做法是甚麼? 
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 20th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 7th, 2023]] 🔵
             - nextDueDate:: [[November 8th, 2023]]
             - eFactor:: 2.5
@@ -21,6 +39,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test id token的命名緣由為何?
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 20th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 7th, 2023]] 🔵
             - nextDueDate:: [[November 8th, 2023]]
             - eFactor:: 2.5
@@ -28,6 +52,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 存在著 "token 的使用者(client)是否為合法對象(client)" 這個問題，那麼其造成的原因為何?
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 20th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 7th, 2023]] 🔵
             - nextDueDate:: [[November 8th, 2023]]
             - eFactor:: 2.5
@@ -301,6 +331,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test authorization code grant type 在OAuth  流程中的 "使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權" ，請問主要參數的response_type為申請授權類型，若是authorization code grant type 版本，得填寫什麼？
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -314,6 +350,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，從應用服務A發送過來的導向請求會是什麼？舉例來說，假如認證授權伺服器為server.example.com，端點為authorize 
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -352,6 +394,12 @@
             - repetitions:: 0
             - grade:: 2
     - #Test  authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以code、redirect_uri、client_id發送索要token請求"，其中應用程式A會以什麼http動詞來向伺服器發送token索求 
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -365,6 +413,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所需要的參數為何？ 
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -378,6 +432,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所發送的請求是從何而來？發送至哪 
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -391,6 +451,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  authorization code grant type 在OAuth 上的授權流程中："認證授權用的伺服器會從中驗證授權碼和當初申請授權碼的重導向URL是否正確無誤，若無誤，就會向客戶端的應用服務A發送access token和refresh token"，認證授權伺服器發送過來的回應封包會有哪些內容？ 
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -404,6 +470,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該code、redirect_uri、client_id發送索要token請求"，主要目的的關係是如何？
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -442,6 +514,12 @@
             - repetitions:: 0
             - grade:: 2
     - #Test authorization code grant type 在OAuth 上的授權流程為何？在這裡會有(網路服務提供商)Authorization Server、(應用服務A)Client、(使用者)Resource Owner、User Agent 以及 當使用者授與存取網路服務提供商的權利給應用服務A來存取時
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -455,6 +533,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該code、redirect_uri、client_id發送索要token請求"，應用服務A發送過來的請求形式會是什麼？內容又會是什麼？
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -468,6 +552,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  authorization code grant type 在OAuth 上的授權流程中："假設使用者同意授權，認證授權伺服器會將使用者導向客戶端事先指定的URI並附上授權碼"，該步驟所需要的參數會是什麼？
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 26th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.5
@@ -804,6 +894,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth 概念下的實際會有授權方式會有哪四種，其中不論哪一種，哪一個server會負責驗證客戶端傳過來的token？
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 24th, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 10
+            - repetitions:: 3
+            - grade:: 4
         - [[November 4th, 2023]] 🔵
             - nextDueDate:: [[November 10th, 2023]]
             - eFactor:: 2.1799999999999997
@@ -1049,6 +1145,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 針對OAuth 概念 所實現的基本流程中，其中會有客戶端詢問使用者獲取授權同意的手段並以授權來申請使用resource server，普遍來說， 授權同意會不會具有一些問題？有的話，會是什麼？ 
+        - [[November 14th, 2023]] 🔵
+            - nextDueDate:: [[November 20th, 2023]]
+            - eFactor:: 1.8599999999999997
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 7th, 2023]] 🔵
             - nextDueDate:: [[November 8th, 2023]]
             - eFactor:: 1.8599999999999997
@@ -1688,6 +1790,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test REST是一種 以資源為中心，用HTTP方法操作資源，並且最終目標為打造出滿足於HATEOAS之產品的網路軟體開發風格，請問何謂最終目標？說明清楚那HATEOAS之產品 
+        - [[November 14th, 2023]] 🟠
+            - nextDueDate:: [[November 15th, 2023]]
+            - eFactor:: 1.5399999999999996
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
         - [[November 7th, 2023]] 🔵
             - nextDueDate:: [[November 8th, 2023]]
             - eFactor:: 1.8599999999999997
@@ -2725,7 +2833,7 @@
             - grade:: 4
 - ### cache
     - [[Test]]
-        - lastCompletedDate:: November 7th, 2023
+        - lastCompletedDate:: November 14th, 2023
     - 🧠
         - lastCompletedDate:: October 14th, 2023
     - 🧠
