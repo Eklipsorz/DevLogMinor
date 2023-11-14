@@ -1,4 +1,4 @@
-- 
+- [@LiJieOAuthRuanYiFengDeWangLuoRiZhia](<@LiJieOAuthRuanYiFengDeWangLuoRiZhia.md>)
 - > ## 简化模式
 - > 简化模式（implicit grant type）不通过第三方应用程序的服务器，直接在浏览器中向认证服务器申请令牌，跳过了"授权码"这个步骤，因此得名。所有步骤在浏览器中完成，令牌对访问者是可见的，且客户端不需要认证。
 - ![](https://www.ruanyifeng.com/blogimg/asset/2014/bg2014051205.png)
@@ -33,6 +33,8 @@
     - implicit grant type 這模式還分出兩個版本：
         - 第一個版本：redirect_uri 是用來提供獲取Token的script
         - 第二個版本為： redirect_uri 是用來接收token的地點
+        - [implicit grant type的 第二個版本為，主要利用 redirect_uri 來將token傳遞至client](<implicit grant type的 第二個版本為，主要利用 redirect_uri 來將token傳遞至client.md>)
+        - 
 - ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1679229338/blog/OAuth/OAuth-implicit-version1_a4o6wt.png)
 - 
 - ## 步驟A所需要的參數
@@ -112,29 +114,40 @@ Location: http://example.com/cb[access_token](<access_token.md>)=2YotnFZFEjr1zCs
 - [Test](<Test.md>)  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳 
     -  `以URI Fragment形式來回傳token`
 - 
-- #🧠 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳，請舉一個URI作為例子 ->->-> `http://example.com/cb[access_token](<access_token.md>)=2YotnFZFEjr1zCsicMWpAA &state=xyz&token_type=example&expires_in=3600`
-- <!--SR:!2024-03-24,214,250-->
-- #🧠 implicit grant type 在OAuth 中存在兩個主要版本，主要會是什麼？ ->->-> `- 第一個版本：redirect_uri 是用來提供獲取Token的script - 第二個版本為： redirect_uri 是用來接收token的地點`
-- <!--SR:!2024-03-19,213,250-->
-- #🧠 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問請求封包源自於哪裡？發送至哪？形式為何？ ->->-> `形式為URI(URI參數)、封包，源自於客戶端所發送的請求封包，發送至認證伺服器`
-- <!--SR:!2024-02-03,172,230-->
-- #🧠 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問使用者向認證伺服器發送授權請求的http動詞會是什麼？ ->->-> `GET`
-- <!--SR:!2024-04-23,248,250-->
-- #🧠  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數為何？做什麼用 ->->-> `	- response_type： 表示授權類型為何 - client_id：表示客戶端應用程式在認證伺服器上所註冊的client_id - redirect_uri：定義哪邊提供Script或者哪邊接收token - scope：定義申請的權限範疇`
-- <!--SR:!2023-09-28,42,230-->
-- #🧠 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數的response_type為申請授權類型，若是implicit版本，得填寫什麼？->->-> `token`
-- <!--SR:!2023-10-15,23,210-->
-- #🧠 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數-response_type、client_id、redirect_uri、scope為何？ ->->-> `- response_type： 表示授權類型為何 - client_id：表示客戶端應用程式在認證伺服器上所註冊的client_id - redirect_uri：定義哪邊提供Script或者哪邊接收token - scope：定義申請的權限範疇`
-- <!--SR:!2023-11-04,61,210-->
-- #🧠 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，請求封包源自於哪裡？發送至哪？  ->->-> `源自於認證伺服器，發送至重導向URI`
-- <!--SR:!2024-03-13,219,250-->
-- #🧠 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)，請問會是以什麼http動詞來讓使用者向客戶端發送 ->->-> `GET`
-- <!--SR:!2024-04-12,237,250-->
-- #🧠 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要內容為何？ ->->-> `- access_token：表示token - token_type：表示token種類 - expires_in：表示過期時間 - scope：表示token所擁有的使用權限`
-- <!--SR:!2024-02-10,160,230-->
-- #🧠 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要參數-access_token、token_type、expires_in、scope是為何？ ->->-> `- access_token：表示token - token_type：表示token種類 - expires_in：表示過期時間 - scope：表示token所擁有的使用權限`
-- <!--SR:!2024-04-07,234,250-->
-- #🧠  implicit grant type 在OAuth下會需要設定grant_type？為什麼？ ->->-> `並不會，由於grant_type會是得讓使用者的授權同意授與客戶端來讓它發送索要token的請求，但該type並沒有，只是全都在使用者的瀏覽器進行授權同意和索要token`
-- <!--SR:!2023-11-11,142,250-->
+- [Test](<Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳，請舉一個URI作為例子 
+    - `http://example.com/cb[access_token](<access_token.md>)=2YotnFZFEjr1zCsicMWpAA &state=xyz&token_type=example&expires_in=3600`
+- 
+- [Test](<Test.md>) implicit grant type 在OAuth 中存在兩個主要版本，主要會是什麼？ 
+    -  `- 第一個版本：redirect_uri 是用來提供獲取Token的script - 第二個版本為： redirect_uri 是用來接收token的地點`
+- 
+- [Test](<Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問請求封包源自於哪裡？發送至哪？形式為何？ 
+    -  `形式為URI(URI參數)、封包，源自於客戶端所發送的請求封包，發送至認證伺服器`
+- [Test](<Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問使用者向認證伺服器發送授權請求的http動詞會是什麼？ 
+    -  `GET`
+- 
+- [Test](<Test.md>)  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數為何？做什麼用 
+    - `	- response_type： 表示授權類型為何 - client_id：表示客戶端應用程式在認證伺服器上所註冊的client_id - redirect_uri：定義哪邊提供Script或者哪邊接收token - scope：定義申請的權限範疇`
+- 
+- [Test](<Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數的response_type為申請授權類型，若是implicit版本，得填寫什麼？
+    -  `token`
+- 
+- [Test](<Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數-response_type、client_id、redirect_uri、scope為何？
+    -  `- response_type： 表示授權類型為何 - client_id：表示客戶端應用程式在認證伺服器上所註冊的client_id - redirect_uri：定義哪邊提供Script或者哪邊接收token - scope：定義申請的權限範疇`
+- 
+- [Test](<Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，請求封包源自於哪裡？發送至哪？  
+    -  `源自於認證伺服器，發送至重導向URI`
+- 
+- [Test](<Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)，請問會是以什麼http動詞來讓使用者向客戶端發送 
+    -  `GET`
+- 
+- [Test](<Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要內容為何？ 
+    - `- access_token：表示token - token_type：表示token種類 - expires_in：表示過期時間 - scope：表示token所擁有的使用權限`
+- 
+- [Test](<Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要參數-access_token、token_type、expires_in、scope是為何？ 
+    -  `- access_token：表示token - token_type：表示token種類 - expires_in：表示過期時間 - scope：表示token所擁有的使用權限`
+- 
+- [Test](<Test.md>)  implicit grant type 在OAuth下會需要設定grant_type？為什麼？ 
+    -  `並不會，由於grant_type會是得讓使用者的授權同意授與客戶端來讓它發送索要token的請求，但該type並沒有，只是全都在使用者的瀏覽器進行授權同意和索要token`
+- 
 - ---
 - tags: [OAuth](<OAuth.md>) [Authorization](<Authorization.md>)

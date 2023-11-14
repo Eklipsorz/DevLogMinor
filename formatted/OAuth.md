@@ -19,3 +19,6 @@
 ## [implicit grant type 在OAuth 上是以與Authorization code grant type版本來說相對簡化的模式，該模式主要不通過第三方應用程式或Client來進行授權碼，並直接在瀏覽器上向認證服務器上申請token](<implicit grant type 在OAuth 上是以與Authorization code grant type版本來說相對簡化的模式，該模式主要不通過第三方應用程式或Client來進行授權碼，並直接在瀏覽器上向認證服務器上申請token.md>)
 - tags: [OAuth](<OAuth.md>)
 
+## [implicit grant type的 第二個版本為，主要利用 redirect_uri 來將token傳遞至client](<implicit grant type的 第二個版本為，主要利用 redirect_uri 來將token傳遞至client.md>)
+- tags: [OAuth](<OAuth.md>)
+
