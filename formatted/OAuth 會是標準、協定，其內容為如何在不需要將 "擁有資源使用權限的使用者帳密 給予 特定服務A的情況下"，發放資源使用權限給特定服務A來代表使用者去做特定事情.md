@@ -135,7 +135,7 @@
     -  `Resource Server：管理資源、看本身能不能驗證Token，若不能的話就轉遞請求封包上的token至authorization server的伺服器，否則就自己驗證Token`
 - 
 - [Test](<Test.md>) 在Open Authorization中，response_type會是指甚麼意思? 
-    -  `客戶端指定Owner導向至認證伺服器所要獲得的授權同意形式會是甚麼?`
+    -  `客戶端指定Owner導向至認證伺服器所要獲得的結果形式會是甚麼?`
     - 
 - [Test](<Test.md>) 在Open Authorization中，grant_type會是指甚麼意思?
     -  `grant_type: 客戶端要以甚麼樣的授權同意形式來向認證伺服器索要TOKEN`
@@ -155,7 +155,7 @@
 - [Test](<Test.md>) 在Open Authorization 或者OAuth的Client-Server中，Resource Server和Authorization Server 之間差別是什麼？ 
     -  `- Resource Server：管理資源、轉遞請求封包上的token至authorization server的伺服器 - Authorization Server：驗證Resource Owner輸入的credential來發放Token 、幫忙Resource Server驗證token是否為合法`
 - 
-- [Test](<Test.md>) 在Open Authorization 或者OAuth的Client-Server中，Resource Server vs  Authorization Server 兩者在實現上是否能一台主機擔任兩個角色？ 
+- [Test](<Test.md>) 在Open Authorization 或者OAuth的Client-Server中，Resource Server vs  Authorization Server 兩者在實現上是否能在同一台主機擔任兩個角色？ 
     -  `實作上，可以是1. 可以同時是Resource Server 和 Authorization Server 2. 可以分出兩種伺服器：一個是Resource Server、另一個為Authorization Server`
 - 
 - [Test](<Test.md>) OAuth 的授權思路會是什麼？請以特定應用程式(客服端), 服務提供商和授權層來說明 
