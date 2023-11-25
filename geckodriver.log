@@ -28206,3 +28206,75 @@ console.error: ({})
 JavaScript warning: https://js.intercomcdn.com/vendors~sentry.beb3b412.js, line 2: Script terminated by timeout at:
 u@https://js.intercomcdn.com/vendors~sentry.beb3b412.js:2:4911
 
+1700881735748	geckodriver	INFO	Listening on 127.0.0.1:42399
+1700881736656	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilexMEblr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1700881741352	Marionette	INFO	Marionette enabled
+1700881741852	Marionette	INFO	Listening on port 39829
+Read port: 39829
+1700881741973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 1836, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox-nMJP8H/firefox-120.0+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:1836): WARNING **: 03:09:03.802: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+[Parent 1836, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-nMJP8H/firefox-120.0+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1836): GLib-GObject-CRITICAL **: 03:09:19.772: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1700881761326	Marionette	INFO	Stopped listening on port 39829
+JavaScript warning: https://browser.sentry-cdn.com/7.81.1/bundle.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.81.1/bundle.es5.min.js:2:53922
+
+1700881761982	geckodriver	INFO	Listening on 127.0.0.1:46705
+1700881762989	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileJNFFeK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1700881763199	Marionette	INFO	Marionette enabled
+1700881763259	Marionette	INFO	Listening on port 33611
+Read port: 33611
+1700881763422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2683, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox-nMJP8H/firefox-120.0+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:2683): WARNING **: 03:09:24.104: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+[Parent 2683, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-nMJP8H/firefox-120.0+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:2683): GLib-GObject-CRITICAL **: 03:09:37.567: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1700881778919	Marionette	INFO	Stopped listening on port 33611
+JavaScript warning: https://js.intercomcdn.com/vendors~sentry.beb3b412.js, line 2: Script terminated by timeout at:
+u@https://js.intercomcdn.com/vendors~sentry.beb3b412.js:2:5019
+
+1700881779510	geckodriver	INFO	Listening on 127.0.0.1:40959
+1700881780516	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileJHyO36"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1700881780723	Marionette	INFO	Marionette enabled
+1700881780781	Marionette	INFO	Listening on port 39189
+Read port: 39189
+1700881780945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 3279, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox-nMJP8H/firefox-120.0+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:3279): WARNING **: 03:09:41.656: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+[Parent 3279, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-nMJP8H/firefox-120.0+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:3279): GLib-GObject-CRITICAL **: 03:09:53.148: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1700881794782	Marionette	INFO	Stopped listening on port 39189
+JavaScript warning: https://js.intercomcdn.com/vendors~sentry.beb3b412.js, line 2: Script terminated by timeout at:
+u@https://js.intercomcdn.com/vendors~sentry.beb3b412.js:2:5019
+
