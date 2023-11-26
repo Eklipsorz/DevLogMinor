@@ -1,5 +1,18 @@
 - ### data
+    -  [Test](<../Test.md>) OAuth 2.0 Implicit Grant Type:在直接將token回傳至客戶端的版本下，使用者授權同意之後，伺服器會傳送甚麼樣的URL導向內容來引導使用者至客戶端? 請舉例
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 26th, 2023](<../November 26th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) redirect_uri 是用來接收token的地點： implicit grant type 在OAuth上的流程為何？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -7,6 +20,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問使用者向認證伺服器發送授權請求的http動詞會是什麼？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -14,6 +33,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問請求封包源自於哪裡？發送至哪？形式為何？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -21,6 +46,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>)  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數為何？做什麼用 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -28,13 +59,25 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)，請問會是以什麼http動詞來讓使用者向客戶端發送 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
             - **[interval](<../interval.md>):** 1
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
-    - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳，請舉一個URI作為例子 
+    - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳，請舉一個URI作為例子 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [November 26th, 2023](<../November 26th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -42,6 +85,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>)   implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，其中的Fragment 會如何被處理？？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -49,6 +98,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數的response_type為申請授權類型，若是implicit版本，得填寫什麼？
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -56,6 +111,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) implicit grant type 在OAuth 上的流程為何？以redirect_uri 是用來提供獲取Token的script作為主要解說版本 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -63,6 +124,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>)  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -70,6 +137,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>)  redirect_uri 是用來接收token的地點： implicit grant type 在OAuth上的流程為何？ 請畫圖來表示
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -77,6 +150,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數-response_type、client_id、redirect_uri、scope為何？
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -84,6 +163,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，請求封包源自於哪裡？發送至哪？  
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -91,6 +176,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) implicit grant type 在OAuth 上的流程為何？以redirect_uri 是用來提供獲取Token的script作為主要解說版本，在這裡請畫圖來表示 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -98,6 +189,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>)  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，其中的重導向URI會是做什麼以及指向哪裡？？？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -105,6 +202,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) implicit grant type 在OAuth 中存在兩個主要版本，主要會是什麼？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -112,6 +215,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要內容為何？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -119,6 +228,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) implicit grant type 在OAuth 上會是指什麼？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [November 26th, 2023](<../November 26th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -126,6 +241,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>)  implicit grant type 在OAuth下會需要設定grant_type？為什麼？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -133,6 +254,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要參數-access_token、token_type、expires_in、scope是為何？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -140,6 +267,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>)  implicit grant type 在OAuth 中為何被稱之為implicit ？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -147,6 +280,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) OAuth 存在著 "token 的使用者(client)是否為合法對象(client)" 這個問題，那麼解法概念為何?
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 7th, 2023](<../December 7th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 12
+            - **[repetitions](<../repetitions.md>):** 3
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 20th, 2023](<../November 20th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -160,6 +299,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) OAuth 本身存在甚麼樣的問題
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 7th, 2023](<../December 7th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 12
+            - **[repetitions](<../repetitions.md>):** 3
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 20th, 2023](<../November 20th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -173,6 +318,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 在OpenID Connect 中，id token 針對"token 的使用者(client)是否為合法對象(client)" 這個問題，其實際做法是甚麼? 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 7th, 2023](<../December 7th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 12
+            - **[repetitions](<../repetitions.md>):** 3
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 20th, 2023](<../November 20th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -186,6 +337,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) id token的命名緣由為何?
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 7th, 2023](<../December 7th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 12
+            - **[repetitions](<../repetitions.md>):** 3
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 20th, 2023](<../November 20th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -199,6 +356,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) OAuth 存在著 "token 的使用者(client)是否為合法對象(client)" 這個問題，那麼其造成的原因為何?
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 7th, 2023](<../December 7th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 12
+            - **[repetitions](<../repetitions.md>):** 3
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 20th, 2023](<../November 20th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -212,6 +375,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中：authorization code 使用限制是有效時間通常很短，如10分鐘、用碼申請token的次數是有限的，如1次，若違反限制的話，會如何？
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 19th, 2023](<../December 19th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 24
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 7th, 2023](<../November 7th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 19th, 2023](<../November 19th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -231,6 +400,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該token、redirect_uri、client_id發送索要token請求"，請求中的參數- grant_type 、code、redirect_uri、client_id是什麼？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 19th, 2023](<../December 19th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 24
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 7th, 2023](<../November 7th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 19th, 2023](<../November 19th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -250,6 +425,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所需要的參數-scope為何是可選填參數？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 19th, 2023](<../December 19th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 24
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 7th, 2023](<../November 7th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 19th, 2023](<../November 19th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -269,6 +450,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 在Open Authorization 或者OAuth的Client-Server中，會有什麼用語？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 19th, 2023](<../December 19th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 24
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 7th, 2023](<../November 7th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 19th, 2023](<../November 19th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -288,6 +475,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) OAuth 的授權思路會是什麼？其中讓特定應用程式A(客戶端)和服務提供商之間設定一個授權層，授權層會只接受什麼？面向於誰? 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 19th, 2023](<../December 19th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 24
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 7th, 2023](<../November 7th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 19th, 2023](<../November 19th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -307,6 +500,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："假設使用者同意授權，認證授權伺服器會將使用者導向客戶端事先指定的URI並附上授權碼"，使用者向客戶端發送封包，請問HTTP動詞是為何？
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 19th, 2023](<../December 19th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 24
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 7th, 2023](<../November 7th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 19th, 2023](<../November 19th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -326,6 +525,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所需要的參數-response_type、client_id、redirect_uri、scope、state是為何？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 19th, 2023](<../December 19th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 24
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 7th, 2023](<../November 7th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 19th, 2023](<../November 19th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -383,6 +588,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該code來向認證伺服器索要token請求"，請求中的參數會是如何？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 1st, 2023](<../December 1st, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 1.8599999999999997
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 17th, 2023](<../November 17th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 1.8599999999999997
@@ -528,6 +739,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) authorization code grant type 在OAuth 上的授權流程中："使用者訪問身為客戶端的應用服務A，應用服務A將使用者導向網路服務提供商之認證授權伺服器來認證使用者、詢問授權範疇、是否授權"，這步驟所需要的必填參數會是什麼？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 12th, 2023](<../December 12th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 17
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 24th, 2023](<../November 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -648,6 +865,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>)  authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該token、redirect_uri、client_id發送索要token請求"，那麼其中的grant_type 會是填寫為？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 12th, 2023](<../December 12th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 17
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 24th, 2023](<../November 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -1155,6 +1378,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) OAuth 概念下的實際會有授權方式會有哪四種，其中不論哪一種，哪一個server會負責驗證客戶端傳過來的token？
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 12th, 2023](<../December 12th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 17
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 24th, 2023](<../November 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -1230,6 +1459,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 針對OAuth 概念 所實現的基本流程中，其中會有客戶端詢問使用者獲取授權同意的手段並以授權來申請使用resource server，普遍來說， 授權同意能不能直接被當作token來使用? 為什麼
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 12th, 2023](<../December 12th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 17
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 24th, 2023](<../November 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -1292,6 +1527,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) OAuth 概念 的 基本實現會有的執行流程，就以 **當使用者要授權給應用程式A來獲取Resource Server的服務時** 來說 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 12th, 2023](<../December 12th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 17
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 24th, 2023](<../November 24th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -1454,6 +1695,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 針對OAuth 概念 所實現的基本流程中，其中會有客戶端詢問使用者獲取授權同意的手段並以授權來申請使用resource server，普遍來說， 授權同意會不會具有一些問題？有的話，會是什麼？ 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 4th, 2023](<../December 4th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 1.8599999999999997
+            - **[interval](<../interval.md>):** 9
+            - **[repetitions](<../repetitions.md>):** 3
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 20th, 2023](<../November 20th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 1.8599999999999997
@@ -2147,6 +2394,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) REST是一種 以資源為中心，用HTTP方法操作資源，並且最終目標為打造出滿足於HATEOAS之產品的網路軟體開發風格，請問何謂最終目標？說明清楚那HATEOAS之產品 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 2nd, 2023](<../December 2nd, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 1.5399999999999996
+            - **[interval](<../interval.md>):** 7
+            - **[repetitions](<../repetitions.md>):** 3
+            - **[grade](<../grade.md>):** 4
         - [November 16th, 2023](<../November 16th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 22nd, 2023](<../November 22nd, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 1.5399999999999996
@@ -2988,6 +3241,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Quiz](<../Quiz.md>) API端點名稱是以多個英文單字組成的話，可以使用什麼方法來將多個單字拆分成獨立的單字並以特定符號或者形式來區隔開來 
+        - [November 25th, 2023](<../November 25th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 8th, 2023](<../December 8th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 1.8599999999999997
+            - **[interval](<../interval.md>):** 13
+            - **[repetitions](<../repetitions.md>):** 4
+            - **[grade](<../grade.md>):** 4
         - [November 14th, 2023](<../November 14th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 23rd, 2023](<../November 23rd, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 1.8599999999999997
@@ -3202,7 +3461,7 @@
             - **[grade](<../grade.md>):** 4
 - ### cache
     - [Test](<../Test.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 16th, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 25th, 2023
     - 🧠
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
     - 🧠
@@ -3210,7 +3469,7 @@
     - 🧠
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
     - [Quiz](<../Quiz.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 16th, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 25th, 2023
 - 
 - tags: [Settings](<../Settings.md>)
 

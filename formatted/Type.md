@@ -1,6 +1,10 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@ALLLF49J](<@ALLLF49J.md>)
+- **[Abstract](<Abstract.md>):** The Implicit Grant Type is a way for a single-page JavaScript app to get an access token without an intermediate code exchange step. It was originally created for use by JavaScript apps (which don't have a way to safely store secrets) but is only recommended in specific situations.
+- **[Type](<Type.md>):**
+
 ## [@IDTokenAccessa](<@IDTokenAccessa.md>)
 - **[Title](<Title.md>):** ID Token and Access Token: What Is the Difference?
 - **[Type](<Type.md>):**

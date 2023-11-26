@@ -80,7 +80,7 @@ Location: http://example.com/cb#access_token=2YotnFZFEjr1zCsicMWpAA &state=xyz&t
 - > 在上面的例子中，认证服务器用HTTP头信息的Location栏，指定浏览器重定向的网址。注意，在这个网址的Hash部分包含了令牌。
 - 
 - 重點：
-- 步驟C：假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)
+- 步驟C：假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)
 - 請求形式為：URI(含URI參數)、封包
 - 主要參數為：
     - access_token：表示token
@@ -93,7 +93,7 @@ Location: http://example.com/cb#access_token=2YotnFZFEjr1zCsicMWpAA &state=xyz&t
 - 
 - ---
 - #Test implicit grant type 在OAuth 上會是指什麼？ 
-    -  `implicit grant type 在OAuth 上是以與Authorization code grant type版本來說相對簡化的模式，該模式主要不通過第三方應用程式/Client來進行授權碼，並直接在瀏覽器上向認證服務器上申請token。`
+    -  `implicit grant type 在OAuth 上是以與Authorization code grant type版本來說相對簡化的模式，該模式主要不通過第三方應用程式/Client來進行授權和申請token，並直接在瀏覽器上向認證服務器上申請token。`
 - 
 - #Test  implicit grant type 在OAuth 中為何被稱之為implicit ？ 
     -  `implicit grant type 在OAuth 上是以與Authorization code grant type版本來說相對簡化的模式`
@@ -114,7 +114,7 @@ Location: http://example.com/cb#access_token=2YotnFZFEjr1zCsicMWpAA &state=xyz&t
 - #Test  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳 
     -  `以URI Fragment形式來回傳token`
 - 
-- #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳，請舉一個URI作為例子 
+- #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳，請舉一個URI作為例子 
     - `http://example.com/cb#access_token=2YotnFZFEjr1zCsicMWpAA &state=xyz&token_type=example&expires_in=3600`
 - 
 - #Test implicit grant type 在OAuth 中存在兩個主要版本，主要會是什麼？ 

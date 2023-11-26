@@ -1,6 +1,10 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@ALLLF49J](<@ALLLF49J.md>)
+- **[Source](<Source.md>):** https://developer.okta.com/blog/2018/05/24/what-is-the-oauth2-implicit-grant-type
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@IDTokenAccessa](<@IDTokenAccessa.md>)
 - **[Source](<Source.md>):** https://auth0.com/blog/id-token-access-token-what-is-the-difference/
 - **[Zotero link](<Zotero link.md>):**

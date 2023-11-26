@@ -1,6 +1,10 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@ALLLF49J](<@ALLLF49J.md>)
+- **[Title](<Title.md>):** What is the OAuth 2.0 Implicit Grant Type?
+- **[Abstract](<Abstract.md>):**
+
 ## [@LinXinLiangNiDeRESTBuShiRESTa](<@LinXinLiangNiDeRESTBuShiRESTa.md>)
 - **[Author(s)](<Author(s).md>):** 林信良
 - **[Abstract](<Abstract.md>):**
