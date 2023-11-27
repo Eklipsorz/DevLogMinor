@@ -1,0 +1,4 @@
+- Title:: 实践 OAuth 2.0 时，使用不当可能会导致哪些安全漏洞？ | MRCODE-BOOK
+- Type:: Webpage
+- Source:: https://zq99299.github.io/note-book/oath2/02/02.html#csrf-%E6%94%BB%E5%87%BB
+- Zotero link:: [Local library](zotero://select/library/items/6HGXA7MH)

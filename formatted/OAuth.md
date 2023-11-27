@@ -7,6 +7,9 @@
 ## [OAuth 會是標準、協定，其內容為如何在不需要將 "擁有資源使用權限的使用者帳密 給予 特定服務A的情況下"，發放資源使用權限給特定服務A來代表使用者去做特定事情](<OAuth 會是標準、協定，其內容為如何在不需要將 "擁有資源使用權限的使用者帳密 給予 特定服務A的情況下"，發放資源使用權限給特定服務A來代表使用者去做特定事情.md>)
 - tags: [Authorization](<Authorization.md>) [OpenID](<OpenID.md>) [OAuth](<OAuth.md>)
 
+## [OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type](<OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type.md>)
+- tags: [OAuth](<OAuth.md>)
+
 ## [OpenID](<OpenID.md>)
 - Tags: [Authorization](<Authorization.md>) [OAuth](<OAuth.md>)
 

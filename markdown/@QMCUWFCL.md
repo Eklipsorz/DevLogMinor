@@ -1,0 +1,6 @@
+- Title:: The OAuth 2.0 Authorization Framework
+- Author(s):: Dick Hardt
+- Abstract:: The OAuth 2.0 authorization framework enables a third-party application to obtain limited access to an HTTP service, either on behalf of a resource owner by orchestrating an approval interaction between the resource owner and the HTTP service, or by allowing the third-party application to obtain access on its own behalf. This specification replaces and obsoletes the OAuth 1.0 protocol described in RFC 5849. [STANDARDS-TRACK]
+- Type:: Report
+- Source:: https://datatracker.ietf.org/doc/rfc6749
+- Zotero link:: [Local library](zotero://select/library/items/QMCUWFCL)

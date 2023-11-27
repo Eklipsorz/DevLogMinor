@@ -1,6 +1,14 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@4KZTYPX2](<@4KZTYPX2.md>)
+- **[Source](<Source.md>):** https://owasp.org/www-community/attacks/csrf
+- **[Zotero link](<Zotero link.md>):**
+
+## [@6HGXA7MH](<@6HGXA7MH.md>)
+- **[Source](<Source.md>):** https://zq99299.github.io/note-book/oath2/02/02.html[csrf-](<csrf-.md>)%E6%94%BB%E5%87%BB
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@ALLLF49J](<@ALLLF49J.md>)
 - **[Source](<Source.md>):** https://developer.okta.com/blog/2018/05/24/what-is-the-oauth2-implicit-grant-type
 - **[Zotero link](<Zotero link.md>):**
@@ -27,6 +35,10 @@
 
 ## [@OpenIDConnectShiShiMoa](<@OpenIDConnectShiShiMoa.md>)
 - **[Source](<Source.md>):** https://hennge.com/tw/blog/what-is-openid-connect.html
+- **[Zotero link](<Zotero link.md>):**
+
+## [@QMCUWFCL](<@QMCUWFCL.md>)
+- **[Source](<Source.md>):** https://datatracker.ietf.org/doc/rfc6749
 - **[Zotero link](<Zotero link.md>):**
 
 ## [@U4IQDNUW](<@U4IQDNUW.md>)

@@ -8,6 +8,9 @@
 ## [OAuth 2.0 State在URI是為了防止CSRF攻擊](<OAuth 2.0 State在URI是為了防止CSRF攻擊.md>)
 - [@ALLLF49J](<@ALLLF49J.md>)
 
+## [OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type](<OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type.md>)
+- [@ALLLF49J](<@ALLLF49J.md>)
+
 ## [implicit grant type的 第二個版本為，主要利用 redirect_uri 來將token傳遞至client](<implicit grant type的 第二個版本為，主要利用 redirect_uri 來將token傳遞至client.md>)
 - [@ALLLF49J](<@ALLLF49J.md>)
 

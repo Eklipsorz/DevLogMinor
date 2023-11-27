@@ -14,6 +14,9 @@ https://authorization-server.com/auth
  &scope=create+delete
  &state=xcoiv98y3md22vwsuye3kch```
 - 
+- 
+- 
+- 
 - > Here’s each query parameter explained: 
 
 - ```javascript
@@ -59,8 +62,6 @@ https://example-app.com/redirect
     - D. 認證伺服器向使用者發送一個導向URI以及Token
     - E. 使用者藉由導向URI發送token至Client
     - F. Client 透過Token來向資源伺服器索要資源
-    - G. 資源伺服器回傳資源至Client'
-- 
 - ---
 - [Test](<Test.md>) redirect_uri 是用來接收token的地點： implicit grant type 在OAuth上的流程為何？ 
     -  `	- A. 使用者訪問客戶端 - B. 客戶端將使用者導向認證伺服器進行身份認證、授權詢問 - C. 使用者同意授權並發送至認證伺服器 - D. 認證伺服器向使用者發送一個導向URI以及Token - E. 使用者藉由導向URI發送token至Client - F. Client 透過Token來向資源伺服器索要資源 - G. 資源伺服器回傳資源至Client`
@@ -75,6 +76,7 @@ https://example-app.com/redirect
 - 
 - ---
 - tags: [OAuth](<OAuth.md>) [Authorization](<Authorization.md>)
+- links: [OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type](<OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type.md>)
 
 # Backlinks
 ## [implicit grant type 在OAuth 上是以與Authorization code grant type版本來說相對簡化的模式，該模式主要不通過第三方應用程式或Client來進行授權碼，並直接在瀏覽器上向認證服務器上申請token](<implicit grant type 在OAuth 上是以與Authorization code grant type版本來說相對簡化的模式，該模式主要不通過第三方應用程式或Client來進行授權碼，並直接在瀏覽器上向認證服務器上申請token.md>)

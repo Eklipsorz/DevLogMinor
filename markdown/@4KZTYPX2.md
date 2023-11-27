@@ -1,0 +1,6 @@
+- Title:: Cross Site Request Forgery (CSRF) | OWASP Foundation
+- Author(s):: KirstenS
+- Abstract:: Cross Site Request Forgery (CSRF) on the main website for The OWASP Foundation. OWASP is a nonprofit foundation that works to improve the security of software.
+- Type:: Webpage
+- Source:: https://owasp.org/www-community/attacks/csrf
+- Zotero link:: [Local library](zotero://select/library/items/4KZTYPX2)

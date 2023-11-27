@@ -1,8 +1,16 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@4KZTYPX2](<@4KZTYPX2.md>)
+- **[Title](<Title.md>):** Cross Site Request Forgery (CSRF) | OWASP Foundation
+- **[Author(s)](<Author(s).md>):**
+
 ## [@LinXinLiangNiDeRESTBuShiRESTa](<@LinXinLiangNiDeRESTBuShiRESTa.md>)
 - **[Title](<Title.md>):** 你的REST不是REST？
+- **[Author(s)](<Author(s).md>):**
+
+## [@QMCUWFCL](<@QMCUWFCL.md>)
+- **[Title](<Title.md>):** The OAuth 2.0 Authorization Framework
 - **[Author(s)](<Author(s).md>):**
 
 ## [@auth0ValidateAccessTokensa](<@auth0ValidateAccessTokensa.md>)

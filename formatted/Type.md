@@ -1,6 +1,14 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@4KZTYPX2](<@4KZTYPX2.md>)
+- **[Abstract](<Abstract.md>):** Cross Site Request Forgery (CSRF) on the main website for The OWASP Foundation. OWASP is a nonprofit foundation that works to improve the security of software.
+- **[Type](<Type.md>):**
+
+## [@6HGXA7MH](<@6HGXA7MH.md>)
+- **[Title](<Title.md>):** 实践 OAuth 2.0 时，使用不当可能会导致哪些安全漏洞？ | MRCODE-BOOK
+- **[Type](<Type.md>):**
+
 ## [@ALLLF49J](<@ALLLF49J.md>)
 - **[Abstract](<Abstract.md>):** The Implicit Grant Type is a way for a single-page JavaScript app to get an access token without an intermediate code exchange step. It was originally created for use by JavaScript apps (which don't have a way to safely store secrets) but is only recommended in specific situations.
 - **[Type](<Type.md>):**
@@ -27,6 +35,10 @@
 
 ## [@OpenIDConnectShiShiMoa](<@OpenIDConnectShiShiMoa.md>)
 - **[Title](<Title.md>):** OpenID Connect 是什麼？ | HENNGE Taiwan 部落格
+- **[Type](<Type.md>):**
+
+## [@QMCUWFCL](<@QMCUWFCL.md>)
+- **[Abstract](<Abstract.md>):** The OAuth 2.0 authorization framework enables a third-party application to obtain limited access to an HTTP service, either on behalf of a resource owner by orchestrating an approval interaction between the resource owner and the HTTP service, or by allowing the third-party application to obtain access on its own behalf. This specification replaces and obsoletes the OAuth 1.0 protocol described in RFC 5849. [STANDARDS-TRACK]
 - **[Type](<Type.md>):**
 
 ## [@U4IQDNUW](<@U4IQDNUW.md>)

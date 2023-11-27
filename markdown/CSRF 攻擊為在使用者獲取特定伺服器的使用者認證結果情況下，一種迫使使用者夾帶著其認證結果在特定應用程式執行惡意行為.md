@@ -1,0 +1,94 @@
+- ##  Overview
+- [[@4KZTYPX2]]
+- > Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated. With a little help of social engineering (such as sending a link via email or chat), an attacker may trick the users of a web application into executing actions of the attacker’s choosing. If the victim is a normal user, a successful CSRF attack can force the user to perform state changing requests like transferring funds, changing their email address, and so forth. If the victim is an administrative account, CSRF can compromise the entire web application.
+- 
+- 重點:
+    - CSRF 全名為 Cross-Site Request Forgery 
+    - 其攻擊定調為: 在使用者獲取特定伺服器的使用者認證結果情況下，一種迫使使用者夾帶著其認證結果在特定網頁上執行使用者非意願性的行為
+        - 行為:
+            - 若是使用者本身為正常使用者，其行為會是改變其使用者資料，如轉帳
+            - 若是使用者本身為特定系統的管理員，其行為會嚴重影響特定系統的安全性
+- 
+- ## Description
+- > CSRF is an attack that tricks the victim into submitting a malicious request. It inherits the identity and privileges of the victim to perform an undesired function on the victim’s behalf (though note that this is not true of login CSRF, a special form of the attack described below). For most sites, browser requests automatically include any credentials associated with the site, such as the user’s session cookie, IP address, Windows domain credentials, and so forth. Therefore, if the user is currently authenticated to the site, the site will have no way to distinguish between the forged request sent by the victim and a legitimate request sent by the victim.
+- > CSRF attacks target functionality that causes a state change on the server, such as changing the victim’s email address or password, or purchasing something. Forcing the victim to retrieve data doesn’t benefit an attacker because the attacker doesn’t receive the response, the victim does. As such, CSRF attacks target state-changing requests.
+- > An attacker can use CSRF to obtain the victim’s private data via a special form of the attack, known as login CSRF. The attacker forces a non-authenticated user to log in to an account the attacker controls. If the victim does not realize this, they may add personal data—such as credit card information—to the account. The attacker can then log back into the account to view this data, along with the victim’s activity history on the web application.
+- > It’s sometimes possible to store the CSRF attack on the vulnerable site itself. Such vulnerabilities are called “stored CSRF flaws”. This can be accomplished by simply storing an IMG or IFRAME tag in a field that accepts HTML, or by a more complex cross-site scripting attack. If the attack can store a CSRF attack in the site, the severity of the attack is amplified. In particular, the likelihood is increased because the victim is more likely to view the page containing the attack than some random page on the Internet. The likelihood is also increased because the victim is sure to be authenticated to the site already.
+- 
+- 重點:
+    - CSRF 利用以下關鍵來實現
+        - 網頁應用程式會存放綁定特定域名/IP/端點的資料至瀏覽器:  對於大部分網頁應用程式，每一次使用者成功登入或者進行特定操作，其應用程式會將特定資料或者認證資料存放至瀏覽器上，接著綁定其域名/IP/端點，以方便未來尋找，這些都是為了達到很好地延續過去結果來進行
+        - 瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理: 每當發送請求A至特定端點時，瀏覽器會自動根據其該端點的識別字(IP、域名、session id)來從瀏覽器事先綁定識別字的credential 資料擷取出來並與該請求A結合，接著發送其請求A，該端點收到就以請求A的credential 資料來進行特定處理
+        - 受害伺服器無法從請求區分出是否為惡意製造的: 若端點所在的伺服器無法區分出該請求是源自於真正使用者所發送的合法請求或者由惡意應用程式迫使使用者發送的贗品請求
+- 
+    - 通常手段思路:
+        - 在特定網頁A內容上來夾雜特定網頁系統下的端點、IP、域名
+        - 當使用者利用瀏覽器來對A發送請求時，瀏覽器就會自動根據A的端點、IP、域名來將瀏覽器過去存放對於A的認證資料綁定在新請求，綁定完就會隨即以最後的新請求來發送
+- 
+- 
+- ## Example
+- > Let us consider the following example: Alice wishes to transfer $100 to Bob using the bank.com web application that is vulnerable to CSRF. Maria, an attacker, wants to trick Alice into sending the money to Maria instead. The attack will comprise the following steps:
+- > - Building an exploit URL or script
+- > - Tricking Alice into executing the action with Social Engineering
+- 
+- 案例1: 想要使用 back.com 銀行網頁 轉100元至Bob帳戶上，在這裡會以Alice為受害者，而Maria 則為實施CSRF攻擊至受害者的攻擊者，在這裡Maria想透過CSRF將Alice錢轉至自己戶頭上
+    - 建立一個擁有漏洞之網頁伺服器網址或者惡意腳本
+    - 透過社交工程來將使用者接觸該網址或者腳本來執行惡意行為
+- 
+- > If the application was designed to primarily use GET requests to transfer parameters and execute actions, the money transfer operation might be reduced to a request like:
+- ```javascript
+GET http://bank.com/transfer.do?acct=BOB&amount=100 HTTP/1.1```
+- 
+- > Maria now decides to exploit this web application vulnerability using Alice as the victim. Maria first constructs the following exploit URL which will transfer $100,000 from Alice’s account to Maria’s account. Maria takes the original command URL and replaces the beneficiary name with herself, raising the transfer amount significantly at the same time:
+- ```javascript
+http://bank.com/transfer.do?acct=MARIA&amount=100000```
+- 
+- 重點:
+    - 假如銀行轉帳指令是以網址來表示的話，那麼就可透過網址上的參數來更改成如下
+    - ```javascript
+http://bank.com/transfer.do?acct=MARIA&amount=100000```
+- 
+- > The social engineering aspect of the attack tricks Alice into loading this URL when Alice is logged into the bank application. This is usually done with one of the following techniques:
+- > - sending an unsolicited email with HTML content
+- > - planting an exploit URL or script on pages that are likely to be visited by the victim while they are also doing online bankin
+- 重點:
+- 當使用者成功在Back.com 登入銀行帳號，並且將相對應的認證資料存放在瀏覽器上，接著綁定其域名和id的情況下
+- CSRF的惡意手段為:
+    - 傳送一封夾雜上述修改後網址內容至電子郵件上，並傳送給受害者
+    - 建構一個網頁並夾雜修改後網址內容至網頁上，來讓受害者去瀏覽並讓瀏覽器自動迫使受害者
+- 
+- ---
+- Forgery 
+- > an illegal copy of a document, painting, etc. or the crime of making such illegal copies
+- 重點:
+    - Forgery 意思為特定事物的非法複製品，其非法複製品的定義為以非合法/公認正確之手段而製作出來的複製品
+- 
+- Cross-Site Request Forgery 命名緣由為何
+    - 請求以網頁A的認證結果來在網頁B重新結合成新的請求來發送，且該請求的製作並不是由使用者意願而決定製作或者以非法手段來製作
+- 
+- ---
+- #Test CSRF 全名為何
+    - Cross-Site Request Forgery
+- 
+- #Test Cross-Site Request Forgery 命名緣由為何
+    - 請求以網頁A的認證結果來在網頁B重新結合成新的請求來發送，且該請求的製作並不是由使用者意願而決定製作或者以非法手段來製作
+- 
+- #Test Cross-Site Request Forgery 是甚麼?
+    - 在使用者獲取特定伺服器的使用者認證結果情況下，一種迫使使用者夾帶著其認證結果在特定網頁上執行使用者非意願性的行為
+- #Test CSRF為在使用者獲取特定伺服器的使用者認證結果情況下，一種迫使使用者夾帶著其認證結果在特定網頁上執行使用者非意願性的行為，那麼其實限關鍵為何?
+    - 1) 網頁應用程式會存放綁定特定域名/IP/端點的資料至瀏覽器.  2) 瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理. 3) 受害伺服器無法從請求區分出是否為惡意製造的
+- 
+- #Test CSRF 實施成功的關鍵中: 網頁應用程式會存放綁定特定域名/IP/端點的資料至瀏覽器 會是指甚麼意思? 詳細說明
+    - 對於大部分網頁應用程式，每一次使用者成功登入或者進行特定操作，其應用程式會將特定資料或者認證資料存放至瀏覽器上，接著綁定其域名/IP/端點，以方便未來尋找，這些都是為了達到很好地延續過去結果來進行
+- #Test CSRF 實施成功的關鍵中: 瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理，會是指甚麼意思?
+    - 每當發送請求A至特定端點時，瀏覽器會自動根據其該端點的識別字(IP、域名、session id)來從瀏覽器事先綁定識別字的credential 資料擷取出來並與該請求A結合，接著發送其請求A，該端點收到就以請求A的credential 資料來進行特定處理
+- #Test CSRF 實施成功就只有 "網頁應用程式會存放綁定特定域名/IP/端點的資料至瀏覽器" 和 "瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理" 嗎? 若還有請補充
+    - 受害伺服器無法從請求區分出是否為惡意製造的
+- #Test  CSRF 實施成功就只有 "受害伺服器無法從請求區分出是否為惡意製造的" 和 "瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理" 嗎? 若還有請補充
+    - 網頁應用程式會存放綁定特定域名/IP/端點的資料至瀏覽器
+- 
+- #Test CSRF 實施手段思路為何
+    - 1). 在特定網頁A內容上來夾雜特定網頁系統下的端點、IP、域名. 2) 當使用者利用瀏覽器來對A發送請求時，瀏覽器就會自動根據A的端點、IP、域名來將瀏覽器過去存放對於A的認證資料綁定在新請求，綁定完就會隨即以最後的新請求來發送
+- #Test CSRF 案例: 想要使用 back.com 銀行網頁 轉100元至Bob帳戶上，在這裡會以Alice為受害者，而Maria 則為實施CSRF攻擊至受害者的攻擊者，在這裡Maria想透過CSRF將Alice錢轉至自己戶頭上，其手段可以為:
+    - 1). 傳送一封夾雜上述修改後網址內容至電子郵件上，並傳送給受害者 2). 建構一個網頁並夾雜修改後網址內容至網頁上，來讓受害者去瀏覽並讓瀏覽器自動迫使受害者
+- ---

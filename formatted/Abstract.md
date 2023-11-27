@@ -1,6 +1,10 @@
 - tags: [bibliography](<bibliography.md>), [Settings](<Settings.md>)
 
 # Backlinks
+## [@4KZTYPX2](<@4KZTYPX2.md>)
+- **[Author(s)](<Author(s).md>):** KirstenS
+- **[Abstract](<Abstract.md>):**
+
 ## [@ALLLF49J](<@ALLLF49J.md>)
 - **[Title](<Title.md>):** What is the OAuth 2.0 Implicit Grant Type?
 - **[Abstract](<Abstract.md>):**
@@ -11,6 +15,10 @@
 
 ## [@OAuth2023a](<@OAuth2023a.md>)
 - **[Title](<Title.md>):** OAuth
+- **[Abstract](<Abstract.md>):**
+
+## [@QMCUWFCL](<@QMCUWFCL.md>)
+- **[Author(s)](<Author(s).md>):** Dick Hardt
 - **[Abstract](<Abstract.md>):**
 
 ## [@U4IQDNUW](<@U4IQDNUW.md>)

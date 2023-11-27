@@ -151,3 +151,4 @@ Location: http://example.com/cb#access_token=2YotnFZFEjr1zCsicMWpAA &state=xyz&t
 - 
 - ---
 - tags: [[OAuth]] [[Authorization]]
+- links: [[OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type]]

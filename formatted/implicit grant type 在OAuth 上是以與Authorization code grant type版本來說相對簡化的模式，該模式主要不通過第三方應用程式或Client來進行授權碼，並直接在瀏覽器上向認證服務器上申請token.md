@@ -151,3 +151,4 @@ Location: http://example.com/cb[access_token](<access_token.md>)=2YotnFZFEjr1zCs
 - 
 - ---
 - tags: [OAuth](<OAuth.md>) [Authorization](<Authorization.md>)
+- links: [OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type](<OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type.md>)

@@ -256,3 +256,4 @@ Pragma: no-cache
 - 
 - ---
 - Tags: [[Authorization]] [[OpenID]] [[OAuth]]
+- links: [[OAuth: 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址細節 - scope、redirect_uri、response_type]]
