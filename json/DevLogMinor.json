@@ -85880,15 +85880,15 @@
                 ":edit/user": {
                   ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
                 },
-                "create-time": 1701068667928,
-                "edit-time": 1701068667928,
+                "create-time": 1701173985267,
+                "edit-time": 1701173985267,
                 "refs": [
                   {
                     "uid": "PRsqAeqMn"
                   }
                 ],
-                "string": "lastCompletedDate:: November 27th, 2023",
-                "uid": "AWVTxs9yE"
+                "string": "lastCompletedDate:: November 28th, 2023",
+                "uid": "YFvhrftJJ"
               }
             ],
             "create-time": 1697232233946,
@@ -105963,6 +105963,421 @@
         ":edit/user": {
           ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
         },
+        "create-time": 1701174973776,
+        "edit-time": 1701174973776,
+        "string": "",
+        "uid": "yEwCEk5kr"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701174973944,
+        "edit-time": 1701174973944,
+        "string": "",
+        "uid": "brOduHRhS"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701174974101,
+        "edit-time": 1701175038498,
+        "string": "---",
+        "uid": "7D1TX7UpG"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "2g2WaLpQR"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175041407,
+        "edit-time": 1701175108151,
+        "refs": [
+          {
+            "uid": "2g2WaLpQR"
+          }
+        ],
+        "string": "[[@MEFH42TI]]",
+        "uid": "xrRA2hThU"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175150701,
+        "edit-time": 1701175150701,
+        "string": "",
+        "uid": "ZgHGuVV8Q"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175042182,
+        "edit-time": 1701175159159,
+        "string": "> \u8ba9\u6211\u4eec\u6765\u770b\u4e00\u4e2a\u9488\u5bf9OAuth2\u7684CSRF\u653b\u51fb\u7684\u4f8b\u5b50\u3002\u5047\u8bbe\u6709\u7528\u6237\u5f20\u4e09\uff0c\u653b\u51fb\u8005\u674e\u56db\uff0c\u7b2c\u4e09\u65b9Web\u5e94\u7528Tonr\uff08\u5b83\u96c6\u6210\u4e86\u7b2c\u4e09\u65b9\u793e\u4ea4\u8d26\u53f7\u767b\u5f55\uff0c\u5e76\u4e14\u5141\u8bb8\u7528\u6237\u5c06\u793e\u4ea4\u8d26\u53f7\u548cTonr\u4e2d\u7684\u8d26\u53f7\u8fdb\u884c\u7ed1\u5b9a\uff09\uff0c\u4ee5\u53caOAuth2\u670d\u52a1\u63d0\u4f9b\u8005Sparklr\u3002",
+        "uid": "XETgokQ_5"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175166056,
+        "edit-time": 1701175391165,
+        "string": "![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1701175368/blog/OAuth/csrf-example/csrf-example1_yizlsw.png)",
+        "uid": "3Wxjf1JwE"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175391829,
+        "edit-time": 1701175391829,
+        "string": "",
+        "uid": "2Bs7eqzzt"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175038687,
+        "edit-time": 1701175530283,
+        "string": "```javascript\nStep 1. \u653b\u51fb\u8005\u674e\u56db\u767b\u5f55Tonr\u7f51\u7ad9\uff0c\u5e76\u4e14\u9009\u62e9\u7ed1\u5b9a\u81ea\u5df1\u7684Sparklr\u8d26\u53f7\nStep 2. Tonr\u7f51\u7ad9\u5c06\u674e\u56db\u91cd\u5b9a\u5411\u5230Sparklr\uff0c\u7531\u4e8e\u4ed6\u4e4b\u524d\u5df2\u7ecf\u767b\u5f55\u8fc7Sparklr\uff0c\u6240\u4ee5Sparklr\u76f4\u63a5\u5411\u4ed6\u663e\u793a\u662f\u5426\u6388\u6743Tonr\u8bbf\u95ee\u7684\u9875\u9762\nStep 3. \u674e\u56db\u5728\u70b9\u51fb\u201d\u540c\u610f\u6388\u6743\u201c\u4e4b\u540e\uff0c\u622a\u83b7Sparklr\u670d\u52a1\u5668\u8fd4\u56de\u7684\u542b\u6709Authorization code\u53c2\u6570\u7684HTTP\u54cd\u5e94\nStep 4. \u674e\u56db\u7cbe\u5fc3\u6784\u9020\u4e00\u4e2aWeb\u9875\u9762\uff0c\u5b83\u4f1a\u89e6\u53d1Tonr\u7f51\u7ad9\u5411Sparklr\u53d1\u8d77\u4ee4\u724c\u7533\u8bf7\u7684\u8bf7\u6c42\uff0c\u800c\u8fd9\u4e2a\u8bf7\u6c42\u4e2d\u7684Authorization Code\u53c2\u6570\u6b63\u662f\u4e0a\u4e00\u6b65\u622a\u83b7\u5230\u7684code\nStep 5. \u674e\u56db\u5c06\u8fd9\u4e2aWeb\u9875\u9762\u653e\u5230\u4e92\u8054\u7f51\u4e0a\uff0c\u7b49\u5f85\u6216\u8005\u8bf1\u9a97\u53d7\u5bb3\u8005\u5f20\u4e09\u6765\u8bbf\u95ee\nStep 6. \u5f20\u4e09\u4e4b\u524d\u767b\u5f55\u4e86Tonr\u7f51\u7ad9\uff0c\u53ea\u662f\u6ca1\u6709\u628a\u81ea\u5df1\u7684\u8d26\u53f7\u548c\u5176\u4ed6\u793e\u4ea4\u8d26\u53f7\u7ed1\u5b9a\u8d77\u6765\u3002\u5728\u5f20\u4e09\u8bbf\u95ee\u4e86\u674e\u56db\u51c6\u5907\u7684\u8fd9\u4e2aWeb\u9875\u9762\uff0c\u4ee4\u724c\u7533\u8bf7\u6d41\u7a0b\u5728\u5f20\u4e09\u7684\u6d4f\u89c8\u5668\u91cc\u88ab\u987a\u5229\u89e6\u53d1\uff0cTonr\u7f51\u7ad9\u4eceSparklr\u90a3\u91cc\u83b7\u53d6\u5230access_token\uff0c\u4f46\u662f\u8fd9\u4e2atoken\u4ee5\u53ca\u901a\u8fc7\u5b83\u8fdb\u4e00\u6b65\u83b7\u53d6\u5230\u7684\u7528\u6237\u4fe1\u606f\u5374\u90fd\u662f\u653b\u51fb\u8005\u674e\u56db\u7684\u3002\nStep 7. Tonr\u7f51\u7ad9\u5c06\u674e\u56db\u7684Sparklr\u8d26\u53f7\u540c\u5f20\u4e09\u7684Tonr\u8d26\u53f7\u5173\u8054\u7ed1\u5b9a\u8d77\u6765\uff0c\u4ece\u6b64\u4ee5\u540e\uff0c\u674e\u56db\u5c31\u53ef\u4ee5\u7528\u81ea\u5df1\u7684Sparklr\u8d26\u53f7\u901a\u8fc7OAuth\u767b\u5f55\u5230\u5f20\u4e09\u5728Tonr\u7f51\u7ad9\u4e2d\u7684\u8d26\u53f7\uff0c\u5802\u800c\u7687\u4e4b\u7684\u5192\u5145\u5f20\u4e09\u7684\u8eab\u4efd\u6267\u884c\u5404\u79cd\u64cd\u4f5c\u3002\n```",
+        "uid": "IknJWhn1w"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175507265,
+        "edit-time": 1701175507265,
+        "string": "",
+        "uid": "bzQboJVda"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175507464,
+        "edit-time": 1701175508457,
+        "string": " ",
+        "uid": "EYE1euOsR"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "edit-time": 1701175531995,
+            "string": "> \u53d7\u5bb3\u8005\u5f20\u4e09\u8bbf\u95ee\u4e86\u4e00\u4e2aWeb\u9875\u9762\uff0c\u7136\u540e\uff0c\u5c31\u6ca1\u6709\u7136\u540e\u4e86\uff0c\u4ed6\u5728Tonr\u7f51\u7ad9\u4e0a\u7684\u8d26\u53f7\u5c31\u548c\u653b\u51fb\u8005\u674e\u56db\u5728Sparklr\u4e0a\u7684\u8d26\u53f7\u7ed1\u5b9a\u5230\u4e86\u4e00\u8d77\u3002\u4f2a\u9020\u7684\u8bf7\u6c42\u662f\u7ecf\u8fc7\u7cbe\u5fc3\u6784\u9020\u7684\uff0c\u4ee4\u724c\u7533\u8bf7\u8fd9\u4e00\u8fc7\u7a0b\u5728\u5f20\u4e09\u7684\u6d4f\u89c8\u5668\u91cc\u662f\u975e\u5e38\u9690\u853d\u7684\u88ab\u89e6\u53d1\u7684\uff0c\u6362\u53e5\u8bdd\u8bb2\u5c31\u662f\uff0c\u4ed6\u6839\u672c\u4e0d\u77e5\u9053\u8fd9\u80cc\u540e\u53d1\u751f\u4e86\u4ec0\u4e48\u3002",
+            "uid": "kjKFl0mJR"
+          }
+        ],
+        "edit-time": 1701175515556,
+        "heading": 3,
+        "string": "> 2.2 \u53d7\u5bb3\u8005\u5f20\u4e09(Resource Owner)\u89c6\u89d2",
+        "uid": "t2RXlSkR7"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175542318,
+        "edit-time": 1701175542318,
+        "string": "",
+        "uid": "jFBMV2vXU"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1701175557137,
+            "edit-time": 1701175559981,
+            "string": "> \u4eceTonr\u7f51\u7ad9\u6765\u770b\uff0c\u5b83\u6536\u5230\u7684\u6240\u6709\u8bf7\u6c42\u770b\u4e0a\u53bb\u90fd\u662f\u6b63\u5e38\u7684\u3002\u9996\u5148\u5b83\u6536\u5230\u4e86\u4e00\u4e2aHTTP\u8bf7\u6c42\uff0c\u5176\u4ee3\u8868\u7740\u5f53\u524d\u7528\u6237\u5f20\u4e09\u5728Sparklr\u7f51\u7ad9\u4e0a\u5df2\u7ecf\u505a\u4e86\u201c\u540c\u610f\u6388\u6743\u201d\u64cd\u4f5c\u3002\u5176\u5185\u5bb9\u5982\u4e0b\uff1a",
+            "uid": "vbYbQ6h0i"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1701175559979,
+            "edit-time": 1701175569361,
+            "string": "```javascript\nGET /bindingCallback?code=AUTHORIZATION_CODE```",
+            "uid": "HopKlHW6h"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1701175542743,
+            "edit-time": 1701175584524,
+            "string": "> \u4e0d\u8fc7\u9700\u8981\u6ce8\u610f\u7684\u662f\uff0cURL\u91cc\u7684code\u4e0d\u662f\u5f53\u524d\u53d7\u5bb3\u8005\u5f20\u4e09\u7684Authorization Code\uff0c\u800c\u662f\u653b\u51fb\u8005\u674e\u56db\u7684\u3002 \u5f53Tonr\u6536\u5230\u8fd9\u6837\u7684\u8bf7\u6c42\u65f6\uff0c\u5b83\u4ee5\u4e3a\u5f20\u4e09\u5df2\u7ecf\u540c\u610f\u6388\u6743\uff08\u4f46\u5b9e\u9645\u4e0a\u8fd9\u4e2a\u8bf7\u6c42\u662f\u674e\u56db\u4f2a\u9020\u7684\uff09\uff0c\u4e8e\u662f\u5c31\u53d1\u8d77\u540e\u7eed\u7684\u4ee4\u724c\u7533\u8bf7\u8bf7\u6c42\uff0c\u7528\u6536\u5230\u7684Authorization Code\u5411Sparklr\u6362\u53d6access_token\uff0c\u53ea\u4e0d\u8fc7\u6700\u540e\u62ff\u5230\u7684\u662f\u653b\u51fb\u8005\u674e\u56db\u7684 access_token\u3002",
+            "uid": "-Hjudekqr"
+          }
+        ],
+        "create-time": 1701175542530,
+        "edit-time": 1701175552726,
+        "string": "> 2.3 Tonr\u7f51\u7ad9(Client)\u89c6\u89d2",
+        "uid": "N-hJdEoAD"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175596434,
+        "edit-time": 1701175596434,
+        "string": "",
+        "uid": "aVwT4gMIk"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1701175595329,
+            "edit-time": 1701175604991,
+            "string": "> Sparklr\u7f51\u7ad9\u4e5f\u662f\u4e00\u8138\u832b\u7136\u7684\u6837\u5b50\uff0c\u56e0\u4e3a\u5728\u5b83\u770b\u6765\uff0c\u81ea\u5df1\u6536\u5230\u7684\u6388\u6743\u8bf7\u6c42\uff0c\u4ee5\u53ca\u540e\u7eed\u7684\u4ee4\u724c\u7533\u8bf7\u8bf7\u6c42\u90fd\u662f\u6b63\u5e38\u7684\uff0c\u6216\u8005\u8bf4\u5b83\u65e0\u6cd5\u5f97\u77e5\u63a5\u6536\u5230\u7684\u8fd9\u4e9b\u8bf7\u6c42\u4e4b\u95f4\u7684\u5173\u8054\u5173\u7cfb\uff0c\u800c\u4e14\u4e5f\u65e0\u6cd5\u533a\u522b\u51fa\u8fd9\u4e9b\u8bf7\u6c42\u5230\u5e95\u662f\u6765\u81ea\u5f20\u4e09\u672c\u4eba\uff0c\u8fd8\u662f\u7531\u674e\u56db\u4f2a\u9020\u51fa\u6765\u7684\u3002\u56e0\u6b64\u53ea\u8981\u81ea\u5df1\u6536\u5230\u7684\u53c2\u6570\u662f\u6b63\u786e\u6709\u6548\u7684\uff0c\u90a3\u5c31\u63d0\u4f9b\u6b63\u5e38\u7684\u8ba4\u8bc1\u670d\u52a1\uff0c\u4ec5\u6b64\u800c\u5df2\u3002",
+            "uid": "KON1wcs4b"
+          }
+        ],
+        "create-time": 1701175597377,
+        "edit-time": 1701175617938,
+        "string": "> 2.4 Sparklr\u7f51\u7ad9(OAuth2\u670d\u52a1\u63d0\u4f9b\u8005)\u89c6\u89d2",
+        "uid": "Ha1mL0tmA"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175631436,
+        "edit-time": 1701175631436,
+        "string": "",
+        "uid": "ME9rnrteb"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "create-time": 1701175038891,
+            "edit-time": 1701175647141,
+            "string": ">  \u674e\u56db\u4f2a\u9020\u4e86\u4e00\u4e2a\u7528\u6237\u6388\u6743\u6210\u529f\u7684\u8bf7\u6c42\uff0c\u5e76\u4e14\u5c06\u5176\u4e2d\u7684Authorization Code\u53c2\u6570\u66ff\u6362\u6210\u4e86\u81ea\u5df1\u63d0\u524d\u83b7\u53d6\u5230\u7684code\u3002\u8fd9\u6837\uff0c\u5f53\u53d7\u5bb3\u8005\u7684\u6d4f\u89c8\u5668\u88ab\u6b3a\u9a97\u4ece\u800c\u53d1\u8d77\u4ee4\u724c\u7533\u8bf7\u8bf7\u6c42\u65f6\uff0c\u5b9e\u9645\u4e0a\u662f\u5728\u7528\u5f20\u4e09\u5728Tonr\u7f51\u7ad9\u4e0a\u7684\u8d26\u53f7\u548c\u674e\u56db\u5728Sparklr\u7f51\u7ad9\u4e0a\u7684\u8d26\u53f7\u505a\u7ed1\u5b9a\u3002",
+            "uid": "-M3Oyl3Zl"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+            },
+            "edit-time": 1701175649636,
+            "string": "> \u653b\u51fb\u5b8c\u6210\u540e\uff0c\u674e\u56db\u5728Tonr\u7f51\u7ad9\u4e0a\u53ef\u4ee5\u901a\u8fc7\u81ea\u5df1\u5728Sparklr\u7f51\u7ad9\u7684\u8d26\u53f7\u8fdb\u884c\u767b\u5f55\uff0c\u800c\u4e14\u767b\u5f55\u8fdb\u5165\u7684\u662f\u5f20\u4e09\u5728Tonr\u7f51\u7ad9\u4e0a\u7684\u8d26\u53f7\u3002\u800c\u5f20\u4e09\u901a\u8fc7\u81ea\u5df1\u5728Tonr\u7f51\u7ad9\u4e0a\u7684\u8d26\u53f7\u767b\u5f55\u8fdb\u53bb\u4e4b\u540e\uff0c\u770b\u5230\u7684\u662f\u674e\u56db\u5728Sparklr\u7f51\u7ad9\u4e0a\u7684\u6570\u636e\u3002",
+            "uid": "qlcUv4VWl"
+          }
+        ],
+        "create-time": 1701175631668,
+        "edit-time": 1701175637778,
+        "string": "> 2.5\u00a0\u653b\u51fb\u8005\u674e\u56db\u89c6\u89d2",
+        "uid": "LARwEkoWV"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175654974,
+        "edit-time": 1701175654974,
+        "string": "",
+        "uid": "odHu1KPyb"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175654613,
+        "edit-time": 1701175664817,
+        "string": ">\u30002.6 \u4e0a\u5e1d\u89c6\u89d2",
+        "uid": "nlMJsbKyQ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175665013,
+        "edit-time": 1701175792589,
+        "string": "![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1701175764/blog/OAuth/csrf-example/csrf-example-grant-flow_jhlayb.png)",
+        "uid": "gVyEnHzIm"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175793259,
+        "edit-time": 1701175793259,
+        "string": "",
+        "uid": "pLfwx5W9D"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175038495,
+        "edit-time": 1701175040006,
+        "string": "---",
+        "uid": "Ii8uUIeYN"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175040003,
+        "edit-time": 1701175040003,
+        "string": "",
+        "uid": "5bqo3cL58"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701174974220,
+        "edit-time": 1701174974220,
+        "string": "",
+        "uid": "pey70qLMh"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701174974369,
+        "edit-time": 1701174974369,
+        "string": "",
+        "uid": "LtqGYQMGM"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701174974501,
+        "edit-time": 1701174974501,
+        "string": "",
+        "uid": "FVOBpk-V3"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
         "create-time": 1701088564434,
         "edit-time": 1701088564434,
         "string": "",
@@ -106020,8 +106435,8 @@
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
             "create-time": 1701089125106,
-            "edit-time": 1701089263343,
-            "string": "\u8a72\u653b\u64ca\u4e2d\u6703\u67091\u500bResource Owner\u30011\u500bClient\u30011\u500b\u4ee5\u4e0a\u7684Authorization Server (\u4e00\u500b\u662fClient\u5c08\u5c6c\u7684Authorization Server\u3001\u5269\u9918\u5247\u662f\u5176\u4ed6\u5916\u90e8\u7684Server )",
+            "edit-time": 1701174035822,
+            "string": "\u8a72\u653b\u64ca\u4e2d\u6703\u67091\u500bResource Owner\u30011\u500bClient\u30011\u500b\u4ee5\u4e0aAuthorization Server",
             "uid": "K4Dt48bkA"
           },
           {
@@ -106031,43 +106446,7 @@
             ":edit/user": {
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
-            "create-time": 1701089191057,
-            "edit-time": 1701089962311,
-            "string": "\u5728\u9019\u88e1\u5df2\u7d93Resource Owner\u4f7f\u7528\u81ea\u5df1\u5728Client \u5c08\u5c6c\u7684Authorization Server\u6240\u64c1\u6709\u7684\u6b0a\u9650\u4f86\u767b\u5165Client\uff0c\u4e14\u76ee\u524dClient\u662f\u5141\u8a31\u591a\u500b\u5916\u90e8Authorization Server\u8207\u5c08\u5c6cAuthorization Server\u9032\u884c\u7d81\u5b9a\uff0c\u5982Google\u3001FB\u3001IG\u7b49\u5916\u90e8Authorization Server\uff0c\u63a5\u8457\u8a72Resource Owner\u4e26\u672a\u5c07Client\u81ea\u5df1\u7684Authorization Server\u4e4b\u5e33\u865f\u8207\u5176\u4ed6\u5916\u90e8\u7cfb\u7d71\u7684\u5e33\u865f\u505a\u7d81\u5b9a",
-            "uid": "ak2gpf762"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-            },
-            ":edit/user": {
-              ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-            },
             "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                },
-                ":edit/user": {
-                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                },
-                "create-time": 1701091071712,
-                "edit-time": 1701091071712,
-                "string": "\u6253\u9020\u4e00\u500bURI\u6703\u8b93\u700f\u89bd\u5668\u81ea\u52d5\u6839\u64daClient\u7684\u57df\u540d/IP/\u7aef\u9ede\u4f86\u5f9e\u700f\u89bd\u5668\u5132\u5b58\u7a7a\u9593\u53d6\u51fa\u80fd\u5920\u4ee3\u8868\u7279\u5b9a\u4f7f\u7528\u8005\u8cc7\u6599\u4f86\u91cd\u65b0\u4eff\u9020\u8acb\u6c42\u81f3Client",
-                "uid": "I9fLu0uwe"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                },
-                ":edit/user": {
-                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                },
-                "create-time": 1701091075187,
-                "edit-time": 1701091075187,
-                "string": "\u683c\u5f0f\u70ba:",
-                "uid": "LGpjn6VVL"
-              },
               {
                 ":create/user": {
                   ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
@@ -106083,24 +106462,10 @@
                     ":edit/user": {
                       ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
                     },
-                    "children": [
-                      {
-                        ":create/user": {
-                          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                        },
-                        "create-time": 1701090619173,
-                        "edit-time": 1701090644828,
-                        "string": "\u8a72Code\u5fc5\u9808\u662f\u5f9e\u672a\u7533\u8acb\u4ee5\u53ca\u5f9e\u672a\u8207\u5176\u4ed6\u5e33\u865f\u9032\u884c\u7d81\u5b9a",
-                        "uid": "nKdHO5Avq"
-                      }
-                    ],
-                    "create-time": 1701090504576,
-                    "edit-time": 1701091106207,
-                    "string": "codeA \u70ba\u60e1\u610f\u653b\u64ca\u8005\u5728\u5916\u90e8Authorization Server A\u4e8b\u5148\u7372\u53d6\u5230\u7684Authorization Code",
-                    "uid": "_bd6i9Kid"
+                    "create-time": 1701174602124,
+                    "edit-time": 1701176802862,
+                    "string": "\u7576\u700f\u89bd\u5668\u548c\u5ba2\u6236\u7aef(\u61c9\u7528\u7a0b\u5f0f)\u9593\u5132\u5b58\u8457\u4f7f\u7528\u8005\u5e33\u865f\u5df2\u767b\u5165\u7684\u8a8d\u8b49\u7d50\u679c\uff0c\u5982\u5ba2\u6236\u7aef\u5132\u5b58\u7684session id\uff0c\u5ba2\u6236\u7aef(\u61c9\u7528\u7a0b\u5f0f)\u7aef\u5132\u5b58\u7684session \u5167\u5bb9-\u4f7f\u7528\u8005\u5e33\u5bc6\u3002 \u5728\u9019\u88e1\u60c5\u6cc1\u4e0b\uff0c\u82e5\u4f7f\u7528\u8005\u900f\u904e\u700f\u89bd\u5668\u767c\u9001\u5176\u8acb\u6c42",
+                    "uid": "AvKb4LYgx"
                   },
                   {
                     ":create/user": {
@@ -106109,22 +106474,60 @@
                     ":edit/user": {
                       ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
                     },
-                    "create-time": 1701090521963,
-                    "edit-time": 1701090614037,
-                    "string": "Client \u7528\u4f86\u63a5\u6536Authorization Code\u7684\u7aef\u9ede\u5b8c\u6574\u4f4d\u7f6e",
-                    "uid": "-vH8spQfH"
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                        },
+                        "create-time": 1701176036411,
+                        "edit-time": 1701176170913,
+                        "string": "\u683c\u5f0f\u70ba: code\u70ba\u5916\u90e8\u8a8d\u8b49\u7cfb\u7d71\u6240\u6388\u6b0a\u540c\u610f\u7684\u56de\u50b3\u7d50\u679c\uff0cbindingCallback\u8868\u660e\u8981\u505a\u7d81\u5b9a",
+                        "uid": "jOjfle5_B"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                        },
+                        "create-time": 1701175894493,
+                        "edit-time": 1701176404056,
+                        "string": "```html\nGET client_uri/bindingCallback?code=codeA```",
+                        "uid": "eO4c9BwLZ"
+                      }
+                    ],
+                    "create-time": 1701174483965,
+                    "edit-time": 1701176026967,
+                    "string": " \u5b9a\u7fa9\u7528\u4f86\u5b9a\u7fa9\u76ee\u524d\u5e33\u865f\u8981\u8207\u5916\u90e8\u8a8d\u8b49\u7cfb\u7d71\u7684\u4efb\u4e00\u5e33\u865f\u9032\u884c\u7d81\u5b9a\u7684\u7aef\u9ede\u3001http\u52d5\u8a5e\u3001\u593e\u5e36\u7684\u53c3\u6578",
+                    "uid": "iKsnk9zzr"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+                    },
+                    "create-time": 1701176183799,
+                    "edit-time": 1701176380522,
+                    "string": "\u7576\u700f\u89bd\u5668\u548c\u4f3a\u670d\u5668\u9593\u5132\u5b58\u8457\u4f7f\u7528\u8005\u5e33\u865f\u5df2\u767b\u5165\u7684\u8a8d\u8b49\u7d50\u679c\uff0c\u6216\u8005\u8aaa\u5169\u908a\u6b63\u5132\u5b58\u8457\u6b63\u5728\u767b\u5165\u7684\u72c0\u614b\uff0c\u5728\u9019\u60c5\u6cc1\u4e0b\uff0c\u82e5\u700f\u89bd\u5668\u767c\u51fa\u4ee5\u4e0a\u8acb\u6c42\u7684\u8a71\uff0c\u5c31\u6703\u5728\u9812\u767ctoken\u7684\u904e\u7a0b\u8b93\u76ee\u524d\u8655\u65bc\u767b\u5165\u72c0\u614b\u7684\u5e33\u865f\u8207\u76ee\u524d\u5916\u90e8\u8a8d\u8b49\u7cfb\u7d71\u9812\u767c\u7684code\u6240\u5c0d\u61c9\u7684\u5e33\u865f\u9032\u884c\u7d81\u5b9a",
+                    "uid": "bk-vg_c26"
                   }
                 ],
-                "create-time": 1701091080832,
-                "edit-time": 1701091123575,
-                "string": "```javascript\nclient_uri/path?code=codeA```",
-                "uid": "jKv_OdOd7"
+                "create-time": 1701174186771,
+                "edit-time": 1701174483968,
+                "string": "\u8b93\u81ea\u8eab\u5e33\u865f\u8a8d\u8b49\u7cfb\u7d71\u7684\u4efb\u4e00\u5e33\u865f\u8207\u5916\u90e8\u8a8d\u8b49\u7cfb\u7d71\u7684\u4efb\u4e00\u5e33\u865f\u9032\u884c\u7d81\u5b9a \u7684\u5be6\u73fe\u601d\u8def:",
+                "uid": "voiqqq0LF"
               }
             ],
-            "create-time": 1701090476760,
-            "edit-time": 1701090807306,
-            "string": "\u60e1\u610f\u653b\u64ca\u8005\u70ba\u4e86\u8981\u8b93\u653b\u64ca\u8005\u5e33\u865f\u548cOwner\u6240\u64c1\u6709\u7684\u5e33\u865f\u9032\u884c\u7d81\u5b9a\uff0c\u6703\u9700\u8981\u505a\u4ee5\u4e0b\u6d41\u7a0b",
-            "uid": "SEhN0CxSw"
+            "create-time": 1701174043599,
+            "edit-time": 1701174185311,
+            "string": "\u5728\u9019\u88e1Client\u7684\u5e33\u865f\u8a8d\u8b49\u7cfb\u7d71\u9664\u4e86\u81ea\u5df1\u672c\u8eab\u64c1\u6709\u4ee5\u5916\uff0c\u9084\u80fd\u5f9e\u5916\u90e8\u8a8d\u8b49\u7cfb\u7d71\u4f86\u767b\u5165Client\uff0c\u5916\u90e8\u8a8d\u8b49\u7cfb\u7d71\u5982Google\u3001FB\u3001IG\uff0c\u5728\u9019\u88e1Client\u63d0\u4f9b\u4e00\u500b\u529f\u80fd:\u80fd\u8b93\u81ea\u8eab\u5e33\u865f\u8a8d\u8b49\u7cfb\u7d71\u7684\u4efb\u4e00\u5e33\u865f\u8207\u5916\u90e8\u8a8d\u8b49\u7cfb\u7d71\u7684\u4efb\u4e00\u5e33\u865f\u9032\u884c\u7d81\u5b9a\uff0c\u63db\u8a00\u4e4b\uff0c\u53ef\u4ee5\u76f4\u63a5\u4f7f\u7528\u5916\u90e8\u8a8d\u8b49\u7cfb\u7d71\u4f86\u9023\u63a5\u81ea\u8eab\u5e33\u865f\u8a8d\u8b49\u7cfb\u7d71\u7684\u5e33\u865f\u6240\u64c1\u6709\u7684\u8cc7\u6599",
+            "uid": "DEShl_w1q"
           },
           {
             ":create/user": {
@@ -106133,10 +106536,10 @@
             ":edit/user": {
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
-            "create-time": 1701090807303,
-            "edit-time": 1701090807303,
-            "string": "",
-            "uid": "Y6AGjPcFl"
+            "create-time": 1701176414570,
+            "edit-time": 1701176958366,
+            "string": "\u5728\u9019\u88e1client\u4e26\u6c92\u8fa6\u6cd5\u5340\u5206\u51facode\u662f\u5426\u70ba\u60e1\u610f\u653b\u64ca\u8005? \u9084\u662f\u5408\u6cd5\u4f7f\u7528\u8005? \u6240\u4ee5\u53ea\u8981\u5728\u700f\u89bd\u5668\u4fdd\u6301\u8457\u5ba2\u6236\u7aef\u672c\u8eab\u6709\u7684\u5e33\u865fA\u767b\u5165\u72c0\u614b\u4e14\u8a72\u5e33\u865fA\u4e26\u672a\u505a\u7d81\u5b9a\u7684\u60c5\u6cc1\u4e0b\uff0c\u8b93\u700f\u89bd\u5668\u767c\u9001\u51fa\u4ee5\u4e0b\u8acb\u6c42\uff0c\u5c31\u6703\u81ea\u52d5\u5c07code\u5c0d\u61c9\u7684\u4efb\u4e00\u4f7f\u7528\u8005\u8207\u5e33\u865fA\u9032\u884c\u7d81\u5b9a\uff0c\u5373\u4f7fcode\u662f\u60e1\u610f\u4f7f\u7528\u8005\u4ea6\u662f\u5982\u6b64\u3002",
+            "uid": "MOXXzT5Bf"
           },
           {
             ":create/user": {
@@ -106145,36 +106548,10 @@
             ":edit/user": {
               ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
             },
-            "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                },
-                ":edit/user": {
-                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                },
-                "create-time": 1701088564914,
-                "edit-time": 1701091078567,
-                "string": "```javascript\n```",
-                "uid": "qJUb2MKyd"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                },
-                ":edit/user": {
-                  ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
-                },
-                "create-time": 1701088386117,
-                "edit-time": 1701090442881,
-                "string": "\u7531\u65bc\u672a\u7d81\u5b9a\u7684\u5e33\u865f\u82e5\u8981\u9032\u884c\u7d81\u5b9a",
-                "uid": "ndhGBlNzd"
-              }
-            ],
-            "create-time": 1701090378269,
-            "edit-time": 1701090738474,
-            "string": "",
-            "uid": "vOUi3a3fZ"
+            "create-time": 1701176821865,
+            "edit-time": 1701176831411,
+            "string": "```javascript\nGET client_uri/bindingCallback?code=codeA```",
+            "uid": "nwJZQfPOI"
           }
         ],
         "create-time": 1701089080175,
@@ -106337,5 +106714,129 @@
     "edit-time": 1701088379995,
     "title": "@6HGXA7MH",
     "uid": "IthjTJ2iN"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    ":edit/user": {
+      ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "P7RaiWlD6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175103924,
+        "edit-time": 1701175103924,
+        "refs": [
+          {
+            "uid": "P7RaiWlD6"
+          }
+        ],
+        "string": "Title:: \u79fb\u82b1\u63a5\u6728\uff1a\u9488\u5bf9OAuth2\u7684CSRF\u653b\u51fb",
+        "uid": "tPXG8EUVM"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "81318G7KJ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175103919,
+        "edit-time": 1701175103919,
+        "refs": [
+          {
+            "uid": "81318G7KJ"
+          }
+        ],
+        "string": "Abstract:: \u4f5c\u4e3a\u7b2c\u4e09\u65b9\u5e94\u7528\uff0c\u4e3a\u4e86\u63d0\u5347\u7528\u6237\u4f53\u9a8c\uff0c\u5f80\u5f80\u4f1a\u63d0\u4f9b\u7b2c\u4e09\u65b9\u793e\u4ea4\u8d26\u53f7\u767b\u5f55\u6216\u8005\u7ed1\u5b9a\u7684\u529f\u80fd\uff0c\u8fd9\u80cc\u540e\u4f7f\u7528\u5230\u7684\u5173\u952e\u6280\u672f\u662fOAuth\u8ba4\u8bc1\u3002\u60f3\u8981\u5728\u81ea\u5df1\u7684\u5e94\u7528\u91cc\u96c6\u6210OAuth\u4e0d\u662f\u96be\u4e8b\u513f\uff0c\u5404\u5927\u793e\u4ea4\u7f51\u7ad9...",
+        "uid": "srOvTUIez"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "sttSicdvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175103914,
+        "edit-time": 1701175103914,
+        "refs": [
+          {
+            "uid": "sttSicdvH"
+          }
+        ],
+        "string": "Type:: Webpage",
+        "uid": "eqxGsOAtD"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PrGK4o2vj"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175103910,
+        "edit-time": 1701175103910,
+        "refs": [
+          {
+            "uid": "PrGK4o2vj"
+          }
+        ],
+        "string": "Source:: http://maleskine-production:30000/p/c7c8f51713b6",
+        "uid": "OEwE9LOFw"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xAvVp8ekM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        ":edit/user": {
+          ":user/uid": "AdYCzqthmeWrl4dyc3i5KXxhe6s2"
+        },
+        "create-time": 1701175103897,
+        "edit-time": 1701175103897,
+        "refs": [
+          {
+            "uid": "xAvVp8ekM"
+          }
+        ],
+        "string": "Zotero link:: [Local library](zotero://select/library/items/MEFH42TI)",
+        "uid": "n8S2e65UU"
+      }
+    ],
+    "create-time": 1701175103894,
+    "edit-time": 1701175103895,
+    "title": "@MEFH42TI",
+    "uid": "2g2WaLpQR"
   }
 ]

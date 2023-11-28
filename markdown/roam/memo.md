@@ -3583,6 +3583,6 @@
     - 🧠
         - lastCompletedDate:: October 14th, 2023
     - [[Quiz]]
-        - lastCompletedDate:: November 27th, 2023
+        - lastCompletedDate:: November 28th, 2023
 - 
 - tags: [[Settings]]

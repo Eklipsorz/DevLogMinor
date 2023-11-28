@@ -29,6 +29,10 @@
 - **[Abstract](<Abstract.md>):** REST並不是陌生的概念，然而知道嗎？Roy Fielding曾經提過「HATEOAS並不是選項，REST必須實現這個約束，不然就不是在做REST！」
 - **[Type](<Type.md>):**
 
+## [@MEFH42TI](<@MEFH42TI.md>)
+- **[Abstract](<Abstract.md>):** 作为第三方应用，为了提升用户体验，往往会提供第三方社交账号登录或者绑定的功能，这背后使用到的关键技术是OAuth认证。想要在自己的应用里集成OAuth不是难事儿，各大社交网站...
+- **[Type](<Type.md>):**
+
 ## [@OAuth2023a](<@OAuth2023a.md>)
 - **[Abstract](<Abstract.md>):** OAuth (short for "Open Authorization") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords. This mechanism is used by companies such as Amazon, Google, Facebook, Microsoft, and Twitter to permit the users to share information about their accounts with third-party applications or websites. Generally, OAuth provides clients a "secure delegated access" to server resources on behalf of a resource owner. It specifies a process for resource owners to authorize third-party access to their server resources without providing credentials. Designed specifically to work with Hypertext Transfer Protocol (HTTP), OAuth essentially allows access tokens to be issued to third-party clients by an authorization server, with the approval of the resource owner. The third party then uses the access token to access the protected resources hosted by the resource server. In particular, OAuth 2.0 provides specific authorization flows for web applications, desktop applications, mobile phones, and smart devices.
 - **[Type](<Type.md>):**

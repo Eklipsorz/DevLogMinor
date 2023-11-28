@@ -29,6 +29,10 @@
 - **[Source](<Source.md>):** https://www.ithome.com.tw/voice/128528
 - **[Zotero link](<Zotero link.md>):**
 
+## [@MEFH42TI](<@MEFH42TI.md>)
+- **[Source](<Source.md>):** http://maleskine-production:30000/p/c7c8f51713b6
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@OAuth2023a](<@OAuth2023a.md>)
 - **[Source](<Source.md>):** https://en.wikipedia.org/w/index.php?title=OAuth&oldid=1131662051
 - **[Zotero link](<Zotero link.md>):**
