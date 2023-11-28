@@ -4,6 +4,6 @@
 - **[Zotero link](<Zotero link.md>):** [Local library](zotero://select/library/items/6HGXA7MH)
 
 # Backlinks
-## [OAuth: 在使用者和客戶端之間的CSRF攻擊會使得客戶端帳號與惡意攻擊者擁有的帳號進行綁定(待修改)](<OAuth: 在使用者和客戶端之間的CSRF攻擊會使得客戶端帳號與惡意攻擊者擁有的帳號進行綁定(待修改).md>)
+## [OAuth: 在使用者和客戶端之間的CSRF攻擊會使得客戶端帳號與惡意攻擊者擁有的帳號進行綁定](<OAuth: 在使用者和客戶端之間的CSRF攻擊會使得客戶端帳號與惡意攻擊者擁有的帳號進行綁定.md>)
 - [@6HGXA7MH](<@6HGXA7MH.md>)
 

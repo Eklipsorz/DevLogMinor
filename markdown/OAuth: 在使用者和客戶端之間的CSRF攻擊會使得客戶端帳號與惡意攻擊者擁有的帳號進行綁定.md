@@ -73,16 +73,34 @@ GET /bindingCallback?code=AUTHORIZATION_CODE```
     - 該攻擊中會有1個Resource Owner、1個Client、1個以上Authorization Server
     - 在這裡Client的帳號認證系統除了自己本身擁有以外，還能從外部認證系統來登入Client，外部認證系統如Google、FB、IG，在這裡Client提供一個功能:能讓自身帳號認證系統的任一帳號與外部認證系統的任一帳號進行綁定，換言之，可以直接使用外部認證系統來連接自身帳號認證系統的帳號所擁有的資料
         - 讓自身帳號認證系統的任一帳號與外部認證系統的任一帳號進行綁定 的實現思路:
-            - 當瀏覽器和客戶端(應用程式)間儲存著使用者帳號已登入的認證結果，如客戶端儲存的session id，客戶端(應用程式)端儲存的session 內容-使用者帳密。 在這裡情況下，若使用者透過瀏覽器發送其請求
+            - 當瀏覽器和客戶端(應用程式)間儲存著使用者帳號已登入的認證結果，如客戶端儲存的session id，客戶端(應用程式)端儲存的session 內容-使用者帳密。 
             -  定義用來定義目前帳號要與外部認證系統的任一帳號進行綁定的端點、http動詞、夾帶的參數
                 - 格式為: code為外部認證系統所授權同意的回傳結果，bindingCallback表明要做綁定
                 - ```html
 GET client_uri/bindingCallback?code=codeA```
             - 當瀏覽器和伺服器間儲存著使用者帳號已登入的認證結果，或者說兩邊正儲存著正在登入的狀態，在這情況下，若瀏覽器發出以上請求的話，就會在頒發token的過程讓目前處於登入狀態的帳號與目前外部認證系統頒發的code所對應的帳號進行綁定
     - 在這裡client並沒辦法區分出code是否為惡意攻擊者? 還是合法使用者? 所以只要在瀏覽器保持著客戶端本身有的帳號A登入狀態且該帳號A並未做綁定的情況下，讓瀏覽器發送出以下請求，就會自動將code對應的任一使用者與帳號A進行綁定，即使code是惡意使用者亦是如此。
-    - ```javascript
+    - ```html
 GET client_uri/bindingCallback?code=codeA```
 - ---
+- #Test OAuth : 發生在客戶端和使用者間的CSRF攻擊主要是甚麼?
+    - 攻擊主要是讓瀏覽器向已完成使用者身分驗證的網站發起請求，並執行惡意操作
+- #Test OAuth: 攻擊主要是讓瀏覽器向已完成使用者身分驗證的網站發起請求，並執行惡意操作，其主要惡意操作的案例會是甚麼?
+    - CSRF攻擊會使得客戶端帳號與惡意攻擊者擁有的帳號進行綁定
+- 
+- #Test OAuth CSRF攻擊: 在這裡Client的帳號認證系統除了自己本身擁有以外，還能從外部認證系統來登入Client，外部認證系統如Google、FB、IG，在這裡Client提供一個功能:能讓自身帳號認證系統的任一帳號與外部認證系統的任一帳號進行綁定，那麼CSRF攻擊在這裡會是如何實現?
+    - 1). 當瀏覽器和客戶端(應用程式)間儲存著使用者帳號已登入的認證結果，如客戶端儲存的session id，客戶端(應用程式)端儲存的session 內容-使用者帳密.  2). 定義用來定義目前帳號要與外部認證系統的任一帳號進行綁定的端點、http動詞、夾帶的參數.  3). 當瀏覽器和伺服器間儲存著使用者帳號已登入的認證結果，或者說兩邊正儲存著正在登入的狀態，在這情況下，若瀏覽器發出以上請求的話，就會在頒發token的過程讓目前處於登入狀態的帳號與目前外部認證系統頒發的code所對應的帳號進行綁定
+- #Test OAuth CSRF 攻擊: 假設目前瀏覽器中向Client以內部帳號認證系統進行登入並維持其狀態的使用者為A，且A並未用其他外部認證系統來與帳號進行綁定，假使A在登入狀態下發出 GET client_uri/bindingCallback?code=codeB 該請求，其中CodeB本身就不是源自於A的帳號，請問執行完之後，其結果會是甚麼? 為什麼?
+    - 結果是CodeB對應的外部認證帳號會與A所擁有的帳號進行綁定，原因為有兩個: 1. GET client_uri/bindingCallback本身就是以目前處於登入狀態的帳號來綁定Code對應的帳號 2). Client端無法區分出Code所對應的帳號會是合法? 還是非法
+- #Test OAuth CSRF攻擊: 請問特定Client的帳號要與外部認證系統的帳號進行綁定的話，其請求會是甚麼? 如URL、端點、參數?
+    - GET client_uri/bindingCallback?Code=CodeA
+- #Test OAuth CSRF攻擊: GET client_uri/bindingCallback 與一般Authorization Code Grant Type下的 GET client_uri/Callback 之間有甚麼功能上的差別? 
+    - bindingCallback 會與Callback雷同，只是會讓Client索取Token的過程將目前處於登入狀態的內部認證系統帳號與Code對應的外部認證系統帳號進行綁定。 Callback 則是純粹拿著Code來傳送至Client並要求利用Code向Authorization Server索要Token
+- 
+- #Test OAuth CSRF攻擊: 假設張三為受害者，李四為攻擊者，李四製作GET client_uri/bindingCallback?Code=CodeB 請求並放入一個網頁中好讓張三點選，其中CodeB是李四在外部認證系統-Sparklr索或得到的授權碼，而Client則是Tonr，請問當張三點選李四的網頁後，會發生甚麼? 請以時序圖來表示
+    - ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1701175764/blog/OAuth/csrf-example/csrf-example-grant-flow_jhlayb.png)
+- #Test OAuth CSRF攻擊: 假設張三為受害者，李四為攻擊者，李四製作GET client_uri/bindingCallback?Code=CodeB 請求並放入一個網頁中好讓張三點選，其中CodeB是李四在外部認證系統-Sparklr索或得到的授權碼，而Client則是Tonr，請問CodeB一定就是李四沒在Client註冊成功的嗎? 為什麼?
+    - 最主要要看Client是否支援將使用者現有帳號所擁有的資料結合至另一個帳號所擁有的資料，若不能，就是以李四未用外部認證系統來註冊的Code來進行；若能的話除了前面所述以外，還有就是可以已註冊但沒登入成功的Code
 - 
 - ---
 - 
