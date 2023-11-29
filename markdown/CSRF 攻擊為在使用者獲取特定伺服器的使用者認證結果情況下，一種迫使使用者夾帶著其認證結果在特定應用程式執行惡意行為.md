@@ -70,7 +70,7 @@ http://bank.com/transfer.do?acct=MARIA&amount=100000```
 - #Test CSRF 全名為何
     - Cross-Site Request Forgery
 - 
-- #Test Cross-Site Request Forgery 命名緣由為何
+- # Cross-Site Request Forgery 命名緣由為何
     - 請求以網頁A的認證結果來在網頁B重新結合成新的請求來發送，且該請求的製作並不是由使用者意願而決定製作或者以非法手段來製作
 - 
 - #Test Cross-Site Request Forgery 是甚麼?
@@ -86,6 +86,13 @@ http://bank.com/transfer.do?acct=MARIA&amount=100000```
     - 受害伺服器無法從請求區分出是否為惡意製造的
 - #Test  CSRF 實施成功就只有 "受害伺服器無法從請求區分出是否為惡意製造的" 和 "瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理" 嗎? 若還有請補充
     - 網頁應用程式會存放綁定特定域名/IP/端點的資料至瀏覽器
+- 
+- #Test  使用者在特定網頁下進行特定帳號的登入後，使用者和該網頁伺服器會如何儲存之後的登入狀態?
+    - 伺服器會以session來儲存特定使用者的資料，並要求client以cookie形式來儲存對應session的id，接著綁定特定域名/IP/端點至cookie
+- 
+- #Test  使用者在特定網頁下進行特定帳號的登入後，網頁伺服器會以session來儲存特定使用者的資料，並要求使用者以cookie形式來儲存對應session的id，請問使用者要如何在下次進到相同網站時還是仍保持登入成功的狀態?
+    - 伺服器會以session來儲存特定使用者的資料，並要求client以cookie形式來儲存對應session的id，接著綁定特定域名/IP/端點至cookie
+- 
 - 
 - #Test CSRF 實施手段思路為何
     - 1). 在特定網頁A內容上來夾雜特定網頁系統下的端點、IP、域名. 2) 當使用者利用瀏覽器來對A發送請求時，瀏覽器就會自動根據A的端點、IP、域名來將瀏覽器過去存放對於A的認證資料綁定在新請求，綁定完就會隨即以最後的新請求來發送

@@ -50,6 +50,7 @@ authorization_server_url/path
         - 用途2: 認證伺服器用來將token擁有的實際權限為何的資訊告知給Client
     - redirect_uri:
         - 用途1: Client指定使用者一旦與Authorization Server完成認證授權後所要導向的端點，通常會是轉送其認證後產物至指定地點
+        - 用途2:Client指示使用者哪個地方獲取script，並且該script執行起來會擷取fragment 內容的token並傳遞至client
 - 
 - 
 - ---

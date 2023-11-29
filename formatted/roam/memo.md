@@ -1,4 +1,172 @@
 - ### data
+    - [Test](<../Test.md>) OAuth: 攻擊主要是讓瀏覽器向已完成使用者身分驗證的網站發起請求，並執行惡意操作，其主要惡意操作的應用案例會是甚麼?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址格式中的scope會有甚麼樣的主要用途?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) CSRF為在使用者獲取特定伺服器的使用者認證結果情況下，一種迫使使用者夾帶著其認證結果在特定網頁上執行使用者非意願性的行為，那麼其實限關鍵為何?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) OAuth CSRF攻擊: GET client_uri/bindingCallback 與一般Authorization Code Grant Type下的 GET client_uri/Callback 之間有甚麼功能上的差別? 
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) OAuth CSRF攻擊: 在這裡Client的帳號認證系統除了自己本身擁有以外，還能從外部認證系統來登入Client，外部認證系統如Google、FB、IG，在這裡Client提供一個功能:能讓自身帳號認證系統的任一帳號與外部認證系統的任一帳號進行綁定，那麼CSRF攻擊在這裡會是如何實現? 詳細說明
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) OAuth CSRF攻擊: 請問特定Client的帳號要與外部認證系統的帳號進行綁定的話，其請求會是甚麼? 如URL、端點、參數?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) CSRF 全名為何
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址格式中的response_type會有甚麼樣的主要用途?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) OAuth CSRF 攻擊: 假設目前瀏覽器中向Client以內部帳號認證系統進行登入並維持其狀態的使用者為A，且A並未用其他外部認證系統來與帳號進行綁定，假使A在登入狀態下發出 GET client_uri/bindingCallback?code=codeB 該請求，其中CodeB本身就不是源自於A的帳號，請問執行完之後，其結果會是甚麼? 為什麼?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址格式中的redirect_uri會有甚麼樣的主要用途?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>)  使用者在特定網頁下進行特定帳號的登入後，網頁伺服器會以session來儲存特定使用者的資料，並要求使用者以cookie形式來儲存對應session的id，請問使用者要如何在下次進到相同網站時還是仍保持登入成功的狀態?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>)  使用者在特定網頁下進行特定帳號的登入後，使用者和該網頁伺服器會如何儲存之後的登入狀態?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>)  CSRF 實施成功就只有 "受害伺服器無法從請求區分出是否為惡意製造的" 和 "瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理" 嗎? 若還有請補充
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) OAuth CSRF攻擊: 假設張三為受害者，李四為攻擊者，李四製作GET client_uri/bindingCallback?Code=CodeB 請求並放入一個網頁中好讓張三點選，其中CodeB是李四在外部認證系統-Sparklr索或得到的授權碼，而Client則是Tonr，請問當張三點選李四的網頁後，會發生甚麼? 請以時序圖來表示
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) CSRF 案例: 想要使用 back.com 銀行網頁 轉100元至Bob帳戶上，在這裡會以Alice為受害者，而Maria 則為實施CSRF攻擊至受害者的攻擊者，在這裡Maria想透過CSRF將Alice錢轉至自己戶頭上，其手段可以為:
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) Cross-Site Request Forgery 是甚麼?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) OAuth : 發生在客戶端和使用者間的CSRF攻擊主要是甚麼?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址格式會是甚麼?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址格式中的scope寫與沒寫之間的差異為何? 
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) CSRF 實施手段思路為何
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) CSRF 實施成功的關鍵中: 瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理，會是指甚麼意思?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) CSRF 實施成功就只有 "網頁應用程式會存放綁定特定域名/IP/端點的資料至瀏覽器" 和 "瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理" 嗎? 若還有請補充
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
+    - [Test](<../Test.md>) CSRF 實施成功的關鍵中: 網頁應用程式會存放綁定特定域名/IP/端點的資料至瀏覽器 會是指甚麼意思? 詳細說明
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🟠
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 0
+            - **[grade](<../grade.md>):** 2
+    - [Test](<../Test.md>) OAuth CSRF攻擊: 假設張三為受害者，李四為攻擊者，李四製作GET client_uri/bindingCallback?Code=CodeB 請求並放入一個網頁中好讓張三點選，其中CodeB是李四在外部認證系統-Sparklr索或得到的授權碼，而Client則是Tonr，請問CodeB一定就是李四沒在Client註冊成功的嗎? 為什麼?
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [November 30th, 2023](<../November 30th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
     -  [Test](<../Test.md>) OAuth 2.0 Implicit Grant Type:在直接將token回傳至客戶端的版本下，使用者授權同意之後，伺服器會傳送甚麼樣的URL導向內容來引導使用者至客戶端? 請舉例
         - [November 27th, 2023](<../November 27th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [December 3rd, 2023](<../December 3rd, 2023.md>)
@@ -78,6 +246,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳，請舉一個URI作為例子 
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 5th, 2023](<../December 5th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 27th, 2023](<../November 27th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 28th, 2023](<../November 28th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -240,6 +414,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Test](<../Test.md>) implicit grant type 在OAuth 上會是指什麼？ 
+        - [November 29th, 2023](<../November 29th, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 5th, 2023](<../December 5th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [November 27th, 2023](<../November 27th, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [November 28th, 2023](<../November 28th, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -3575,7 +3755,7 @@
             - **[grade](<../grade.md>):** 4
 - ### cache
     - [Test](<../Test.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 25th, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 29th, 2023
     - 🧠
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
     - 🧠
@@ -3583,7 +3763,7 @@
     - 🧠
         - **[lastCompletedDate](<../lastCompletedDate.md>):** October 14th, 2023
     - [Quiz](<../Quiz.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 28th, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** November 29th, 2023
 - 
 - tags: [Settings](<../Settings.md>)
 
