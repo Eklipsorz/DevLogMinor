@@ -1,0 +1,30 @@
+- ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1660833335/blog/react/life-cycle/life-cycle-react_wzmir9.jpg)
+- [@hussainAnswerReactLifecyle2021a](<@hussainAnswerReactLifecyle2021a.md>)
+- > Render phase: Is used to calculate changes, and may be aborted if the user wants to. If this phase is aborted the DOM isn’t updated.
+- > Pre-commit phase: Is a period where you can read changes made to the VDOM, before they are applied to the actual DOM.
+- > Commit phase: Here the changes are applied and any side effects are triggered.
+- 重點：
+- react 生命階段主要是 mounting -> updating -> unmounting
+- 每一個階段又可以在分成三個子階段：
+    - render phase：一開始的階段，主要是確定元件在Virtual DOM上的對應結構
+    - pre-commit phase：在提交render phase所產生的結構進行實際DOM渲染之前的階段
+    - commit phase：提交render phase所產生的結構並進行實際DOM渲染的階段，在這裡就是把暫時性對於DOM的修改轉換成永久性的DOM修改
+- 
+- ---
+- [React](<React.md>) react 生命階段會有哪些過程 
+    -  ` mounting -> updating -> unmounting`
+- 
+- [React](<React.md>) react 生命階段會有mounting -> updating -> unmounting，那麼每一個階段又可以切分成三個子階段，是哪三個？
+    -  `render phase、pre-commit phase、commit phase`
+- 
+- [React](<React.md>) react 生命階段中的子階段render phase會是什麼？ 
+    -  `一開始的階段，主要是確定元件在Virtual DOM上的對應結構`
+- 
+- [React](<React.md>) react 生命階段中的子階段pre-commit phase 會是什麼？
+    -  `在提交render phase所產生的結構進行實際DOM渲染之前的階段`
+- 
+- [React](<React.md>) react 生命階段中的子階段commit phase會是什麼？ 
+    -  `提交render phase所產生的結構並進行實際DOM渲染的階段`
+- 
+- ---
+- tags: [React](<React.md>)、[JavaScript](<JavaScript.md>)

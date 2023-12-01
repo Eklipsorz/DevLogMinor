@@ -1,0 +1,6 @@
+- Title:: [Day 04] DOM 與 Virtual DOM
+- Author(s):: iThome
+- Abstract:: 就如說官方文件所描述的，React 是一個用於「打造 UI」的工具，而在瀏覽器中我們呈現 UI 的載體就是 DOM。DOM 與瀏覽器的畫面渲染引擎綁定，因此操作 DOM 就會連動更新畫面繪製的結果。而...
+- Type:: Webpage
+- Source:: https://ithelp.ithome.com.tw/articles/10293802
+- Zotero link:: [Local library](zotero://select/library/items/P52QYVLJ)

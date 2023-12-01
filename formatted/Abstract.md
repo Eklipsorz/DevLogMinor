@@ -41,8 +41,20 @@
 - **[Author(s)](<Author(s).md>):** R Creative
 - **[Abstract](<Abstract.md>):**
 
+## [@ithomeDay04DOMa](<@ithomeDay04DOMa.md>)
+- **[Author(s)](<Author(s).md>):** iThome
+- **[Abstract](<Abstract.md>):**
+
 ## [@wangWangZhiURLYingWenDaXiaoXieShiFouYouChaiBie2015a](<@wangWangZhiURLYingWenDaXiaoXieShiFouYouChaiBie2015a.md>)
 - **[Author(s)](<Author(s).md>):** G. T. Wang
+- **[Abstract](<Abstract.md>):**
+
+## [@wikidataDiff2022a](<@wikidataDiff2022a.md>)
+- **[Author(s)](<Author(s).md>):** WikiData
+- **[Abstract](<Abstract.md>):**
+
+## [@wikidataPatchComputing2022a](<@wikidataPatchComputing2022a.md>)
+- **[Author(s)](<Author(s).md>):** WikiData
 - **[Abstract](<Abstract.md>):**
 
 ## [Settings](<Settings.md>)

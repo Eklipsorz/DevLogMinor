@@ -1,0 +1,5 @@
+- Title:: Answer to "React Lifecyle: Phases"
+- Author(s):: Taimoor Hussain
+- Type:: Webpage
+- Source:: https://stackoverflow.com/a/66043514
+- Zotero link:: [Local library](zotero://select/library/items/A5F6ZESM)

@@ -65,18 +65,28 @@ http://bank.com/transfer.do?acct=MARIA&amount=100000```
 - 
 - Cross-Site Request Forgery 命名緣由為何
     - cross- 
-    - > including different groups or subjects
-    - 
+        - > including different groups or subjects
+        - 中文: 牽涉一個或多個事物、包含一個或多個事物
+    - cross-site
+        - 牽涉一個或多個網站
+    - Request Forgery 
+        - 中文: 仿造請求的仿照品
+    - Cross-site Request Forgery: 牽涉一個或多個網站的請求仿照品
 - 
 - ---
+- [Test](<Test.md>) Cross-Site Request Forgery 的Cross-會是甚麼意思?
+    - 牽涉一個或多個事物或者包含一個或多個事物
+- [Test](<Test.md>) Cross-Site Request Forgery的Request Forgery 是甚麼意思?
+    - 仿照請求的仿照品
+- 
 - [Test](<Test.md>) CSRF 全名為何
     - Cross-Site Request Forgery
 - 
-- # Cross-Site Request Forgery 命名緣由為何
-    - 請求以網頁A的認證結果來在網頁B重新結合成新的請求來發送，且該請求的製作並不是由使用者意願而決定製作或者以非法手段來製作
+- [Test](<Test.md>) Cross-Site Request Forgery 命名緣由為何
+    - 牽涉一個或多個網頁的請求仿照品
 - 
 - [Test](<Test.md>) Cross-Site Request Forgery 是甚麼?
-    - 在使用者獲取特定伺服器的使用者認證結果情況下，一種迫使使用者夾帶著其認證結果在特定網頁上執行使用者非意願性的行為
+    - 牽涉一個或多個網頁的請求仿照品，在使用者獲取特定伺服器的使用者認證結果情況下，一種迫使使用者夾帶著其認證結果在特定網頁上執行使用者非意願性的行為
 - [Test](<Test.md>) CSRF為在使用者獲取特定伺服器的使用者認證結果情況下，一種迫使使用者夾帶著其認證結果在特定網頁上執行使用者非意願性的行為，那麼其實現關鍵為何?
     - 1) 網頁應用程式會存放綁定特定域名/IP/端點的資料至瀏覽器.  2) 瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理. 3) 受害伺服器無法從請求區分出是否為惡意製造的
 - 

@@ -13,6 +13,10 @@
 - **[Source](<Source.md>):** https://developer.okta.com/blog/2018/05/24/what-is-the-oauth2-implicit-grant-type
 - **[Zotero link](<Zotero link.md>):**
 
+## [@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu](<@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu.md>)
+- **[Source](<Source.md>):** https://www.zhihu.com/question/336664883
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@IDTokenAccessa](<@IDTokenAccessa.md>)
 - **[Source](<Source.md>):** https://auth0.com/blog/id-token-access-token-what-is-the-difference/
 - **[Zotero link](<Zotero link.md>):**
@@ -45,6 +49,10 @@
 - **[Source](<Source.md>):** https://datatracker.ietf.org/doc/rfc6749
 - **[Zotero link](<Zotero link.md>):**
 
+## [@QianDuanMiVirtualDomHeDiffSuanFaTengXunYunKaiFaZheSheQuTengXunYuna](<@QianDuanMiVirtualDomHeDiffSuanFaTengXunYunKaiFaZheSheQuTengXunYuna.md>)
+- **[Source](<Source.md>):** https://cloud.tencent.com/developer/article/1499581
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@U4IQDNUW](<@U4IQDNUW.md>)
 - **[Source](<Source.md>):** http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html
 - **[Zotero link](<Zotero link.md>):**
@@ -65,12 +73,28 @@
 - **[Source](<Source.md>):** https://www.quora.com/Is-an-underscore-allowed-in-a-URL
 - **[Zotero link](<Zotero link.md>):**
 
+## [@hussainAnswerReactLifecyle2021a](<@hussainAnswerReactLifecyle2021a.md>)
+- **[Source](<Source.md>):** https://stackoverflow.com/a/66043514
+- **[Zotero link](<Zotero link.md>):**
+
+## [@ithomeDay04DOMa](<@ithomeDay04DOMa.md>)
+- **[Source](<Source.md>):** https://ithelp.ithome.com.tw/articles/10293802
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@pandaWangZhiUrlsYingGaiYongDuanHengXiana](<@pandaWangZhiUrlsYingGaiYongDuanHengXiana.md>)
 - **[Source](<Source.md>):** https://www.seo-panda.tw/urls-use-dash-or-underscore-202112/
 - **[Zotero link](<Zotero link.md>):**
 
 ## [@wangWangZhiURLYingWenDaXiaoXieShiFouYouChaiBie2015a](<@wangWangZhiURLYingWenDaXiaoXieShiFouYouChaiBie2015a.md>)
 - **[Source](<Source.md>):** https://blog.gtwang.org/web-development/url-lower-and-upper-case/
+- **[Zotero link](<Zotero link.md>):**
+
+## [@wikidataDiff2022a](<@wikidataDiff2022a.md>)
+- **[Source](<Source.md>):** https://en.wikipedia.org/w/index.php?title=Diff&oldid=1108348571
+- **[Zotero link](<Zotero link.md>):**
+
+## [@wikidataPatchComputing2022a](<@wikidataPatchComputing2022a.md>)
+- **[Source](<Source.md>):** https://en.wikipedia.org/w/index.php?title=Patch_(computing)&oldid=1109048353
 - **[Zotero link](<Zotero link.md>):**
 
 ## [Settings](<Settings.md>)

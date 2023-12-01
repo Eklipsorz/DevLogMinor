@@ -1,0 +1,5 @@
+- Title:: Virtual Dom和Diff算法 - 腾讯云开发者社区-腾讯云
+- Author(s):: 前端迷
+- Type:: Webpage
+- Source:: https://cloud.tencent.com/developer/article/1499581
+- Zotero link:: [Local library](zotero://select/library/items/867I7PJF)

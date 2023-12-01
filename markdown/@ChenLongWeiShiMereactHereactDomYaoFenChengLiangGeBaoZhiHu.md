@@ -1,0 +1,5 @@
+- Title:: 为什么react和react-Dom要分成两个包？ - 知乎
+- Author(s):: 陈龙
+- Type:: Webpage
+- Source:: https://www.zhihu.com/question/336664883
+- Zotero link:: [Local library](zotero://select/library/items/PNZSAUU2)
