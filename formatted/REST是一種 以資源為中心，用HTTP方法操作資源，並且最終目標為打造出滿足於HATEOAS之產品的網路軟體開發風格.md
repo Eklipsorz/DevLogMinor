@@ -14,7 +14,7 @@
 - Resource
     - 1. 會是指網路上的實體、資源，實體/資源可以是指某組資料、服務、圖片、歌曲，但實際上該字本質上仍停留在用文字概念去描述該實體、資源的存在
     - 2. 在網路上難以用具體的形式去呈現資源(如看、摸、聽)，在這裡會是以 **以URI** 這文字概念來 **描述其實體資源**。
-    - 簡短來說，Resource會是指任意形式的實體；在網路上會以Resource所在的URI來表達Resource
+    - 簡短來說，Resource會是指一種可表現出任意形式的實體；在網路上會以Resource所在的URI來表達Resource
 - State
     - 1. 由於客戶端和伺服器之間的互動勢必會涉及到不同時間點的資源內容，或許是在某段時間的同份資源A內容會變更，或許是某段時間點的同份資源A內容會移除，這些將會是資源A在不同時間點的內容或者說狀態，最後在這裡會以狀態來描述同份資源在不同時間點下的資源內容。
     - > 狀態是指某物件在特定時間所會有的情況、資訊。 The particular condition that something is in at a specific time
@@ -71,7 +71,7 @@
     -  `Resource Representation State Transfer`
 - 
 - [Test](<Test.md>) Resource Representation State Transfer / REST 中的Resource是什麼？
-    -  `簡短來說，Resource會是指任意形式的實體；在網路上會以Resource所在的URI來表達Resource`
+    -  `簡短來說，Resource會是指一種可表現出任意形式的實體；在網路上會以Resource所在的URI來表達Resource`
 - 
 - [Test](<Test.md>)  Resource Representation State Transfer / REST 中的Representation是什麼？
     - `Representation 本身以某種形式來呈現，而Resource Representation 是將Resource概念轉換成更為具體的形式呈現，形式會有HTML格式、JSON格式等等`

@@ -137,10 +137,10 @@ Location: http://example.com/cb#access_token=2YotnFZFEjr1zCsicMWpAA &state=xyz&t
 - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，請求封包源自於哪裡？發送至哪？  
     -  `源自於認證伺服器，發送至重導向URI`
 - 
-- #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)，請問會是以什麼http動詞來讓使用者向客戶端發送 
+- #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)，請問會是以什麼http動詞來讓使用者向客戶端發送 
     -  `GET`
 - 
-- #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要內容為何？ 
+- #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要內容為何？ 
     - `- access_token：表示token - token_type：表示token種類 - expires_in：表示過期時間 - scope：表示token所擁有的使用權限`
 - 
 - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要參數-access_token、token_type、expires_in、scope是為何？ 

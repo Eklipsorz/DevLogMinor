@@ -1,5 +1,11 @@
 - ### data
     - #Test OAuth: 攻擊主要是讓瀏覽器向已完成使用者身分驗證的網站發起請求，並執行惡意操作，其主要惡意操作的應用案例會是甚麼?
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -7,13 +13,25 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址格式中的scope會有甚麼樣的主要用途?
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 2nd, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
         - [[November 29th, 2023]] 🟠
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.1799999999999997
             - interval:: 1
             - repetitions:: 0
             - grade:: 2
-    - #Test CSRF為在使用者獲取特定伺服器的使用者認證結果情況下，一種迫使使用者夾帶著其認證結果在特定網頁上執行使用者非意願性的行為，那麼其實限關鍵為何?
+    - #Test CSRF為在使用者獲取特定伺服器的使用者認證結果情況下，一種迫使使用者夾帶著其認證結果在特定網頁上執行使用者非意願性的行為，那麼其實現關鍵為何?
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -21,6 +39,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth CSRF攻擊: GET client_uri/bindingCallback 與一般Authorization Code Grant Type下的 GET client_uri/Callback 之間有甚麼功能上的差別? 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -28,6 +52,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth CSRF攻擊: 在這裡Client的帳號認證系統除了自己本身擁有以外，還能從外部認證系統來登入Client，外部認證系統如Google、FB、IG，在這裡Client提供一個功能:能讓自身帳號認證系統的任一帳號與外部認證系統的任一帳號進行綁定，那麼CSRF攻擊在這裡會是如何實現? 詳細說明
+        - [[December 1st, 2023]] 🟠
+            - nextDueDate:: [[December 2nd, 2023]]
+            - eFactor:: 1.8599999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
         - [[November 29th, 2023]] 🟠
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.1799999999999997
@@ -35,6 +65,12 @@
             - repetitions:: 0
             - grade:: 2
     - #Test OAuth CSRF攻擊: 請問特定Client的帳號要與外部認證系統的帳號進行綁定的話，其請求會是甚麼? 如URL、端點、參數?
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -42,6 +78,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test CSRF 全名為何
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -49,6 +91,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址格式中的response_type會有甚麼樣的主要用途?
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -56,6 +104,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test OAuth CSRF 攻擊: 假設目前瀏覽器中向Client以內部帳號認證系統進行登入並維持其狀態的使用者為A，且A並未用其他外部認證系統來與帳號進行綁定，假使A在登入狀態下發出 GET client_uri/bindingCallback?code=codeB 該請求，其中CodeB本身就不是源自於A的帳號，請問執行完之後，其結果會是甚麼? 為什麼?
+        - [[December 1st, 2023]] 🟠
+            - nextDueDate:: [[December 2nd, 2023]]
+            - eFactor:: 1.8599999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
         - [[November 29th, 2023]] 🟠
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.1799999999999997
@@ -63,6 +117,12 @@
             - repetitions:: 0
             - grade:: 2
     - #Test 當Client將使用者導向至認證用伺服器進行授權同意的申請時所用到的網址格式中的redirect_uri會有甚麼樣的主要用途?
+        - [[December 1st, 2023]] 🟠
+            - nextDueDate:: [[December 2nd, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -70,6 +130,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  使用者在特定網頁下進行特定帳號的登入後，網頁伺服器會以session來儲存特定使用者的資料，並要求使用者以cookie形式來儲存對應session的id，請問使用者要如何在下次進到相同網站時還是仍保持登入成功的狀態?
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -77,6 +143,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  使用者在特定網頁下進行特定帳號的登入後，使用者和該網頁伺服器會如何儲存之後的登入狀態?
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -84,6 +156,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  CSRF 實施成功就只有 "受害伺服器無法從請求區分出是否為惡意製造的" 和 "瀏覽器每次發送新請求A都會根據域名/IP/端點將自身存放相關資料夾雜至新請求A上來進行基於過去結果來處理" 嗎? 若還有請補充
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 2nd, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
         - [[November 29th, 2023]] 🟠
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.1799999999999997
@@ -91,6 +169,12 @@
             - repetitions:: 0
             - grade:: 2
     - #Test OAuth CSRF攻擊: 假設張三為受害者，李四為攻擊者，李四製作GET client_uri/bindingCallback?Code=CodeB 請求並放入一個網頁中好讓張三點選，其中CodeB是李四在外部認證系統-Sparklr索或得到的授權碼，而Client則是Tonr，請問當張三點選李四的網頁後，會發生甚麼? 請以時序圖來表示
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -98,6 +182,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test CSRF 案例: 想要使用 back.com 銀行網頁 轉100元至Bob帳戶上，在這裡會以Alice為受害者，而Maria 則為實施CSRF攻擊至受害者的攻擊者，在這裡Maria想透過CSRF將Alice錢轉至自己戶頭上，其手段可以為:
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 7th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[November 29th, 2023]] 🔵
             - nextDueDate:: [[November 30th, 2023]]
             - eFactor:: 2.5
@@ -181,6 +271,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test redirect_uri 是用來接收token的地點： implicit grant type 在OAuth上的流程為何？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -194,6 +290,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問使用者向認證伺服器發送授權請求的http動詞會是什麼？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -207,6 +309,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問請求封包源自於哪裡？發送至哪？形式為何？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -220,6 +328,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數為何？做什麼用 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -232,7 +346,13 @@
             - interval:: 1
             - repetitions:: 1
             - grade:: 4
-    - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)，請問會是以什麼http動詞來讓使用者向客戶端發送 
+    - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)，請問會是以什麼http動詞來讓使用者向客戶端發送 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -271,6 +391,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test   implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，其中的Fragment 會如何被處理？？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -284,6 +410,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數的response_type為申請授權類型，若是implicit版本，得填寫什麼？
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -297,6 +429,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test implicit grant type 在OAuth 上的流程為何？以redirect_uri 是用來提供獲取Token的script作為主要解說版本 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -310,6 +448,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI"，在這個階段會回傳token，請問它會如何回傳 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -323,6 +467,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  redirect_uri 是用來接收token的地點： implicit grant type 在OAuth上的流程為何？ 請畫圖來表示
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -336,6 +486,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "使用者訪問客戶端，客戶端將使用者導向認證伺服器來進行身份認證、授權詢問" ，請問主要參數-response_type、client_id、redirect_uri、scope為何？
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -349,6 +505,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，請求封包源自於哪裡？發送至哪？  
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -362,6 +524,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test implicit grant type 在OAuth 上的流程為何？以redirect_uri 是用來提供獲取Token的script作為主要解說版本，在這裡請畫圖來表示 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -375,6 +543,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，其中的重導向URI會是做什麼以及指向哪裡？？？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -388,6 +562,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test implicit grant type 在OAuth 中存在兩個主要版本，主要會是什麼？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -400,7 +580,13 @@
             - interval:: 1
             - repetitions:: 1
             - grade:: 4
-    - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要內容為何？ 
+    - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端事先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要內容為何？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -439,6 +625,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  implicit grant type 在OAuth下會需要設定grant_type？為什麼？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -452,6 +644,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 以redirect_uri 是用來提供獲取Token的script作為主要解說版本：implicit grant type 在OAuth 流程中的 "假設使用者允許授權並發送至認證伺服器，認證伺服器就將使用者導向客戶端是先指定的重導向URI，並在URI添加Fragment (裡面夾雜Hash格式構成的access token)"，主要參數-access_token、token_type、expires_in、scope是為何？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -465,6 +663,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  implicit grant type 在OAuth 中為何被稱之為implicit ？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 13th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 12
+            - repetitions:: 3
+            - grade:: 4
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.5
@@ -798,6 +1002,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test authorization code grant type 在OAuth 上的授權流程中："身為客戶端的應用服務A會從URI接收到授權碼，並向認證授權伺服器以該code來向認證伺服器索要token請求"，請求中的參數會是如何？ 
+        - [[December 1st, 2023]] 🟠
+            - nextDueDate:: [[December 2nd, 2023]]
+            - eFactor:: 1.5399999999999996
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
         - [[November 25th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 1.8599999999999997
@@ -2551,6 +2761,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 雖然理論上URI的Path、Fragmenet、Query String是會以區分大小寫來解析，但仍以應用程式伺服器會因爲作業系統和負責執行server程式的關係來決定是否區分大小寫，舉例來說  
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 31st, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 30
+            - repetitions:: 5
+            - grade:: 4
         - [[November 14th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.1799999999999997
@@ -2607,6 +2823,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test  Resource Representation State Transfer / REST 中的Representation是什麼？
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 31st, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 30
+            - repetitions:: 5
+            - grade:: 4
         - [[November 14th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.1799999999999997
@@ -2843,6 +3065,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test 對於前後分離下，HATEOAS帶來的好處是什麼？:  其中一個是當伺服器更動API時，前端也不需要跟著改動，只需要等待伺服器回傳對應較新的API 端，請解釋一下為何可以這樣做?
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 31st, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 30
+            - repetitions:: 5
+            - grade:: 4
         - [[November 14th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.1799999999999997
@@ -2874,6 +3102,12 @@
             - repetitions:: 0
             - grade:: 2
     - #Test 伺服器和客戶端都支援著HATEOAS，那麼伺服器回應的目前狀態形式會是如何？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 31st, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 30
+            - repetitions:: 5
+            - grade:: 4
         - [[November 14th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.1799999999999997
@@ -2980,6 +3214,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test Resource Representation State Transfer / REST 中的Resource是什麼？
+        - [[December 1st, 2023]] 🟠
+            - nextDueDate:: [[December 2nd, 2023]]
+            - eFactor:: 1.8599999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
         - [[November 14th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.1799999999999997
@@ -3136,6 +3376,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test REST：如何定義如何對網路上的具體化資源進行轉換
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 31st, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 30
+            - repetitions:: 5
+            - grade:: 4
         - [[November 14th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.1799999999999997
@@ -3192,6 +3438,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Test RESTful API中的REST 是什麼？ 
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 31st, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 30
+            - repetitions:: 5
+            - grade:: 4
         - [[November 14th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.1799999999999997
@@ -3404,6 +3656,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Quiz 以下面使用者的user timeline端點為範例 `http://api.example.com/v1/users/12345/`  來用Snake Case命名
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 31st, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 30
+            - repetitions:: 5
+            - grade:: 4
         - [[November 14th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.1799999999999997
@@ -3578,6 +3836,12 @@
             - repetitions:: 0
             - grade:: 2
     - #Quiz API端點名稱是以多個英文單字組成的話，要怎麼做才能使端點更容易讓人類讀取？其概念為
+        - [[December 1st, 2023]] 🔵
+            - nextDueDate:: [[December 31st, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 30
+            - repetitions:: 5
+            - grade:: 4
         - [[November 14th, 2023]] 🔵
             - nextDueDate:: [[December 1st, 2023]]
             - eFactor:: 2.1799999999999997
@@ -3763,6 +4027,6 @@
     - 🧠
         - lastCompletedDate:: October 14th, 2023
     - [[Quiz]]
-        - lastCompletedDate:: November 29th, 2023
+        - lastCompletedDate:: December 1st, 2023
 - 
 - tags: [[Settings]]
