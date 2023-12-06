@@ -31741,3 +31741,93 @@ JavaScript warning: https://js.intercomcdn.com/vendors~sentry.beb3b412.js, line 
 u@https://js.intercomcdn.com/vendors~sentry.beb3b412.js:2:4911
 
 [3197] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1701886264393	geckodriver	INFO	Listening on 127.0.0.1:46805
+1701886264879	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileehZXJg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1701886281797	Marionette	INFO	Marionette enabled
+1701886284189	Marionette	INFO	Listening on port 34737
+Read port: 34737
+1701886284886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 1866, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox-nN7sjg/firefox-120.0.1+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:1866): WARNING **: 18:11:30.434: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701886311824	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Parent 1866, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-nN7sjg/firefox-120.0.1+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1866): GLib-GObject-CRITICAL **: 18:11:53.109: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1701886314169	Marionette	INFO	Stopped listening on port 34737
+JavaScript warning: https://js.intercomcdn.com/vendors~sentry.beb3b412.js, line 2: Script terminated by timeout at:
+u@https://js.intercomcdn.com/vendors~sentry.beb3b412.js:2:4911
+
+1701886315028	geckodriver	INFO	Listening on 127.0.0.1:43679
+1701886316033	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileKS2TFb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1701886316254	Marionette	INFO	Marionette enabled
+1701886316313	Marionette	INFO	Listening on port 34287
+Read port: 34287
+1701886316455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2526, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox-nN7sjg/firefox-120.0.1+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:2526): WARNING **: 18:11:57.016: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+[Parent 2526, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-nN7sjg/firefox-120.0.1+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:2526): GLib-GObject-CRITICAL **: 18:12:25.231: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701886346259	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701886346851	Marionette	INFO	Stopped listening on port 34287
+JavaScript warning: https://js.intercomcdn.com/vendors~sentry.beb3b412.js, line 2: Script terminated by timeout at:
+u@https://js.intercomcdn.com/vendors~sentry.beb3b412.js:2:4911
+
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1701886347451	geckodriver	INFO	Listening on 127.0.0.1:44015
+1701886348457	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile7AUCTC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1701886348673	Marionette	INFO	Marionette enabled
+1701886348734	Marionette	INFO	Listening on port 41439
+Read port: 41439
+1701886348878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 3129, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox-nN7sjg/firefox-120.0.1+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:3129): WARNING **: 18:12:29.418: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+[Parent 3129, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-nN7sjg/firefox-120.0.1+build1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:3129): GLib-GObject-CRITICAL **: 18:12:47.766: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1701886369286	Marionette	INFO	Stopped listening on port 41439
+JavaScript warning: https://browser.sentry-cdn.com/7.85.0/bundle.es5.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/7.85.0/bundle.es5.min.js:2:55024
+
+[3179] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
