@@ -1,0 +1,38 @@
+- Endpoint
+    - 新增商品
+    - 刪除商品
+    - 編輯商品
+    - 讀取商品
+    - 獲取商品即期清單
+- 
+- 
+- 新增商品
+    - /item/new
+    - 商品欄位
+        - id
+        - barcode
+        - date
+        - createdAt
+        - updatedAt
+- 刪除商品
+    - /items/item_id/delete
+    - 商品欄位
+        - 無
+- 
+- 編輯商品
+    - /items/item_id/edit
+    - 商品欄位
+        - id
+        - barcode
+        - date
+        - createdAt
+        - updatedAt
+- 
+- 獲取商品即期清單
+    - /items/surplus
+    - 商品欄位
+        - 清單
+        - 每個項目為
+            - id
+            - barcode
+            - date
