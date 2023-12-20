@@ -1,0 +1,7 @@
+- 
+- 建立一個package.json來初始化 node 專案
+    - npm init
+    -  
+- 下載和安裝框架
+    - npm install express
+- 
