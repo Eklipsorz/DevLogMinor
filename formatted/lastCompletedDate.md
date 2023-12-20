@@ -5,6 +5,9 @@
 - [lastCompletedDate](<lastCompletedDate.md>)
 
 ## [roam/memo](<roam/memo.md>)
+- [Design](<Design.md>)
+        - **[lastCompletedDate](<lastCompletedDate.md>):**
+
 - [Test](<Test.md>)
         - **[lastCompletedDate](<lastCompletedDate.md>):**
 

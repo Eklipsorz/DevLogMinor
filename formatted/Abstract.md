@@ -5,6 +5,10 @@
 - **[Author(s)](<Author(s).md>):** KirstenS
 - **[Abstract](<Abstract.md>):**
 
+## [@99V8R8XK](<@99V8R8XK.md>)
+- **[Title](<Title.md>):** dotenv
+- **[Abstract](<Abstract.md>):**
+
 ## [@ALLLF49J](<@ALLLF49J.md>)
 - **[Title](<Title.md>):** What is the OAuth 2.0 Implicit Grant Type?
 - **[Abstract](<Abstract.md>):**
@@ -27,6 +31,10 @@
 
 ## [@U4IQDNUW](<@U4IQDNUW.md>)
 - **[Title](<Title.md>):** The problem with OAuth for Authentication.
+- **[Abstract](<Abstract.md>):**
+
+## [@VR4AGESP](<@VR4AGESP.md>)
+- **[Title](<Title.md>):** nodemon
 - **[Abstract](<Abstract.md>):**
 
 ## [@auth0ValidateAccessTokensa](<@auth0ValidateAccessTokensa.md>)

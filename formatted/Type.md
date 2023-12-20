@@ -9,6 +9,10 @@
 - **[Title](<Title.md>):** 实践 OAuth 2.0 时，使用不当可能会导致哪些安全漏洞？ | MRCODE-BOOK
 - **[Type](<Type.md>):**
 
+## [@99V8R8XK](<@99V8R8XK.md>)
+- **[Abstract](<Abstract.md>):** Loads environment variables from .env file. Latest version: 16.3.1, last published: 6 months ago. Start using dotenv in your project by running `npm i dotenv`. There are 38778 other projects in the npm registry using dotenv.
+- **[Type](<Type.md>):**
+
 ## [@ALLLF49J](<@ALLLF49J.md>)
 - **[Abstract](<Abstract.md>):** The Implicit Grant Type is a way for a single-page JavaScript app to get an access token without an intermediate code exchange step. It was originally created for use by JavaScript apps (which don't have a way to safely store secrets) but is only recommended in specific situations.
 - **[Type](<Type.md>):**
@@ -55,6 +59,10 @@
 
 ## [@U4IQDNUW](<@U4IQDNUW.md>)
 - **[Abstract](<Abstract.md>):** I want to thank Nat Sakimura for doing a version of this post in Japanese .   In some of the feedback I have gotten on the openID Connect sp...
+- **[Type](<Type.md>):**
+
+## [@VR4AGESP](<@VR4AGESP.md>)
+- **[Abstract](<Abstract.md>):** Simple monitor script for use during development of a Node.js app.. Latest version: 3.0.2, last published: 19 days ago. Start using nodemon in your project by running `npm i nodemon`. There are 5039 other projects in the npm registry using nodemon.
 - **[Type](<Type.md>):**
 
 ## [@VerifyGoogleIDa](<@VerifyGoogleIDa.md>)

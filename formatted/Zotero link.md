@@ -9,6 +9,10 @@
 - **[Source](<Source.md>):** https://zq99299.github.io/note-book/oath2/02/02.html[csrf-](<csrf-.md>)%E6%94%BB%E5%87%BB
 - **[Zotero link](<Zotero link.md>):**
 
+## [@99V8R8XK](<@99V8R8XK.md>)
+- **[Source](<Source.md>):** https://www.npmjs.com/package/dotenv
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@ALLLF49J](<@ALLLF49J.md>)
 - **[Source](<Source.md>):** https://developer.okta.com/blog/2018/05/24/what-is-the-oauth2-implicit-grant-type
 - **[Zotero link](<Zotero link.md>):**
@@ -55,6 +59,10 @@
 
 ## [@U4IQDNUW](<@U4IQDNUW.md>)
 - **[Source](<Source.md>):** http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html
+- **[Zotero link](<Zotero link.md>):**
+
+## [@VR4AGESP](<@VR4AGESP.md>)
+- **[Source](<Source.md>):** https://www.npmjs.com/package/nodemon
 - **[Zotero link](<Zotero link.md>):**
 
 ## [@VerifyGoogleIDa](<@VerifyGoogleIDa.md>)

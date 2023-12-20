@@ -1,0 +1,14 @@
+- 
+- [[@99V8R8XK]]
+- > Dotenv is a zero-dependency module that loads environment variables from a .env file into [process.env](https://nodejs.org/docs/latest/api/process.html#process_process_env). Storing configuration in the environment separate from code is based on [The Twelve-Factor App](http://12factor.net/config) methodology.
+- 
+- 重點:
+    - Dotenv 目的是建立一個獨立於應用程式的空間來儲存其會用到的系統變數
+    - 主要是將
+        - 儲存在系統變數的.env檔案納入當前系統儲存系統變數的記憶體空間
+- 
+- 
+- 
+- ---
+- 
+- ---
