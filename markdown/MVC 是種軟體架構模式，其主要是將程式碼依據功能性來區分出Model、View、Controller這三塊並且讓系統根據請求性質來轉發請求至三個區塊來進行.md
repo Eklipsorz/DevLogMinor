@@ -71,7 +71,7 @@ const controller = {
 - #Design 請問MVC軟體架構方式實際在Node專案會是如何? 
     - 具體會將MVC架構以目錄來區分出，並且每個目錄都會存在功能上一致的程式碼或者程式碼檔案，如contollers、models、views，接著會另外定義一個專案用的路由系統來定義路由以及如何導向其MVC
 - 
-- #Design 假設伺服器會提供網頁畫面至客戶端，那麼整體MVC架構在實際客戶端發送請求和請求得到回應之間的過程會是如何?
+- #Design 假設伺服器會提供網頁畫面至客戶端，那麼整體MVC架構在實際客戶端發送請求和請求得到回應之間的過程會是如何? 請畫圖來表示
     - ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1633596645/blog/network/ClientAndServer/MVCModel_dgvnhm.png)
 - 
 - #Design 以下為MVC實際在伺服器和客戶端之間的實現方式，在這裡伺服器會根據客戶端發送的請求來提供網頁畫面給客戶端，請解釋圖中的每個步驟是如何 ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1633596645/blog/network/ClientAndServer/MVCModel_dgvnhm.png)

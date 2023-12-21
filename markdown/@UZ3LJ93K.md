@@ -1,0 +1,5 @@
+- Title:: What is a relational database?
+- Abstract:: Learn the definition of a relational database and how it can help your business.
+- Type:: Webpage
+- Source:: https://www.oracle.com/database/what-is-a-relational-database/
+- Zotero link:: [Local library](zotero://select/library/items/UZ3LJ93K)

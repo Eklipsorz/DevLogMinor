@@ -1,5 +1,32 @@
 - ### data
+    - #Design 請問MVC軟體架構方式中的Controller會是甚麼?
+        - [[December 21st, 2023]] 🟠
+            - nextDueDate:: [[December 22nd, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
+    - #DB 關聯式資料庫的外鍵關係之定義方式有哪些?
+        - [[December 21st, 2023]] 🔵
+            - nextDueDate:: [[December 22nd, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
+    - #DB 關聯式資料庫的主鍵關係之定義方式有哪些?
+        - [[December 21st, 2023]] 🔵
+            - nextDueDate:: [[December 22nd, 2023]]
+            - eFactor:: 2.5
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
     - #Design 以下為MVC實際在伺服器和客戶端之間的實現方式，在這裡伺服器會根據客戶端發送的請求來提供網頁畫面給客戶端，請解釋圖中的每個步驟是如何 ![](https://res.cloudinary.com/dqfxgtyoi/image/upload/v1633596645/blog/network/ClientAndServer/MVCModel_dgvnhm.png)
+        - [[December 21st, 2023]] 🔵
+            - nextDueDate:: [[December 27th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[December 20th, 2023]] 🔵
             - nextDueDate:: [[December 21st, 2023]]
             - eFactor:: 2.5
@@ -7,6 +34,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Design 請問MVC軟體架構方式的完整名稱為何?
+        - [[December 21st, 2023]] 🔵
+            - nextDueDate:: [[December 27th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[December 20th, 2023]] 🔵
             - nextDueDate:: [[December 21st, 2023]]
             - eFactor:: 2.5
@@ -14,6 +47,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Design 請問MVC軟體架構方式其會是如何架構?
+        - [[December 21st, 2023]] 🔵
+            - nextDueDate:: [[December 27th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[December 20th, 2023]] 🔵
             - nextDueDate:: [[December 21st, 2023]]
             - eFactor:: 2.5
@@ -21,6 +60,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Design 請問MVC軟體架構方式中的Model會是甚麼?
+        - [[December 21st, 2023]] 🔵
+            - nextDueDate:: [[December 27th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[December 20th, 2023]] 🔵
             - nextDueDate:: [[December 21st, 2023]]
             - eFactor:: 2.5
@@ -28,6 +73,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Design 請問MVC軟體架構方式中的View會是甚麼?
+        - [[December 21st, 2023]] 🔵
+            - nextDueDate:: [[December 27th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[December 20th, 2023]] 🔵
             - nextDueDate:: [[December 21st, 2023]]
             - eFactor:: 2.5
@@ -35,13 +86,25 @@
             - repetitions:: 1
             - grade:: 4
     - #Design 請問MVC軟體架構方式實際在Node專案會是如何? 
+        - [[December 21st, 2023]] 🟠
+            - nextDueDate:: [[December 22nd, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 0
+            - grade:: 2
         - [[December 20th, 2023]] 🔵
             - nextDueDate:: [[December 21st, 2023]]
             - eFactor:: 2.5
             - interval:: 1
             - repetitions:: 1
             - grade:: 4
-    - #Design 假設伺服器會提供網頁畫面至客戶端，那麼整體MVC架構在實際客戶端發送請求和請求得到回應之間的過程會是如何?
+    - #Design 假設伺服器會提供網頁畫面至客戶端，那麼整體MVC架構在實際客戶端發送請求和請求得到回應之間的過程會是如何? 請畫圖來表示
+        - [[December 21st, 2023]] 🔵
+            - nextDueDate:: [[December 27th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[December 20th, 2023]] 🔵
             - nextDueDate:: [[December 21st, 2023]]
             - eFactor:: 2.5
@@ -4142,8 +4205,10 @@
             - repetitions:: 3
             - grade:: 4
 - ### cache
+    - [[DB]]
+        - lastCompletedDate:: December 21st, 2023
     - [[Design]]
-        - lastCompletedDate:: December 20th, 2023
+        - lastCompletedDate:: December 21st, 2023
     - [[Test]]
         - lastCompletedDate:: December 1st, 2023
     - 🧠

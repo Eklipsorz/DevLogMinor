@@ -5,12 +5,20 @@
 - **[Source](<Source.md>):** https://owasp.org/www-community/attacks/csrf
 - **[Zotero link](<Zotero link.md>):**
 
+## [@5LSA872Y](<@5LSA872Y.md>)
+- **[Source](<Source.md>):** https://aws.amazon.com/tw/relational-database/
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@6HGXA7MH](<@6HGXA7MH.md>)
 - **[Source](<Source.md>):** https://zq99299.github.io/note-book/oath2/02/02.html[csrf-](<csrf-.md>)%E6%94%BB%E5%87%BB
 - **[Zotero link](<Zotero link.md>):**
 
 ## [@99V8R8XK](<@99V8R8XK.md>)
 - **[Source](<Source.md>):** https://www.npmjs.com/package/dotenv
+- **[Zotero link](<Zotero link.md>):**
+
+## [@9PPRIMZH](<@9PPRIMZH.md>)
+- **[Source](<Source.md>):** https://zh.wikipedia.org/w/index.php?title=%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93&oldid=75582145
 - **[Zotero link](<Zotero link.md>):**
 
 ## [@ALLLF49J](<@ALLLF49J.md>)
@@ -59,6 +67,10 @@
 
 ## [@U4IQDNUW](<@U4IQDNUW.md>)
 - **[Source](<Source.md>):** http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html
+- **[Zotero link](<Zotero link.md>):**
+
+## [@UZ3LJ93K](<@UZ3LJ93K.md>)
+- **[Source](<Source.md>):** https://www.oracle.com/database/what-is-a-relational-database/
 - **[Zotero link](<Zotero link.md>):**
 
 ## [@VR4AGESP](<@VR4AGESP.md>)

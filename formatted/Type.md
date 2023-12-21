@@ -5,12 +5,20 @@
 - **[Abstract](<Abstract.md>):** Cross Site Request Forgery (CSRF) on the main website for The OWASP Foundation. OWASP is a nonprofit foundation that works to improve the security of software.
 - **[Type](<Type.md>):**
 
+## [@5LSA872Y](<@5LSA872Y.md>)
+- **[Abstract](<Abstract.md>):** 了解關聯式資料庫的多個重要面向，並檢視 Amazon RDS 提供的關聯式資料庫引擎。
+- **[Type](<Type.md>):**
+
 ## [@6HGXA7MH](<@6HGXA7MH.md>)
 - **[Title](<Title.md>):** 实践 OAuth 2.0 时，使用不当可能会导致哪些安全漏洞？ | MRCODE-BOOK
 - **[Type](<Type.md>):**
 
 ## [@99V8R8XK](<@99V8R8XK.md>)
 - **[Abstract](<Abstract.md>):** Loads environment variables from .env file. Latest version: 16.3.1, last published: 6 months ago. Start using dotenv in your project by running `npm i dotenv`. There are 38778 other projects in the npm registry using dotenv.
+- **[Type](<Type.md>):**
+
+## [@9PPRIMZH](<@9PPRIMZH.md>)
+關聯模型由關聯資料結構、關聯操作集合、關聯完整性約束三部分組成。
 - **[Type](<Type.md>):**
 
 ## [@ALLLF49J](<@ALLLF49J.md>)
@@ -59,6 +67,10 @@
 
 ## [@U4IQDNUW](<@U4IQDNUW.md>)
 - **[Abstract](<Abstract.md>):** I want to thank Nat Sakimura for doing a version of this post in Japanese .   In some of the feedback I have gotten on the openID Connect sp...
+- **[Type](<Type.md>):**
+
+## [@UZ3LJ93K](<@UZ3LJ93K.md>)
+- **[Abstract](<Abstract.md>):** Learn the definition of a relational database and how it can help your business.
 - **[Type](<Type.md>):**
 
 ## [@VR4AGESP](<@VR4AGESP.md>)

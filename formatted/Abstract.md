@@ -5,8 +5,16 @@
 - **[Author(s)](<Author(s).md>):** KirstenS
 - **[Abstract](<Abstract.md>):**
 
+## [@5LSA872Y](<@5LSA872Y.md>)
+- **[Title](<Title.md>):** 什麼是關聯式資料庫？ – Amazon Web Services (AWS)
+- **[Abstract](<Abstract.md>):**
+
 ## [@99V8R8XK](<@99V8R8XK.md>)
 - **[Title](<Title.md>):** dotenv
+- **[Abstract](<Abstract.md>):**
+
+## [@9PPRIMZH](<@9PPRIMZH.md>)
+- **[Title](<Title.md>):** 关系数据库
 - **[Abstract](<Abstract.md>):**
 
 ## [@ALLLF49J](<@ALLLF49J.md>)
@@ -31,6 +39,10 @@
 
 ## [@U4IQDNUW](<@U4IQDNUW.md>)
 - **[Title](<Title.md>):** The problem with OAuth for Authentication.
+- **[Abstract](<Abstract.md>):**
+
+## [@UZ3LJ93K](<@UZ3LJ93K.md>)
+- **[Title](<Title.md>):** What is a relational database?
 - **[Abstract](<Abstract.md>):**
 
 ## [@VR4AGESP](<@VR4AGESP.md>)
