@@ -5,10 +5,19 @@
 - [grade](<grade.md>)
 
 ## [roam/memo](<roam/memo.md>)
+- **[repetitions](<repetitions.md>):** 1
+            - **[grade](<grade.md>):**
+
 - **[repetitions](<repetitions.md>):** 0
             - **[grade](<grade.md>):**
 
+- **[repetitions](<repetitions.md>):** 2
+            - **[grade](<grade.md>):**
+
 - **[repetitions](<repetitions.md>):** 1
+            - **[grade](<grade.md>):**
+
+- [December 22nd, 2023](<December 22nd, 2023.md>) 🔵
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 1
@@ -39,6 +48,9 @@
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 2
+            - **[grade](<grade.md>):**
+
+- **[repetitions](<repetitions.md>):** 1
             - **[grade](<grade.md>):**
 
 - **[repetitions](<repetitions.md>):** 1

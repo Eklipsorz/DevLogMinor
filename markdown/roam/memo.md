@@ -1,5 +1,11 @@
 - ### data
     - #Design 請問MVC軟體架構方式中的Controller會是甚麼?
+        - [[December 22nd, 2023]] 🔵
+            - nextDueDate:: [[December 23rd, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
         - [[December 21st, 2023]] 🟠
             - nextDueDate:: [[December 22nd, 2023]]
             - eFactor:: 2.1799999999999997
@@ -7,6 +13,12 @@
             - repetitions:: 0
             - grade:: 2
     - #DB 關聯式資料庫的外鍵關係之定義方式有哪些?
+        - [[December 22nd, 2023]] 🔵
+            - nextDueDate:: [[December 28th, 2023]]
+            - eFactor:: 2.5
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 4
         - [[December 21st, 2023]] 🔵
             - nextDueDate:: [[December 22nd, 2023]]
             - eFactor:: 2.5
@@ -14,6 +26,8 @@
             - repetitions:: 1
             - grade:: 4
     - #DB 關聯式資料庫的主鍵關係之定義方式有哪些?
+        - [[December 22nd, 2023]] 🔵
+            - grade:: 4
         - [[December 21st, 2023]] 🔵
             - nextDueDate:: [[December 22nd, 2023]]
             - eFactor:: 2.5
@@ -86,6 +100,12 @@
             - repetitions:: 1
             - grade:: 4
     - #Design 請問MVC軟體架構方式實際在Node專案會是如何? 
+        - [[December 22nd, 2023]] 🔵
+            - nextDueDate:: [[December 23rd, 2023]]
+            - eFactor:: 2.1799999999999997
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 4
         - [[December 21st, 2023]] 🟠
             - nextDueDate:: [[December 22nd, 2023]]
             - eFactor:: 2.1799999999999997
@@ -4206,9 +4226,9 @@
             - grade:: 4
 - ### cache
     - [[DB]]
-        - lastCompletedDate:: December 21st, 2023
+        - lastCompletedDate:: December 22nd, 2023
     - [[Design]]
-        - lastCompletedDate:: December 21st, 2023
+        - lastCompletedDate:: December 22nd, 2023
     - [[Test]]
         - lastCompletedDate:: December 1st, 2023
     - 🧠

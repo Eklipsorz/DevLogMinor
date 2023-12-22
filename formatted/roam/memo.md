@@ -1,5 +1,11 @@
 - ### data
     - [Design](<../Design.md>) 請問MVC軟體架構方式中的Controller會是甚麼?
+        - [December 22nd, 2023](<../December 22nd, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 23rd, 2023](<../December 23rd, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
         - [December 21st, 2023](<../December 21st, 2023.md>) 🟠
             - **[nextDueDate](<../nextDueDate.md>):** [December 22nd, 2023](<../December 22nd, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -7,6 +13,12 @@
             - **[repetitions](<../repetitions.md>):** 0
             - **[grade](<../grade.md>):** 2
     - [DB](<../DB.md>) 關聯式資料庫的外鍵關係之定義方式有哪些?
+        - [December 22nd, 2023](<../December 22nd, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 28th, 2023](<../December 28th, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.5
+            - **[interval](<../interval.md>):** 6
+            - **[repetitions](<../repetitions.md>):** 2
+            - **[grade](<../grade.md>):** 4
         - [December 21st, 2023](<../December 21st, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [December 22nd, 2023](<../December 22nd, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -14,6 +26,8 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [DB](<../DB.md>) 關聯式資料庫的主鍵關係之定義方式有哪些?
+        - [December 22nd, 2023](<../December 22nd, 2023.md>) 🔵
+            - **[grade](<../grade.md>):** 4
         - [December 21st, 2023](<../December 21st, 2023.md>) 🔵
             - **[nextDueDate](<../nextDueDate.md>):** [December 22nd, 2023](<../December 22nd, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.5
@@ -86,6 +100,12 @@
             - **[repetitions](<../repetitions.md>):** 1
             - **[grade](<../grade.md>):** 4
     - [Design](<../Design.md>) 請問MVC軟體架構方式實際在Node專案會是如何? 
+        - [December 22nd, 2023](<../December 22nd, 2023.md>) 🔵
+            - **[nextDueDate](<../nextDueDate.md>):** [December 23rd, 2023](<../December 23rd, 2023.md>)
+            - **[eFactor](<../eFactor.md>):** 2.1799999999999997
+            - **[interval](<../interval.md>):** 1
+            - **[repetitions](<../repetitions.md>):** 1
+            - **[grade](<../grade.md>):** 4
         - [December 21st, 2023](<../December 21st, 2023.md>) 🟠
             - **[nextDueDate](<../nextDueDate.md>):** [December 22nd, 2023](<../December 22nd, 2023.md>)
             - **[eFactor](<../eFactor.md>):** 2.1799999999999997
@@ -4206,9 +4226,9 @@
             - **[grade](<../grade.md>):** 4
 - ### cache
     - [DB](<../DB.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** December 21st, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** December 22nd, 2023
     - [Design](<../Design.md>)
-        - **[lastCompletedDate](<../lastCompletedDate.md>):** December 21st, 2023
+        - **[lastCompletedDate](<../lastCompletedDate.md>):** December 22nd, 2023
     - [Test](<../Test.md>)
         - **[lastCompletedDate](<../lastCompletedDate.md>):** December 1st, 2023
     - 🧠

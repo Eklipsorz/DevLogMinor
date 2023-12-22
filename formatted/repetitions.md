@@ -11,6 +11,12 @@
 - **[interval](<interval.md>):** 1
             - **[repetitions](<repetitions.md>):**
 
+- **[interval](<interval.md>):** 6
+            - **[repetitions](<repetitions.md>):**
+
+- **[interval](<interval.md>):** 1
+            - **[repetitions](<repetitions.md>):**
+
 - **[interval](<interval.md>):** 1
             - **[repetitions](<repetitions.md>):**
 
@@ -39,6 +45,9 @@
             - **[repetitions](<repetitions.md>):**
 
 - **[interval](<interval.md>):** 6
+            - **[repetitions](<repetitions.md>):**
+
+- **[interval](<interval.md>):** 1
             - **[repetitions](<repetitions.md>):**
 
 - **[interval](<interval.md>):** 1
