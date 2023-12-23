@@ -1,0 +1,5 @@
+- Title:: Answer to "Meaning of different command line prompts in PostgreSQL?"
+- Author(s):: HMLDude
+- Type:: Forum post
+- Source:: https://stackoverflow.com/a/19670850
+- Zotero link:: [Local library](zotero://select/library/items/FNF6UB2F)

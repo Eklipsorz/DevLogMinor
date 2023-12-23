@@ -33,6 +33,10 @@
 - **[Source](<Source.md>):** https://www.zhihu.com/question/336664883
 - **[Zotero link](<Zotero link.md>):**
 
+## [@FNF6UB2F](<@FNF6UB2F.md>)
+- **[Source](<Source.md>):** https://stackoverflow.com/a/19670850
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@IDTokenAccessa](<@IDTokenAccessa.md>)
 - **[Source](<Source.md>):** https://auth0.com/blog/id-token-access-token-what-is-the-difference/
 - **[Zotero link](<Zotero link.md>):**
