@@ -21,6 +21,10 @@
 - **[Title](<Title.md>):** What is the OAuth 2.0 Implicit Grant Type?
 - **[Abstract](<Abstract.md>):**
 
+## [@BLYWW7JR](<@BLYWW7JR.md>)
+- **[Title](<Title.md>):** What is an ORM – The Meaning of Object Relational Mapping Database Tools
+- **[Abstract](<Abstract.md>):**
+
 ## [@LinXinLiangNiDeRESTBuShiRESTa](<@LinXinLiangNiDeRESTBuShiRESTa.md>)
 - **[Author(s)](<Author(s).md>):** 林信良
 - **[Abstract](<Abstract.md>):**
@@ -31,6 +35,10 @@
 
 ## [@OAuth2023a](<@OAuth2023a.md>)
 - **[Title](<Title.md>):** OAuth
+- **[Abstract](<Abstract.md>):**
+
+## [@PYN5JQLG](<@PYN5JQLG.md>)
+- **[Title](<Title.md>):** 对象关系映射
 - **[Abstract](<Abstract.md>):**
 
 ## [@QMCUWFCL](<@QMCUWFCL.md>)
@@ -74,6 +82,10 @@
 - **[Abstract](<Abstract.md>):**
 
 ## [@wikidataPatchComputing2022a](<@wikidataPatchComputing2022a.md>)
+- **[Author(s)](<Author(s).md>):** WikiData
+- **[Abstract](<Abstract.md>):**
+
+## [@wikidataSQL2022a](<@wikidataSQL2022a.md>)
 - **[Author(s)](<Author(s).md>):** WikiData
 - **[Abstract](<Abstract.md>):**
 

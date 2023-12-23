@@ -18,6 +18,9 @@
 ## [@ALLLF49J](<@ALLLF49J.md>)
 - **[Title](<Title.md>):**
 
+## [@BLYWW7JR](<@BLYWW7JR.md>)
+- **[Title](<Title.md>):**
+
 ## [@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu](<@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu.md>)
 - **[Title](<Title.md>):**
 
@@ -40,6 +43,9 @@
 - **[Title](<Title.md>):**
 
 ## [@OpenIDConnectShiShiMoa](<@OpenIDConnectShiShiMoa.md>)
+- **[Title](<Title.md>):**
+
+## [@PYN5JQLG](<@PYN5JQLG.md>)
 - **[Title](<Title.md>):**
 
 ## [@QMCUWFCL](<@QMCUWFCL.md>)
@@ -85,5 +91,8 @@
 - **[Title](<Title.md>):**
 
 ## [@wikidataPatchComputing2022a](<@wikidataPatchComputing2022a.md>)
+- **[Title](<Title.md>):**
+
+## [@wikidataSQL2022a](<@wikidataSQL2022a.md>)
 - **[Title](<Title.md>):**
 

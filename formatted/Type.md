@@ -25,6 +25,10 @@
 - **[Abstract](<Abstract.md>):** The Implicit Grant Type is a way for a single-page JavaScript app to get an access token without an intermediate code exchange step. It was originally created for use by JavaScript apps (which don't have a way to safely store secrets) but is only recommended in specific situations.
 - **[Type](<Type.md>):**
 
+## [@BLYWW7JR](<@BLYWW7JR.md>)
+- **[Abstract](<Abstract.md>):** Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using
+- **[Type](<Type.md>):**
+
 ## [@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu](<@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu.md>)
 - **[Author(s)](<Author(s).md>):** 陈龙
 - **[Type](<Type.md>):**
@@ -55,6 +59,10 @@
 
 ## [@OpenIDConnectShiShiMoa](<@OpenIDConnectShiShiMoa.md>)
 - **[Title](<Title.md>):** OpenID Connect 是什麼？ | HENNGE Taiwan 部落格
+- **[Type](<Type.md>):**
+
+## [@PYN5JQLG](<@PYN5JQLG.md>)
+物件關聯對映成功運用在不同的物件導向持久層產品中，如：Torque，OJB，Hibernate，TopLink，Castor JDO，TJDO，Active Record，NHibernate，ADO.NET Entity Framework，ObjectiveSql等。
 - **[Type](<Type.md>):**
 
 ## [@QMCUWFCL](<@QMCUWFCL.md>)
@@ -115,6 +123,10 @@
 
 ## [@wikidataPatchComputing2022a](<@wikidataPatchComputing2022a.md>)
 - **[Abstract](<Abstract.md>):** A patch is a set of changes to a computer program or its supporting data designed to update, fix, or improve it. This includes fixing security vulnerabilities and other bugs, with such patches usually being called bugfixes or bug fixes. Patches are often written to improve the functionality, usability, or performance of a program. The majority of patches are provided by software vendors for operating system and application updates. Patches may be installed either under programmed control or by a human programmer using an editing tool or a debugger. They may be applied to program files on a storage device, or in computer memory. Patches may be permanent (until patched again) or temporary. Patching makes possible the modification of compiled and machine language object programs when the source code is unavailable. This demands a thorough understanding of the inner workings of the object code by the person creating the patch, which is difficult without close study of the source code. Someone unfamiliar with the program being patched may install a patch using a patch utility created by another person who is the Admin. Even when the source code is available, patching makes possible the installation of small changes to the object program without the need to recompile or reassemble. For minor changes to software, it is often easier and more economical to distribute patches to users rather than redistributing a newly recompiled or reassembled program. Although meant to fix problems, poorly designed patches can sometimes introduce new problems (see software regressions). In some special cases updates may knowingly break the functionality or disable a device, for instance, by removing components for which the update provider is no longer licensed. Patch management is a part of lifecycle management, and is the process of using a strategy and plan of what patches should be applied to which systems at a specified time.
+- **[Type](<Type.md>):**
+
+## [@wikidataSQL2022a](<@wikidataSQL2022a.md>)
+- **[Abstract](<Abstract.md>):** SQL ( (listen) S-Q-L, "sequel"; Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables. SQL offers two main advantages over older read–write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index. Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements, which may be informally classed as sublanguages, commonly: a data query language (DQL), a data definition language (DDL), a data control language (DCL), and a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. Although SQL is essentially a declarative language (4GL), it also includes procedural elements. SQL was one of the first commercial languages to use Edgar F. Codd’s relational model. The model was described in his influential 1970 paper, "A Relational Model of Data for Large Shared Data Banks". Despite not entirely adhering to the relational model as described by Codd, it became the most widely used database language.SQL became a standard of the American National Standards Institute (ANSI) in 1986 and of the International Organization for Standardization (ISO) in 1987. Since then, the standard has been revised to include a larger set of features. Despite the existence of standards, most SQL code requires at least some changes before being ported to different database systems.
 - **[Type](<Type.md>):**
 
 ## [Settings](<Settings.md>)

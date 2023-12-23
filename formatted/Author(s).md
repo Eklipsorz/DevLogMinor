@@ -57,6 +57,10 @@
 - **[Title](<Title.md>):** Patch (Computing)
 - **[Author(s)](<Author(s).md>):**
 
+## [@wikidataSQL2022a](<@wikidataSQL2022a.md>)
+- **[Title](<Title.md>):** SQL
+- **[Author(s)](<Author(s).md>):**
+
 ## [Settings](<Settings.md>)
 - [Author(s)](<Author(s).md>)
 

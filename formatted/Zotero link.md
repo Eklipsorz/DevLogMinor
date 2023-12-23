@@ -25,6 +25,10 @@
 - **[Source](<Source.md>):** https://developer.okta.com/blog/2018/05/24/what-is-the-oauth2-implicit-grant-type
 - **[Zotero link](<Zotero link.md>):**
 
+## [@BLYWW7JR](<@BLYWW7JR.md>)
+- **[Source](<Source.md>):** https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/
+- **[Zotero link](<Zotero link.md>):**
+
 ## [@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu](<@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu.md>)
 - **[Source](<Source.md>):** https://www.zhihu.com/question/336664883
 - **[Zotero link](<Zotero link.md>):**
@@ -55,6 +59,10 @@
 
 ## [@OpenIDConnectShiShiMoa](<@OpenIDConnectShiShiMoa.md>)
 - **[Source](<Source.md>):** https://hennge.com/tw/blog/what-is-openid-connect.html
+- **[Zotero link](<Zotero link.md>):**
+
+## [@PYN5JQLG](<@PYN5JQLG.md>)
+- **[Source](<Source.md>):** https://zh.wikipedia.org/w/index.php?title=%E5%AF%B9%E8%B1%A1%E5%85%B3%E7%B3%BB%E6%98%A0%E5%B0%84&oldid=76374536
 - **[Zotero link](<Zotero link.md>):**
 
 ## [@QMCUWFCL](<@QMCUWFCL.md>)
@@ -115,6 +123,10 @@
 
 ## [@wikidataPatchComputing2022a](<@wikidataPatchComputing2022a.md>)
 - **[Source](<Source.md>):** https://en.wikipedia.org/w/index.php?title=Patch_(computing)&oldid=1109048353
+- **[Zotero link](<Zotero link.md>):**
+
+## [@wikidataSQL2022a](<@wikidataSQL2022a.md>)
+- **[Source](<Source.md>):** https://en.wikipedia.org/w/index.php?title=SQL&oldid=1091503276
 - **[Zotero link](<Zotero link.md>):**
 
 ## [Settings](<Settings.md>)

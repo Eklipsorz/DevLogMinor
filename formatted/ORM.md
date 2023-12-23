@@ -1,9 +1,5 @@
-- > Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, [relational databases](https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/).
-- 
-- 
-- > **物件關聯對映**（英語：**Object Relational Mapping**，簡稱**ORM**，或**O/RM**，或**O/R mapping**），是一種[程式設計](https://zh.m.wikipedia.org/wiki/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88)技術，用於實現[物件導向](https://zh.m.wikipedia.org/wiki/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91)程式語言裡不同[類型系統](https://zh.m.wikipedia.org/wiki/%E9%A1%9E%E5%9E%8B%E7%B3%BB%E7%B5%B1)的資料之間的轉換。從效果上說，它其實是建立了一個可在程式語言裡使用的「虛擬[物件資料庫](https://zh.m.wikipedia.org/wiki/%E7%89%A9%E4%BB%B6%E8%B3%87%E6%96%99%E5%BA%AB)」。
-- 
-- 
-- 
-- ORM 完整名稱為Object Relational Mapping
-    - 具體為由程式語言構築出的虛擬資料庫和實體資料庫之間的對應關係，其關係可由程式語言來對應
+
+# Backlinks
+## [ORM 具體為由程式語言構築出的虛擬資料庫並與實體資料庫建立其對應關係](<ORM 具體為由程式語言構築出的虛擬資料庫並與實體資料庫建立其對應關係.md>)
+- tags: [ORM](<ORM.md>)
+

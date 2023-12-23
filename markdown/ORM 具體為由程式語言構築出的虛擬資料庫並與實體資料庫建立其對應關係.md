@@ -1,0 +1,31 @@
+- 
+- [[@BLYWW7JR]]
+- > Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, [relational databases](https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/).
+- 
+- [[@PYN5JQLG]]
+- > **物件關聯對映**（英語：**Object Relational Mapping**，簡稱**ORM**，或**O/RM**，或**O/R mapping**），是一種[程式設計](https://zh.m.wikipedia.org/wiki/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88)技術，用於實現[物件導向](https://zh.m.wikipedia.org/wiki/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91)程式語言裡不同[類型系統](https://zh.m.wikipedia.org/wiki/%E9%A1%9E%E5%9E%8B%E7%B3%BB%E7%B5%B1)的資料之間的轉換。從效果上說，它其實是建立了一個可在程式語言裡使用的「虛擬[物件資料庫](https://zh.m.wikipedia.org/wiki/%E7%89%A9%E4%BB%B6%E8%B3%87%E6%96%99%E5%BA%AB)」。
+- 
+- 
+- 
+- ORM 完整名稱為Object Relational Mapping
+    - 具體為由程式語言構築出的虛擬資料庫並與實體資料庫建立其對應關係，其對應方式可用該程式語言來從虛擬資料庫獲取對應實體資料庫下的資料
+- 
+- # 案例
+- 
+- sequelize :
+    - 主要面向JS或者TS來對實體資料庫進行對應
+- 
+- ---
+- #DB ORM 完整名稱為何?
+    - Object Relational Mapping
+- #DB ORM 是甚麼樣的技術?
+    - 具體為由特定程式語言所建構成的虛擬資料庫並與實體資料庫建立其對應關係，其對應方式可由該程式語言來從虛擬資料庫獲取對應實體資料庫下的資料
+- 
+- #DB 舉一個ORM成品
+    - sequelize
+- #DB sequelize 是面向於哪個語言來進行?
+    - TS、JS
+- 
+- ---
+- 
+- tags: [[ORM]] [[Database]]

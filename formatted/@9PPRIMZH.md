@@ -6,6 +6,6 @@
 - **[Zotero link](<Zotero link.md>):** [Local library](zotero://select/library/items/9PPRIMZH)
 
 # Backlinks
-## [關聯式資料庫](<關聯式資料庫.md>)
+## [關聯式資料庫是基於Relational Model而構築的資料庫，其Relational Model會是以一個表格或者關係(relation)來表示資料集合](<關聯式資料庫是基於Relational Model而構築的資料庫，其Relational Model會是以一個表格或者關係(relation)來表示資料集合.md>)
 - [@9PPRIMZH](<@9PPRIMZH.md>)
 

@@ -1,0 +1,17 @@
+- 
+- [@5LSA872Y](<@5LSA872Y.md>)
+- >　關聯式資料庫是一組資料項目，項目之間具有預先定義的關係。這些項目會整理成由直欄和橫列構成的一組表格。表格會儲存資料庫中所要表示的物件的相關資訊。表格的每一直欄儲存特定類型的資料，而每個欄位儲存某個屬性的實際數值。表格中的橫列代表一個物件或實體的一組相關數值。表格的每一橫列可以用稱為主索引鍵的唯一識別符加以標記，而多個表格之間的橫列可使用外部索引鍵建立關聯。您不需要重新整理資料庫表格，即可用許多不同方法存取這些資料。
+- [@9PPRIMZH](<@9PPRIMZH.md>)
+- > **關聯式資料庫**（英語：Relational database），是建立在[關聯模型](https://zh.wikipedia.org/wiki/%E5%85%B3%E7%B3%BB%E6%A8%A1%E5%9E%8B)基礎上的[資料庫](https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93)，藉助於[集合代數](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E4%BB%A3%E6%95%B0)等[數學](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6)概念和方法來處理資料庫中的資料。現實世界中的各種[實體](https://zh.wikipedia.org/wiki/%E5%AE%9E%E4%BD%93)以及實體之間的各種聯絡均用[關聯模型](https://zh.wikipedia.org/wiki/%E5%85%B3%E7%B3%BB%E6%A8%A1%E5%9E%8B)來表示。關聯模型是由[埃德加·科德](https://zh.wikipedia.org/wiki/%E5%9F%83%E5%BE%B7%E5%8A%A0%C2%B7%E7%A7%91%E5%BE%B7)於1970年首先提出的，並配合「[科德十二定律](https://zh.wikipedia.org/wiki/%E7%A7%91%E5%BE%B7%E5%8D%81%E4%BA%8C%E5%AE%9A%E5%BE%8B)」。現如今雖然對此模型有一些批評意見，但它還是資料儲存的傳統標準。標準資料查詢語言[SQL](https://zh.wikipedia.org/wiki/SQL)就是一種基於關聯式資料庫的語言，這種語言執行對關聯式資料庫中資料的檢索和操作。
+- 
+- [@UZ3LJ93K](<@UZ3LJ93K.md>)
+- > A relational database is a type of database that stores and provides access to data points that are related to one another. Relational [databases](https://www.oracle.com/database/what-is-database/) are based on the relational model, an intuitive, straightforward way of representing data in tables. In a relational database, each row in the table is a record with a unique ID called the key. The columns of the table hold attributes of the data, and each record usually has a value for each attribute, making it easy to establish the relationships among data points.
+- 
+- 重點:
+- - 關聯式資料庫是基於Relational Model而構築的資料庫，其Relational Model會是以一個表格或者關係(relation)來表示資料集合，資料集合中的每個元素或者每個tuple都存在著多個屬性資料，多個資料組成一個tuple是藉由特定條件所建立的笛卡爾積，在這裡的每個tuple都存在至少一個資料來表示其tuple的獨特性。
+- ---
+- [DB](<DB.md>) 關聯式資料庫為何叫做關聯式資料庫?
+    - 本身這種資料庫是基於Relational Model 而構築得的資料庫。在其Model下，資料庫是由一個表格或者稱為關係的資料結構來表示資料集合，一個資料集合的構成會是藉由特定條件下所建立的笛卡爾積，其資料集合中的每個元素或者每個tuple都存在著多個屬性資料，且會以至少一個屬性資料來表示自身tuple或者自身元件的獨特性
+- 
+- ---
+- tags: [Database](<Database.md>)

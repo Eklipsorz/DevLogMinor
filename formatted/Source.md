@@ -25,6 +25,10 @@
 - **[Type](<Type.md>):** Webpage
 - **[Source](<Source.md>):**
 
+## [@BLYWW7JR](<@BLYWW7JR.md>)
+- **[Type](<Type.md>):** Webpage
+- **[Source](<Source.md>):**
+
 ## [@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu](<@ChenLongWeiShiMereactHereactDomYaoFenChengLiangGeBaoZhiHu.md>)
 - **[Type](<Type.md>):** Webpage
 - **[Source](<Source.md>):**
@@ -55,6 +59,10 @@
 
 ## [@OpenIDConnectShiShiMoa](<@OpenIDConnectShiShiMoa.md>)
 - **[Type](<Type.md>):** Webpage
+- **[Source](<Source.md>):**
+
+## [@PYN5JQLG](<@PYN5JQLG.md>)
+- **[Type](<Type.md>):** Encyclopaedia article
 - **[Source](<Source.md>):**
 
 ## [@QMCUWFCL](<@QMCUWFCL.md>)
@@ -114,6 +122,10 @@
 - **[Source](<Source.md>):**
 
 ## [@wikidataPatchComputing2022a](<@wikidataPatchComputing2022a.md>)
+- **[Type](<Type.md>):** Encyclopaedia article
+- **[Source](<Source.md>):**
+
+## [@wikidataSQL2022a](<@wikidataSQL2022a.md>)
 - **[Type](<Type.md>):** Encyclopaedia article
 - **[Source](<Source.md>):**
 
