@@ -1,0 +1,5 @@
+- 
+- 
+- Definition: T(N) = O(F(N)) if there are positive constants c and n0 such that T(N) <= cF(N) when N >= n0
+- 
+- 
