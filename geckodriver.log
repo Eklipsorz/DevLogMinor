@@ -48376,3 +48376,77 @@ console.error: ({})
 (firefox:3392): GLib-GObject-CRITICAL **: 09:10:29.751: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1706605831110	Marionette	INFO	Stopped listening on port 43209
 [3439] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1706661478372	geckodriver	INFO	Listening on 127.0.0.1:39725
+1706661478897	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileThgIn5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1706661500245	Marionette	INFO	Marionette enabled
+1706661502915	Marionette	INFO	Listening on port 40389
+Read port: 40389
+1706661503412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 1900, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-DAy79y/firefox-122.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1900): GLib-GObject-CRITICAL **: 00:38:50.013: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1706661530226	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1706661531233	Marionette	INFO	Stopped listening on port 40389
+JavaScript warning: https://js.intercomcdn.com/frame.ba2bb771.js, line 2: Script terminated by timeout at:
+a@https://js.intercomcdn.com/frame.ba2bb771.js:2:75279
+
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: (new RemoteSettingsWorkerError("AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1706661532280	geckodriver	INFO	Listening on 127.0.0.1:45545
+1706661533286	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilen0LbNG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1706661533496	Marionette	INFO	Marionette enabled
+1706661533554	Marionette	INFO	Listening on port 42473
+Read port: 42473
+1706661533711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2605, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-DAy79y/firefox-122.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:2605): GLib-GObject-CRITICAL **: 00:39:11.529: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1706661552808	Marionette	INFO	Stopped listening on port 42473
+JavaScript warning: https://js.intercomcdn.com/frame.ba2bb771.js, line 2: Script terminated by timeout at:
+a@https://js.intercomcdn.com/frame.ba2bb771.js:2:75279
+
+[2653] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1706661553403	geckodriver	INFO	Listening on 127.0.0.1:57625
+1706661554409	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileWBHyeJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1706661554615	Marionette	INFO	Marionette enabled
+1706661554673	Marionette	INFO	Listening on port 46045
+Read port: 46045
+1706661554831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 3814, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-DAy79y/firefox-122.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:3814): GLib-GObject-CRITICAL **: 00:39:31.054: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1706661572523	Marionette	INFO	Stopped listening on port 46045
+JavaScript warning: https://js.intercomcdn.com/frame.ba2bb771.js, line 2: Script terminated by timeout at:
+a@https://js.intercomcdn.com/frame.ba2bb771.js:2:75279
+
+[3861] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
